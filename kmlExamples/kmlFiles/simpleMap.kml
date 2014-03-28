@@ -1,0 +1,747 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+    <Document>
+        <Folder>
+            <open>0</open>
+            <name><![CDATA[Projects]]></name>
+            <Folder>
+                <open>0</open>
+                <name><![CDATA[Roadway]]></name>
+                <Folder>
+                    <open>0</open>
+                    <Snippet maxLines="0"> </Snippet>
+                    <name><![CDATA[sw-1/sw-5]]></name>
+                    <Placemark>
+                        <name><![CDATA[sw-1/sw-5]]></name>
+                        <Snippet maxLines="0"> </Snippet>
+                        <description><![CDATA[<a name="JR_PAGE_ANCHOR_0_1"></a>
+<table style="width: 420px; empty-cells: show" cellpadding="0" cellspacing="0" border="0" bgcolor="white">
+<tr>
+  <td style="width: 12px; height: 1px;"></td>
+  <td style="width: 68px; height: 1px;"></td>
+  <td style="width: 252px; height: 1px;"></td>
+  <td style="width: 41px; height: 1px;"></td>
+  <td style="width: 47px; height: 1px;"></td>
+</tr>
+<tr valign="top">
+  <td style="width: 12px; height: 14px;"></td>
+  <td><span style="font-family: Arial; color: #000000; font-size: 12.0px;">Owner :</span></td>
+  <td colspan="2"><span style="font-family: Arial; color: #000000; font-size: 12.0px;">Envista Demo Organization</span></td>
+  <td style="width: 47px; height: 14px;"></td>
+</tr>
+<tr valign="top">
+  <td style="width: 12px; height: 14px;"></td>
+  <td><span style="font-family: Arial; color: #000000; font-size: 12.0px;">Dates :</span></td>
+  <td colspan="2"><span style="font-family: Arial; color: #000000; font-size: 12.0px;">08/12/2010 - 10/03/2019</span></td>
+  <td style="width: 47px; height: 14px;"></td>
+</tr>
+</table>
+
+]]></description>
+                        <styleUrl>#ff656a69LineString</styleUrl>
+                        <LineString>
+                            <coordinates>-70.8796558999999,42.5493295000001,0
+-70.8782299999999,42.5489900000001,0
+-70.8783599999999,42.5488300000001,0
+-70.8776599999999,42.5486100000001,0
+-70.8773093586808,42.5485128993474,0
+</coordinates>
+                        </LineString>
+                    </Placemark>
+                    <Placemark>
+                        <name><![CDATA[sw-1/sw-5]]></name>
+                        <Snippet maxLines="0"> </Snippet>
+                        <description><![CDATA[<a name="JR_PAGE_ANCHOR_0_1"></a>
+<table style="width: 420px; empty-cells: show" cellpadding="0" cellspacing="0" border="0" bgcolor="white">
+<tr>
+  <td style="width: 12px; height: 1px;"></td>
+  <td style="width: 68px; height: 1px;"></td>
+  <td style="width: 252px; height: 1px;"></td>
+  <td style="width: 41px; height: 1px;"></td>
+  <td style="width: 47px; height: 1px;"></td>
+</tr>
+<tr valign="top">
+  <td style="width: 12px; height: 14px;"></td>
+  <td><span style="font-family: Arial; color: #000000; font-size: 12.0px;">Owner :</span></td>
+  <td colspan="2"><span style="font-family: Arial; color: #000000; font-size: 12.0px;">Envista Demo Organization</span></td>
+  <td style="width: 47px; height: 14px;"></td>
+</tr>
+<tr valign="top">
+  <td style="width: 12px; height: 14px;"></td>
+  <td><span style="font-family: Arial; color: #000000; font-size: 12.0px;">Dates :</span></td>
+  <td colspan="2"><span style="font-family: Arial; color: #000000; font-size: 12.0px;">08/12/2010 - 10/03/2019</span></td>
+  <td style="width: 47px; height: 14px;"></td>
+</tr>
+</table>
+
+]]></description>
+                        <styleUrl>#ff656a69p_roa.png</styleUrl>
+                        <Point>
+                            <coordinates>-70.8783088018423,42.5490087623435</coordinates>
+                        </Point>
+                    </Placemark>
+                </Folder>
+                <Folder>
+                    <open>0</open>
+                    <Snippet maxLines="0"> </Snippet>
+                    <name><![CDATA[test_conflict24/test_conflict24]]></name>
+                    <Placemark>
+                        <name><![CDATA[test_conflict24/test_conflict24]]></name>
+                        <Snippet maxLines="0"> </Snippet>
+                        <description><![CDATA[<a name="JR_PAGE_ANCHOR_0_1"></a>
+<table style="width: 420px; empty-cells: show" cellpadding="0" cellspacing="0" border="0" bgcolor="white">
+<tr>
+  <td style="width: 12px; height: 1px;"></td>
+  <td style="width: 68px; height: 1px;"></td>
+  <td style="width: 252px; height: 1px;"></td>
+  <td style="width: 41px; height: 1px;"></td>
+  <td style="width: 47px; height: 1px;"></td>
+</tr>
+<tr valign="top">
+  <td style="width: 12px; height: 14px;"></td>
+  <td><span style="font-family: Arial; color: #000000; font-size: 12.0px;">Owner :</span></td>
+  <td colspan="2"><span style="font-family: Arial; color: #000000; font-size: 12.0px;">Envista Demo Organization</span></td>
+  <td style="width: 47px; height: 14px;"></td>
+</tr>
+<tr valign="top">
+  <td style="width: 12px; height: 14px;"></td>
+  <td><span style="font-family: Arial; color: #000000; font-size: 12.0px;">Dates :</span></td>
+  <td colspan="2"><span style="font-family: Arial; color: #000000; font-size: 12.0px;">06/30/2005 - 06/30/2015</span></td>
+  <td style="width: 47px; height: 14px;"></td>
+</tr>
+</table>
+
+]]></description>
+                        <styleUrl>#ff656a69LineString</styleUrl>
+                        <LineString>
+                            <coordinates>-70.8824256561086,42.5493037414657,0
+-70.8835999999999,42.54954,0
+-70.8838,42.5487600000001,0
+-70.8846899999999,42.5488000000001,0
+-70.8838,42.5487600000001,0
+-70.8835999999999,42.54954,0
+-70.8819099999999,42.5492,0
+-70.8816691376583,42.5491452585588,0
+-70.88103,42.549,0
+-70.8810099999999,42.5489800000001,0
+-70.8809999999999,42.5489200000001,0
+-70.88103,42.5486900000001,0
+-70.8805399999999,42.5486200000001,0
+-70.8800199999999,42.54855,0
+-70.8795999999999,42.5484700000001,0
+-70.8791199999999,42.5483800000001,0
+-70.8790963498287,42.5483729049487,0
+-70.8787199999999,42.5482600000001,0
+-70.8785199999999,42.5486200000001,0
+-70.8783599999999,42.5488300000001,0
+-70.8782299999999,42.5489900000001,0
+-70.8779799999999,42.5494100000001,0
+-70.8778999999999,42.5496200000001,0
+-70.8778699999999,42.5498400000001,0
+-70.8778699999999,42.5500600000001,0
+-70.8779099999999,42.5502900000001,0
+-70.8779805465663,42.550454608655,0
+</coordinates>
+                        </LineString>
+                    </Placemark>
+                    <Placemark>
+                        <name><![CDATA[test_conflict24/test_conflict24]]></name>
+                        <Snippet maxLines="0"> </Snippet>
+                        <description><![CDATA[<a name="JR_PAGE_ANCHOR_0_1"></a>
+<table style="width: 420px; empty-cells: show" cellpadding="0" cellspacing="0" border="0" bgcolor="white">
+<tr>
+  <td style="width: 12px; height: 1px;"></td>
+  <td style="width: 68px; height: 1px;"></td>
+  <td style="width: 252px; height: 1px;"></td>
+  <td style="width: 41px; height: 1px;"></td>
+  <td style="width: 47px; height: 1px;"></td>
+</tr>
+<tr valign="top">
+  <td style="width: 12px; height: 14px;"></td>
+  <td><span style="font-family: Arial; color: #000000; font-size: 12.0px;">Owner :</span></td>
+  <td colspan="2"><span style="font-family: Arial; color: #000000; font-size: 12.0px;">Envista Demo Organization</span></td>
+  <td style="width: 47px; height: 14px;"></td>
+</tr>
+<tr valign="top">
+  <td style="width: 12px; height: 14px;"></td>
+  <td><span style="font-family: Arial; color: #000000; font-size: 12.0px;">Dates :</span></td>
+  <td colspan="2"><span style="font-family: Arial; color: #000000; font-size: 12.0px;">06/30/2005 - 06/30/2015</span></td>
+  <td style="width: 47px; height: 14px;"></td>
+</tr>
+</table>
+
+]]></description>
+                        <styleUrl>#ff656a69p_roa.png</styleUrl>
+                        <Point>
+                            <coordinates>-70.8805430561435,42.548620436592</coordinates>
+                        </Point>
+                    </Placemark>
+                </Folder>
+                <Folder>
+                    <open>0</open>
+                    <Snippet maxLines="0"> </Snippet>
+                    <name><![CDATA[test_123/test_123]]></name>
+                    <Placemark>
+                        <name><![CDATA[test_123/test_123]]></name>
+                        <Snippet maxLines="0"> </Snippet>
+                        <description><![CDATA[<a name="JR_PAGE_ANCHOR_0_1"></a>
+<table style="width: 420px; empty-cells: show" cellpadding="0" cellspacing="0" border="0" bgcolor="white">
+<tr>
+  <td style="width: 12px; height: 1px;"></td>
+  <td style="width: 68px; height: 1px;"></td>
+  <td style="width: 252px; height: 1px;"></td>
+  <td style="width: 41px; height: 1px;"></td>
+  <td style="width: 47px; height: 1px;"></td>
+</tr>
+<tr valign="top">
+  <td style="width: 12px; height: 14px;"></td>
+  <td><span style="font-family: Arial; color: #000000; font-size: 12.0px;">Owner :</span></td>
+  <td colspan="2"><span style="font-family: Arial; color: #000000; font-size: 12.0px;">Envista Demo Organization</span></td>
+  <td style="width: 47px; height: 14px;"></td>
+</tr>
+<tr valign="top">
+  <td style="width: 12px; height: 14px;"></td>
+  <td><span style="font-family: Arial; color: #000000; font-size: 12.0px;">Dates :</span></td>
+  <td colspan="2"><span style="font-family: Arial; color: #000000; font-size: 12.0px;">06/19/2010 - 06/18/2011</span></td>
+  <td style="width: 47px; height: 14px;"></td>
+</tr>
+</table>
+
+]]></description>
+                        <styleUrl>#ff656a69LineString</styleUrl>
+                        <LineString>
+                            <coordinates>-70.8829505877428,42.5487507672581,0
+-70.8828799999999,42.54875,0
+-70.8819099999999,42.5487200000001,0
+-70.88103,42.5486900000001,0
+-70.8805399999999,42.5486200000001,0
+-70.8800199999999,42.54855,0
+-70.8795999999999,42.5484700000001,0
+-70.8791199999999,42.5483800000001,0
+-70.8787199999999,42.5482600000001,0
+-70.8788799999999,42.54794,0
+-70.8790799999999,42.5475500000001,0
+-70.8793499999999,42.54706,0
+-70.8795099999999,42.54677,0
+-70.8795599999999,42.5467,0
+-70.8799699999999,42.5461000000001,0
+-70.8801499999999,42.5458400000001,0
+-70.8786799999999,42.54499,0
+-70.8780399999999,42.5446000000001,0
+-70.8763099999999,42.5436300000001,0
+-70.87585033335,42.5440830999836,0
+</coordinates>
+                        </LineString>
+                    </Placemark>
+                    <Placemark>
+                        <name><![CDATA[test_123/test_123]]></name>
+                        <Snippet maxLines="0"> </Snippet>
+                        <description><![CDATA[<a name="JR_PAGE_ANCHOR_0_1"></a>
+<table style="width: 420px; empty-cells: show" cellpadding="0" cellspacing="0" border="0" bgcolor="white">
+<tr>
+  <td style="width: 12px; height: 1px;"></td>
+  <td style="width: 68px; height: 1px;"></td>
+  <td style="width: 252px; height: 1px;"></td>
+  <td style="width: 41px; height: 1px;"></td>
+  <td style="width: 47px; height: 1px;"></td>
+</tr>
+<tr valign="top">
+  <td style="width: 12px; height: 14px;"></td>
+  <td><span style="font-family: Arial; color: #000000; font-size: 12.0px;">Owner :</span></td>
+  <td colspan="2"><span style="font-family: Arial; color: #000000; font-size: 12.0px;">Envista Demo Organization</span></td>
+  <td style="width: 47px; height: 14px;"></td>
+</tr>
+<tr valign="top">
+  <td style="width: 12px; height: 14px;"></td>
+  <td><span style="font-family: Arial; color: #000000; font-size: 12.0px;">Dates :</span></td>
+  <td colspan="2"><span style="font-family: Arial; color: #000000; font-size: 12.0px;">06/19/2010 - 06/18/2011</span></td>
+  <td style="width: 47px; height: 14px;"></td>
+</tr>
+</table>
+
+]]></description>
+                        <styleUrl>#ff656a69p_roa.png</styleUrl>
+                        <Point>
+                            <coordinates>-70.879375274309,42.5470141903149</coordinates>
+                        </Point>
+                    </Placemark>
+                </Folder>
+                <Folder>
+                    <open>0</open>
+                    <Snippet maxLines="0"> </Snippet>
+                    <name><![CDATA[testconf3/testconf3]]></name>
+                    <Placemark>
+                        <name><![CDATA[testconf3/testconf3]]></name>
+                        <Snippet maxLines="0"> </Snippet>
+                        <description><![CDATA[<a name="JR_PAGE_ANCHOR_0_1"></a>
+<table style="width: 420px; empty-cells: show" cellpadding="0" cellspacing="0" border="0" bgcolor="white">
+<tr>
+  <td style="width: 12px; height: 1px;"></td>
+  <td style="width: 68px; height: 1px;"></td>
+  <td style="width: 252px; height: 1px;"></td>
+  <td style="width: 41px; height: 1px;"></td>
+  <td style="width: 47px; height: 1px;"></td>
+</tr>
+<tr valign="top">
+  <td style="width: 12px; height: 14px;"></td>
+  <td><span style="font-family: Arial; color: #000000; font-size: 12.0px;">Owner :</span></td>
+  <td colspan="2"><span style="font-family: Arial; color: #000000; font-size: 12.0px;">Envista Demo Organization</span></td>
+  <td style="width: 47px; height: 14px;"></td>
+</tr>
+<tr valign="top">
+  <td style="width: 12px; height: 14px;"></td>
+  <td><span style="font-family: Arial; color: #000000; font-size: 12.0px;">Dates :</span></td>
+  <td colspan="2"><span style="font-family: Arial; color: #000000; font-size: 12.0px;">03/01/2008 - 03/31/2015</span></td>
+  <td style="width: 47px; height: 14px;"></td>
+</tr>
+</table>
+
+]]></description>
+                        <styleUrl>#ff656a69LineString</styleUrl>
+                        <LineString>
+                            <coordinates>-70.892876039099,42.5558066807785,0
+-70.8923899999999,42.5559500000001,0
+-70.8915399999999,42.5562400000001,0
+-70.8910599999999,42.5563700000001,0
+-70.8901399999999,42.55654,0
+-70.8896399999999,42.55663,0
+-70.8891699999999,42.5566800000001,0
+-70.8887699999999,42.5567,0
+-70.8882299999999,42.55661,0
+-70.8878599999999,42.55652,0
+-70.8875099999999,42.5564200000001,0
+-70.8870099999999,42.55627,0
+-70.88542,42.5557400000001,0
+</coordinates>
+                        </LineString>
+                    </Placemark>
+                    <Placemark>
+                        <name><![CDATA[testconf3/testconf3]]></name>
+                        <Snippet maxLines="0"> </Snippet>
+                        <description><![CDATA[<a name="JR_PAGE_ANCHOR_0_1"></a>
+<table style="width: 420px; empty-cells: show" cellpadding="0" cellspacing="0" border="0" bgcolor="white">
+<tr>
+  <td style="width: 12px; height: 1px;"></td>
+  <td style="width: 68px; height: 1px;"></td>
+  <td style="width: 252px; height: 1px;"></td>
+  <td style="width: 41px; height: 1px;"></td>
+  <td style="width: 47px; height: 1px;"></td>
+</tr>
+<tr valign="top">
+  <td style="width: 12px; height: 14px;"></td>
+  <td><span style="font-family: Arial; color: #000000; font-size: 12.0px;">Owner :</span></td>
+  <td colspan="2"><span style="font-family: Arial; color: #000000; font-size: 12.0px;">Envista Demo Organization</span></td>
+  <td style="width: 47px; height: 14px;"></td>
+</tr>
+<tr valign="top">
+  <td style="width: 12px; height: 14px;"></td>
+  <td><span style="font-family: Arial; color: #000000; font-size: 12.0px;">Dates :</span></td>
+  <td colspan="2"><span style="font-family: Arial; color: #000000; font-size: 12.0px;">03/01/2008 - 03/31/2015</span></td>
+  <td style="width: 47px; height: 14px;"></td>
+</tr>
+</table>
+
+]]></description>
+                        <styleUrl>#ff656a69p_roa.png</styleUrl>
+                        <Point>
+                            <coordinates>-70.8891338591599,42.5566818070421</coordinates>
+                        </Point>
+                    </Placemark>
+                </Folder>
+                <Folder>
+                    <open>0</open>
+                    <Snippet maxLines="0"> </Snippet>
+                    <name><![CDATA[ac_test_prj1/ac_test_prj1]]></name>
+                    <Placemark>
+                        <name><![CDATA[ac_test_prj1/ac_test_prj1]]></name>
+                        <Snippet maxLines="0"> </Snippet>
+                        <description><![CDATA[<a name="JR_PAGE_ANCHOR_0_1"></a>
+<table style="width: 420px; empty-cells: show" cellpadding="0" cellspacing="0" border="0" bgcolor="white">
+<tr>
+  <td style="width: 12px; height: 1px;"></td>
+  <td style="width: 68px; height: 1px;"></td>
+  <td style="width: 252px; height: 1px;"></td>
+  <td style="width: 41px; height: 1px;"></td>
+  <td style="width: 47px; height: 1px;"></td>
+</tr>
+<tr valign="top">
+  <td style="width: 12px; height: 14px;"></td>
+  <td><span style="font-family: Arial; color: #000000; font-size: 12.0px;">Owner :</span></td>
+  <td colspan="2"><span style="font-family: Arial; color: #000000; font-size: 12.0px;">Envista Demo Organization</span></td>
+  <td style="width: 47px; height: 14px;"></td>
+</tr>
+<tr valign="top">
+  <td style="width: 12px; height: 14px;"></td>
+  <td><span style="font-family: Arial; color: #000000; font-size: 12.0px;">Dates :</span></td>
+  <td colspan="2"><span style="font-family: Arial; color: #000000; font-size: 12.0px;">02/05/2011 - 09/23/2011</span></td>
+  <td style="width: 47px; height: 14px;"></td>
+</tr>
+</table>
+
+]]></description>
+                        <styleUrl>#ff656a69LineString</styleUrl>
+                        <LineString>
+                            <coordinates>-70.8767799999999,42.5512700000001,0
+-70.8760499999999,42.5510100000001,0
+-70.8746799999999,42.55035,0
+-70.8739199999999,42.5499800000001,0
+-70.8733099999999,42.54972,0
+-70.8740899999999,42.5494,0
+-70.8748299999999,42.54904,0
+-70.8752599999999,42.5488500000001,0
+-70.8756299999999,42.5487100000001,0
+-70.8761399999999,42.5485200000001,0
+-70.8764999999999,42.54837,0
+-70.8766899999999,42.54837,0
+-70.8770099999999,42.5484300000001,0
+-70.8773349999999,42.5485200000001,0
+</coordinates>
+                        </LineString>
+                    </Placemark>
+                    <Placemark>
+                        <name><![CDATA[ac_test_prj1/ac_test_prj1]]></name>
+                        <Snippet maxLines="0"> </Snippet>
+                        <description><![CDATA[<a name="JR_PAGE_ANCHOR_0_1"></a>
+<table style="width: 420px; empty-cells: show" cellpadding="0" cellspacing="0" border="0" bgcolor="white">
+<tr>
+  <td style="width: 12px; height: 1px;"></td>
+  <td style="width: 68px; height: 1px;"></td>
+  <td style="width: 252px; height: 1px;"></td>
+  <td style="width: 41px; height: 1px;"></td>
+  <td style="width: 47px; height: 1px;"></td>
+</tr>
+<tr valign="top">
+  <td style="width: 12px; height: 14px;"></td>
+  <td><span style="font-family: Arial; color: #000000; font-size: 12.0px;">Owner :</span></td>
+  <td colspan="2"><span style="font-family: Arial; color: #000000; font-size: 12.0px;">Envista Demo Organization</span></td>
+  <td style="width: 47px; height: 14px;"></td>
+</tr>
+<tr valign="top">
+  <td style="width: 12px; height: 14px;"></td>
+  <td><span style="font-family: Arial; color: #000000; font-size: 12.0px;">Dates :</span></td>
+  <td colspan="2"><span style="font-family: Arial; color: #000000; font-size: 12.0px;">02/05/2011 - 09/23/2011</span></td>
+  <td style="width: 47px; height: 14px;"></td>
+</tr>
+</table>
+
+]]></description>
+                        <styleUrl>#ff656a69p_roa.png</styleUrl>
+                        <Point>
+                            <coordinates>-70.8749780180586,42.5489745966718</coordinates>
+                        </Point>
+                    </Placemark>
+                </Folder>
+                <Folder>
+                    <open>0</open>
+                    <Snippet maxLines="0"> </Snippet>
+                    <name><![CDATA[ac_formor/ac_formor]]></name>
+                    <Placemark>
+                        <name><![CDATA[ac_formor/ac_formor]]></name>
+                        <Snippet maxLines="0"> </Snippet>
+                        <description><![CDATA[<a name="JR_PAGE_ANCHOR_0_1"></a>
+<table style="width: 420px; empty-cells: show" cellpadding="0" cellspacing="0" border="0" bgcolor="white">
+<tr>
+  <td style="width: 12px; height: 1px;"></td>
+  <td style="width: 68px; height: 1px;"></td>
+  <td style="width: 252px; height: 1px;"></td>
+  <td style="width: 41px; height: 1px;"></td>
+  <td style="width: 47px; height: 1px;"></td>
+</tr>
+<tr valign="top">
+  <td style="width: 12px; height: 14px;"></td>
+  <td><span style="font-family: Arial; color: #000000; font-size: 12.0px;">Owner :</span></td>
+  <td colspan="2"><span style="font-family: Arial; color: #000000; font-size: 12.0px;">Envista Demo Organization</span></td>
+  <td style="width: 47px; height: 14px;"></td>
+</tr>
+<tr valign="top">
+  <td style="width: 12px; height: 14px;"></td>
+  <td><span style="font-family: Arial; color: #000000; font-size: 12.0px;">Dates :</span></td>
+  <td><span style="font-family: Arial; color: #000000; font-size: 12.0px;">01/12/2011 - 03/14/2011</span></td>
+  <td style="width: 47px; height: 14px;"></td>
+</tr>
+</table>
+
+]]></description>
+                        <styleUrl>#ff656a69LineString</styleUrl>
+                        <LineString>
+                            <coordinates>-70.8809266666698,42.5505599999924,0
+-70.88076,42.5509600000001,0
+-70.8810799999999,42.5510500000001,0
+-70.8820999999999,42.55127,0
+-70.8821816054537,42.5510585676881,0
+</coordinates>
+                        </LineString>
+                    </Placemark>
+                    <Placemark>
+                        <name><![CDATA[ac_formor/ac_formor]]></name>
+                        <Snippet maxLines="0"> </Snippet>
+                        <description><![CDATA[<a name="JR_PAGE_ANCHOR_0_1"></a>
+<table style="width: 420px; empty-cells: show" cellpadding="0" cellspacing="0" border="0" bgcolor="white">
+<tr>
+  <td style="width: 12px; height: 1px;"></td>
+  <td style="width: 68px; height: 1px;"></td>
+  <td style="width: 252px; height: 1px;"></td>
+  <td style="width: 41px; height: 1px;"></td>
+  <td style="width: 47px; height: 1px;"></td>
+</tr>
+<tr valign="top">
+  <td style="width: 12px; height: 14px;"></td>
+  <td><span style="font-family: Arial; color: #000000; font-size: 12.0px;">Owner :</span></td>
+  <td colspan="2"><span style="font-family: Arial; color: #000000; font-size: 12.0px;">Envista Demo Organization</span></td>
+  <td style="width: 47px; height: 14px;"></td>
+</tr>
+<tr valign="top">
+  <td style="width: 12px; height: 14px;"></td>
+  <td><span style="font-family: Arial; color: #000000; font-size: 12.0px;">Dates :</span></td>
+  <td colspan="2"><span style="font-family: Arial; color: #000000; font-size: 12.0px;">01/12/2011 - 03/14/2011</span></td>
+  <td style="width: 47px; height: 14px;"></td>
+</tr>
+</table>
+
+]]></description>
+                        <styleUrl>#ff656a69p_roa.png</styleUrl>
+                        <Point>
+                            <coordinates>-70.881326501826,42.5511031670606</coordinates>
+                        </Point>
+                    </Placemark>
+                </Folder>
+            </Folder>
+            <Folder>
+                <open>0</open>
+                <name><![CDATA[Transit]]></name>
+                <Folder>
+                    <open>0</open>
+                    <Snippet maxLines="0"> </Snippet>
+                    <name><![CDATA[P1/P1]]></name>
+                    <Placemark>
+                        <name><![CDATA[P1/P1]]></name>
+                        <Snippet maxLines="0"> </Snippet>
+                        <description><![CDATA[<a name="JR_PAGE_ANCHOR_0_1"></a>
+<table style="width: 420px; empty-cells: show" cellpadding="0" cellspacing="0" border="0" bgcolor="white">
+<tr>
+  <td style="width: 12px; height: 1px;"></td>
+  <td style="width: 68px; height: 1px;"></td>
+  <td style="width: 252px; height: 1px;"></td>
+  <td style="width: 41px; height: 1px;"></td>
+  <td style="width: 47px; height: 1px;"></td>
+</tr>
+<tr valign="top">
+  <td style="width: 12px; height: 14px;"></td>
+  <td><span style="font-family: Arial; color: #000000; font-size: 12.0px;">Owner :</span></td>
+  <td colspan="2"><span style="font-family: Arial; color: #000000; font-size: 12.0px;">Envista Demo Organization</span></td>
+  <td style="width: 47px; height: 14px;"></td>
+</tr>
+<tr valign="top">
+  <td style="width: 12px; height: 14px;"></td>
+  <td><span style="font-family: Arial; color: #000000; font-size: 12.0px;">Dates :</span></td>
+  <td colspan="2"><span style="font-family: Arial; color: #000000; font-size: 12.0px;">01/28/2011 - 12/31/2011</span></td>
+  <td style="width: 47px; height: 14px;"></td>
+</tr>
+</table>
+
+]]></description>
+                        <styleUrl>#ffeed49fPolygon</styleUrl>
+                        <Polygon>
+                            <outerBoundaryIs>
+                                <LinearRing>
+                                    <coordinates>-70.8795099999999,42.54677,0
+-70.8793499999999,42.54706,0
+-70.8790799999999,42.5475500000001,0
+-70.8788799999999,42.54794,0
+-70.8792499999999,42.5480200000001,0
+-70.87968,42.54805,0
+-70.8804699999999,42.5481500000001,0
+-70.8809326217195,42.5481849148468,0
+-70.8809999999999,42.54819,0
+-70.8815599999999,42.5482200000001,0
+-70.8819399999999,42.5482000000001,0
+-70.8825099999999,42.5482000000001,0
+-70.8832899999999,42.54821,0
+-70.8839399999999,42.5482200000001,0
+-70.88416,42.5473700000001,0
+-70.8843199999999,42.54677,0
+-70.8832299999999,42.5467400000001,0
+-70.8828899999999,42.5467300000001,0
+-70.8823599999999,42.5467200000001,0
+-70.8822199999999,42.5467100000001,0
+-70.8817699999999,42.5466200000001,0
+-70.8808299999999,42.5464400000001,0
+-70.8807699999999,42.54688,0
+-70.8795599999999,42.5467,0
+-70.8795099999999,42.54677,0
+</coordinates>
+                                </LinearRing>
+                            </outerBoundaryIs>
+                        </Polygon>
+                    </Placemark>
+                    <Placemark>
+                        <name><![CDATA[P1/P1]]></name>
+                        <Snippet maxLines="0"> </Snippet>
+                        <description><![CDATA[<a name="JR_PAGE_ANCHOR_0_1"></a>
+<table style="width: 420px; empty-cells: show" cellpadding="0" cellspacing="0" border="0" bgcolor="white">
+<tr>
+  <td style="width: 12px; height: 1px;"></td>
+  <td style="width: 68px; height: 1px;"></td>
+  <td style="width: 252px; height: 1px;"></td>
+  <td style="width: 41px; height: 1px;"></td>
+  <td style="width: 47px; height: 1px;"></td>
+</tr>
+<tr valign="top">
+  <td style="width: 12px; height: 14px;"></td>
+  <td><span style="font-family: Arial; color: #000000; font-size: 12.0px;">Owner :</span></td>
+  <td colspan="2"><span style="font-family: Arial; color: #000000; font-size: 12.0px;">Envista Demo Organization</span></td>
+  <td style="width: 47px; height: 14px;"></td>
+</tr>
+<tr valign="top">
+  <td style="width: 12px; height: 14px;"></td>
+  <td><span style="font-family: Arial; color: #000000; font-size: 12.0px;">Dates :</span></td>
+  <td colspan="2"><span style="font-family: Arial; color: #000000; font-size: 12.0px;">01/28/2011 - 12/31/2011</span></td>
+  <td style="width: 47px; height: 14px;"></td>
+</tr>
+</table>
+
+]]></description>
+                        <styleUrl>#ffeed49fp_tra.png</styleUrl>
+                        <Point>
+                            <coordinates>-70.8817043750273,42.5474099174152</coordinates>
+                        </Point>
+                    </Placemark>
+                </Folder>
+            </Folder>
+            <Folder>
+                <open>0</open>
+                <name><![CDATA[Water]]></name>
+                <Folder>
+                    <open>0</open>
+                    <Snippet maxLines="0"> </Snippet>
+                    <name><![CDATA[jsmith002/Bancroft Ave Water Main]]></name>
+                    <Placemark>
+                        <name><![CDATA[jsmith002/Bancroft Ave Water Main]]></name>
+                        <Snippet maxLines="0"> </Snippet>
+                        <description><![CDATA[<a name="JR_PAGE_ANCHOR_0_1"></a>
+<table style="width: 420px; empty-cells: show" cellpadding="0" cellspacing="0" border="0" bgcolor="white">
+<tr>
+  <td style="width: 12px; height: 1px;"></td>
+  <td style="width: 68px; height: 1px;"></td>
+  <td style="width: 252px; height: 1px;"></td>
+  <td style="width: 41px; height: 1px;"></td>
+  <td style="width: 47px; height: 1px;"></td>
+</tr>
+<tr valign="top">
+  <td style="width: 12px; height: 14px;"></td>
+  <td><span style="font-family: Arial; color: #000000; font-size: 12.0px;">Owner :</span></td>
+  <td colspan="2"><span style="font-family: Arial; color: #000000; font-size: 12.0px;">Envista Demo Organization</span></td>
+  <td style="width: 47px; height: 14px;"></td>
+</tr>
+<tr valign="top">
+  <td style="width: 12px; height: 14px;"></td>
+  <td><span style="font-family: Arial; color: #000000; font-size: 12.0px;">Dates :</span></td>
+  <td colspan="2"><span style="font-family: Arial; color: #000000; font-size: 12.0px;">05/01/2009 - 12/12/2013</span></td>
+  <td style="width: 47px; height: 14px;"></td>
+</tr>
+</table>
+
+]]></description>
+                        <styleUrl>#ffff0000LineString</styleUrl>
+                        <MultiGeometry>
+                            <LineString>
+                                <coordinates>-70.8748299999999,42.54904,0
+-70.8740899999999,42.5494,0
+-70.8733599999999,42.54875,0
+-70.8733592661147,42.5487455966886,0
+</coordinates>
+                            </LineString>
+                            <LineString>
+                                <coordinates>-70.8733830963038,42.5487705652021,0
+-70.8740899999999,42.5494,0
+-70.8748299999999,42.54904,0
+-70.8752599999999,42.5488500000001,0
+-70.8756299999999,42.5487100000001,0
+-70.8741099999999,42.54742,0
+-70.8747499999999,42.5469400000001,0
+-70.8753699999999,42.54645,0
+</coordinates>
+                            </LineString>
+                        </MultiGeometry>
+                    </Placemark>
+                    <Placemark>
+                        <name><![CDATA[jsmith002/Bancroft Ave Water Main]]></name>
+                        <Snippet maxLines="0"> </Snippet>
+                        <description><![CDATA[<a name="JR_PAGE_ANCHOR_0_1"></a>
+<table style="width: 420px; empty-cells: show" cellpadding="0" cellspacing="0" border="0" bgcolor="white">
+<tr>
+  <td style="width: 12px; height: 1px;"></td>
+  <td style="width: 68px; height: 1px;"></td>
+  <td style="width: 252px; height: 1px;"></td>
+  <td style="width: 41px; height: 1px;"></td>
+  <td style="width: 47px; height: 1px;"></td>
+</tr>
+<tr valign="top">
+  <td style="width: 12px; height: 14px;"></td>
+  <td><span style="font-family: Arial; color: #000000; font-size: 12.0px;">Owner :</span></td>
+  <td colspan="2"><span style="font-family: Arial; color: #000000; font-size: 12.0px;">Envista Demo Organization</span></td>
+  <td style="width: 47px; height: 14px;"></td>
+</tr>
+<tr valign="top">
+  <td style="width: 12px; height: 14px;"></td>
+  <td><span style="font-family: Arial; color: #000000; font-size: 12.0px;">Dates :</span></td>
+  <td colspan="2"><span style="font-family: Arial; color: #000000; font-size: 12.0px;">05/01/2009 - 12/12/2013</span></td>
+  <td style="width: 47px; height: 14px;"></td>
+</tr>
+</table>
+
+]]></description>
+                        <styleUrl>#ffff0000p_wat.png</styleUrl>
+                        <Point>
+                            <coordinates>-70.8753299906456,42.5488235170531</coordinates>
+                        </Point>
+                    </Placemark>
+                </Folder>
+            </Folder>
+        </Folder>
+        <Style id="ffeed49fPolygon">
+	  <LineStyle>
+	    <width>1</width>
+	  </LineStyle>
+	  <PolyStyle>
+	    <color>FFEED49F</color>
+	  </PolyStyle>      
+	</Style>
+        <Style id="ffff0000LineString">
+	  <LineStyle>
+	    <color>FFFF0000</color>
+	    <width>8</width>
+	  </LineStyle>
+	</Style>
+        <Style id="ffeed49fp_tra.png">
+	  <IconStyle>
+	    <scale>1</scale>
+	    <Icon>
+	      <href>http://www.envista.com/demos/publicweb/kml/images/p_tra.png</href>
+	    </Icon>
+	  </IconStyle>
+	</Style>
+        <Style id="ff656a69p_roa.png">
+	  <IconStyle>
+	    <scale>1</scale>
+	    <Icon>
+	      <href>http://www.envista.com/demos/publicweb/kml/images/p_roa.png</href>
+	    </Icon>
+	  </IconStyle>
+	</Style>
+        <Style id="ffff0000p_wat.png">
+	  <IconStyle>
+	    <scale>1</scale>
+	    <Icon>
+	      <href>http://www.envista.com/demos/publicweb/kml/images/p_wat.png</href>
+	    </Icon>
+	  </IconStyle>
+	</Style>
+        <Style id="ff656a69LineString">
+	  <LineStyle>
+	    <color>FF656A69</color>
+	    <width>8</width>
+	  </LineStyle>
+	</Style>
+    </Document>
+</kml>

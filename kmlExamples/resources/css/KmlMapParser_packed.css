@@ -1,0 +1,17 @@
+.sidebar-ct{position:absolute;height:500px;left:730px;top:120px;width:auto;overflow:auto;font-family:tahoma,arial,helvetica,sans-serif;font-size:13px;}
+.sidebar ul{margin-left:0;padding:0;display:block;list-style-type:none;text-decoration:none;}
+.sidebar ul ul{margin-left:10px;display:block;}
+.sidebar ul span.open,.sidebar ul span.closed{vertical-align:text-top;height:16px;width:16px;margin:0 4px 0 0;background-position:left center;background-repeat:no-repeat;cursor:pointer;padding:0 0 0 18px;}
+.sidebar ul .open{background-image:url(../../resources/images/folder.png);}
+.sidebar ul .closed{background-image:url(../../resources/images/folderclosed.png);}
+.sidebar ul li{margin-left:0;padding:0;}
+.sidebar li.placemark{margin-left:0;padding:0;color:blue;cursor:pointer;text-indent:10px;}
+.sidebar li.overlay{margin-left:0;padding:0;color:black;cursor:default;text-indent:10px;}
+.sidebar ul img{height:16px;margin:2px 6px 0 0;vertical-align:text-top;}
+.sidebar ul span.color{vertical-align:text-top;height:4px;width:8px;margin:0 4px 0 0;padding:2px 0 2px 8px;}
+.sidebar li.description{vertical-align:text-top;text-decoration:none;margin:0;padding:0;text-indent:2px;}
+.sidebar div.description{vertical-align:text-top;text-decoration:none;color:black;text-indent:15px;margin:0;padding:0;}
+.sidebar div.description table{vertical-align:top;margin:0;padding:0;}
+.sidebar-td{font-family:tahoma,arial,helvetica,sans-serif;font-size:13px;height:600px;width:350px;white-space:wrap;position:relative;vertical-align:top;overflow:hidden;overflow-y:auto;}
+span.checked{width:13px;height:14px;display:inline-block;padding:0;margin:0;margin-right:4px;background:url(../../resources/images/checkbox.gif) no-repeat 0 -14px;}
+span.unchecked{width:13px;height:14px;display:inline-block;padding:0;margin:0;margin-right:4px;background:url(../../resources/images/checkbox.gif) no-repeat 0 1px;}

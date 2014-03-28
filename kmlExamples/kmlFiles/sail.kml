@@ -1,0 +1,539 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+  <name><![CDATA[Chesapeake to Marblehead on a Ericson 39 (2011)]]></name>
+<Folder>
+<open>0</open>
+ <name><![CDATA[Chesapeake to Marblehead on a Ericson 39 (2011)]]></name>
+   <Placemark>
+    <name>Start - August 13 16:02</name>
+    <description><![CDATA[A small  marina in Maryland.]]></description>
+    <styleUrl>#sailline</styleUrl>
+    <Point>
+      <coordinates>-76.22592,37.91909,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Start - August 13 16:02</name>
+    <description><![CDATA[A small  marina in Maryland.]]></description>
+    <styleUrl>#sailline</styleUrl>
+    <LineString>
+					<coordinates>
+-76.22592,37.91909,0 
+-76.40067,38.11651,0
+</coordinates>
+				</LineString>
+  </Placemark>
+  <Placemark>
+    <name>A - August 13 19:08</name>
+    <description><![CDATA[Smith Creek]]></description>
+    <styleUrl>#A</styleUrl>
+    <Point>
+      <coordinates>-76.40067,38.11651,0</coordinates>
+    </Point>
+  </Placemark>
+   <Placemark>
+    <name>A - August 13 19:08</name>
+    <description><![CDATA[Smith Creek]]></description>
+    <styleUrl>#A</styleUrl>
+    <LineString>
+					<coordinates>
+-76.40067,38.11651,0
+-76.33792,38.03368,0 
+</coordinates>
+				</LineString>
+  </Placemark>
+ <Placemark>
+    <name>B - August 14 09:18</name>
+    <description><![CDATA[The adventure begins!]]></description>
+    <styleUrl>#B</styleUrl>
+    <Point>
+      <coordinates>-76.33792,38.03368,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>B - August 14 09:18</name>
+    <description><![CDATA[The adventure begins!]]></description>
+    <styleUrl>#B</styleUrl>
+    <LineString>
+					<coordinates>
+-76.33792,38.03368,0
+-76.31183,38.29822,0 
+</coordinates>
+				</LineString>
+  </Placemark>  
+  <Placemark>
+    <name>C - August 14 12:02</name>
+    <description><![CDATA[Middle of the Chesapeake Bay]]></description>
+    <styleUrl>#C</styleUrl>
+    <Point>
+      <coordinates>-76.31183,38.29822,0</coordinates>
+    </Point>
+  </Placemark> 
+  <Placemark>
+    <name>C - August 14 12:02</name>
+    <description><![CDATA[Middle of the Chesapeake Bay]]></description>
+    <styleUrl>#C</styleUrl>
+    <LineString>
+					<coordinates>
+-76.31183,38.29822,0
+-76.45416,38.96251,0 
+</coordinates>
+				</LineString>
+  </Placemark> 
+ <Placemark>
+    <name>D - August 14 18:01</name>
+    <description><![CDATA[Entrance to Annapolis]]></description>
+    <styleUrl>#D</styleUrl>
+    <Point>
+      <coordinates>-76.45416,38.96251,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>D - August 14 18:01</name>
+    <description><![CDATA[Entrance to Annapolis]]></description>
+    <styleUrl>#D</styleUrl>
+    <LineString>
+					<coordinates>
+-76.45416,38.96251,0
+-76.48511,38.97638,0 
+</coordinates>
+				</LineString>
+  </Placemark>
+   <Placemark>
+    <name>E - August 14 20:07</name>
+    <description><![CDATA[Annapolis]]></description>
+    <styleUrl>#E</styleUrl>
+    <Point>
+      <coordinates>-76.48511,38.97638,0</coordinates>
+    </Point>
+  </Placemark> 
+  <Placemark>
+    <name>E - August 14 20:07</name>
+    <description><![CDATA[Annapolis]]></description>
+    <styleUrl>#E</styleUrl>
+    <LineString>
+					<coordinates>
+-76.48511,38.97638,0
+-76.48514,38.9764,0 
+</coordinates>
+				</LineString>
+  </Placemark> 
+  <Placemark>
+    <name>F - August 15 15:33</name>
+    <description><![CDATA[Engine exhaust breaks in Annapolis.]]></description>
+    <styleUrl>#F</styleUrl>
+    <Point>
+      <coordinates>-76.48514,38.9764,0</coordinates>
+    </Point>
+  </Placemark> 
+  <Placemark>
+    <name>F - August 15 15:33</name>
+    <description><![CDATA[Engine exhaust breaks in Annapolis.]]></description>
+    <styleUrl>#F</styleUrl>
+    <LineString>
+					<coordinates>
+-76.48514,38.9764,0
+-76.3613,39.06934,0 
+</coordinates>
+				</LineString>
+  </Placemark> 
+   <Placemark>
+    <name>G - August 16 09:40</name>
+    <description><![CDATA[Finally left Annapolis after some engine problems were fixed.]]></description>
+    <styleUrl>#G</styleUrl>
+    <Point>
+      <coordinates>-76.3613,39.06934,0</coordinates>
+    </Point>
+  </Placemark> 
+   <Placemark>
+    <name>G - August 16 09:40</name>
+    <description><![CDATA[Finally left Annapolis after some engine problems were fixed.]]></description>
+    <styleUrl>#G</styleUrl>
+    <LineString>
+					<coordinates>
+-76.3613,39.06934,0
+-76.0278,39.41624,0
+</coordinates>
+				</LineString>
+  </Placemark>     
+    <Placemark>
+    <name>H - August 16 14:40</name>
+    <description><![CDATA[Going by the Aberdeen Proving Ground before entering the canal]]></description>
+    <styleUrl>#H</styleUrl>
+    <Point>
+      <coordinates>-76.0278,39.41624,0</coordinates>
+    </Point>
+  </Placemark> 
+  <Placemark>
+    <name>H - August 16 14:40</name>
+    <description><![CDATA[Going by the Aberdeen Proving Ground before entering the canal]]></description>
+    <styleUrl>#H</styleUrl>
+    <LineString>
+					<coordinates>
+-76.0278,39.41624,0
+-75.5593,39.56065,0 
+</coordinates>
+				</LineString>
+  </Placemark>       
+  <Placemark>
+    <name>I - August 16 19:04</name>
+    <description><![CDATA[Just exited the canal!]]></description>
+    <styleUrl>#I</styleUrl>
+    <Point>
+      <coordinates>-75.5593,39.56065,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>I - August 16 19:04</name>
+    <description><![CDATA[Just exited the canal!]]></description>
+    <styleUrl>#I</styleUrl>
+    <LineString>
+					<coordinates>
+-75.5593,39.56065,0 
+-75.26108,39.18294,0 
+</coordinates>
+				</LineString>
+  </Placemark>
+  <Placemark>
+    <name>J - August 16 23:34</name>
+    <description><![CDATA[In the middle of the Delaware Bay]]></description>
+    <styleUrl>#J</styleUrl>
+    <Point>
+      <coordinates>-75.26108,39.18294,0</coordinates>
+    </Point>
+  </Placemark>
+   <Placemark>
+    <name>J - August 16 23:34</name>
+    <description><![CDATA[In the middle of the Delaware Bay]]></description>
+    <styleUrl>#J</styleUrl>
+    <LineString>
+					<coordinates>
+-75.26108,39.18294,0 
+-75.06729,38.8591,0
+</coordinates>
+				</LineString>
+  </Placemark>
+   <Placemark>
+    <name>K - August 17 05:57</name>
+    <description><![CDATA[Rounding Cape May]]></description>
+    <styleUrl>#K</styleUrl>
+    <Point>
+      <coordinates>-75.06729,38.8591,0</coordinates>
+    </Point>
+  </Placemark>
+   <Placemark>
+    <name>K - August 17 05:57</name>
+    <description><![CDATA[Rounding Cape May]]></description>
+    <styleUrl>#K</styleUrl>
+    <LineString>
+			<coordinates>
+-75.06729,38.8591,0 
+-73.80612,39.71292,0 
+</coordinates>
+				</LineString>
+  </Placemark>
+  <Placemark>
+    <name>L - August 18 02:32</name>
+    <description><![CDATA[Just passed Atlantic City]]></description>
+    <styleUrl>#L</styleUrl>
+    <Point>
+      <coordinates>-73.80612,39.71292,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>L - August 18 02:32</name>
+    <description><![CDATA[Just passed Atlantic City]]></description>
+    <styleUrl>#L</styleUrl>
+    <LineString>
+					<coordinates>
+-73.80612,39.71292,0 
+-73.3522,40.12805,0 
+</coordinates>
+				</LineString>
+  </Placemark>
+  <Placemark>
+    <name>M - August 18 08:34</name>
+    <description><![CDATA[Near New York City]]></description>
+    <styleUrl>#M</styleUrl>
+    <Point>
+      <coordinates>-73.3522,40.12805,0</coordinates>
+    </Point>
+  </Placemark>
+   <Placemark>
+    <name>M - August 18 08:34</name>
+    <description><![CDATA[Near New York City]]></description>
+    <styleUrl>#M</styleUrl>
+    <LineString>
+					<coordinates>
+-73.3522,40.12805,0 
+-72.39374,40.60894,0
+</coordinates>
+				</LineString>
+  </Placemark>
+  <Placemark>
+    <name>N - August 18 16:59</name>
+    <description><![CDATA[Off of Hampton Bays]]></description>
+    <styleUrl>#N</styleUrl>
+    <Point>
+      <coordinates>-72.39374,40.60894,0</coordinates>
+    </Point>
+  </Placemark>
+   <Placemark>
+    <name>N - August 18 16:59</name>
+    <description><![CDATA[Off of Hampton Bays]]></description>
+    <styleUrl>#N</styleUrl>
+    <LineString>
+					<coordinates>
+-72.39374,40.60894,0 
+-71.98941,40.91298,0 
+</coordinates>
+				</LineString>
+  </Placemark>
+  <Placemark>
+    <name>O - August 18 21:03</name>
+    <description><![CDATA[Off of East Hampton]]></description>
+    <styleUrl>#O</styleUrl>
+    <Point>
+      <coordinates>-71.98941,40.91298,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>O - August 18 21:03</name>
+    <description><![CDATA[Off of East Hampton]]></description>
+    <styleUrl>#O</styleUrl>
+    <LineString>
+					<coordinates>
+-71.98941,40.91298,0
+-71.57718,41.18304,0 
+</coordinates>
+				</LineString>
+  </Placemark>
+  <Placemark>
+    <name>P - August 19 01:32</name>
+    <description><![CDATA[Block Island]]></description>
+    <styleUrl>#P</styleUrl>
+    <Point>
+      <coordinates>-71.57718,41.18304,0</coordinates>
+    </Point>
+  </Placemark>
+   <Placemark>
+    <name>P - August 19 01:32</name>
+    <description><![CDATA[Block Island]]></description>
+    <styleUrl>#P</styleUrl>
+    <LineString>
+					<coordinates>
+-71.57718,41.18304,0 
+-71.57855,41.25081,0 
+</coordinates>
+				</LineString>
+  </Placemark>
+  <Placemark>
+    <name>Q - August 19 12:31</name>
+    <description><![CDATA[Leaving Block Island]]></description>
+    <styleUrl>#Q</styleUrl>
+    <Point>
+      <coordinates>-71.57855,41.25081,0</coordinates>
+    </Point>
+  </Placemark>
+    <Placemark>
+    <name>Q - August 19 12:31</name>
+    <description><![CDATA[Leaving Block Island]]></description>
+    <styleUrl>#Q</styleUrl>
+    <LineString>
+					<coordinates>
+-71.57855,41.25081,0 
+-70.92795,41.42474,0
+</coordinates>
+				</LineString>
+  </Placemark>
+  <Placemark>
+    <name>R - August 19 18:13</name>
+    <description><![CDATA[Cuttyhunk, MA]]></description>
+    <styleUrl>#R</styleUrl>
+    <Point>
+      <coordinates>-70.92795,41.42474,0</coordinates>
+    </Point>
+  </Placemark>
+    <Placemark>
+    <name>R - August 19 18:13</name>
+    <description><![CDATA[Cuttyhunk, MA]]></description>
+    <styleUrl>#R</styleUrl>
+    <LineString>
+					<coordinates>
+-70.92795,41.42474,0
+-70.16998,42.0392,0 
+</coordinates>
+				</LineString>
+  </Placemark>
+  <Placemark>
+    <name>S - August 20 16:06</name>
+    <description><![CDATA[Provincetown, MA]]></description>
+    <styleUrl>#S</styleUrl>
+    <Point>
+      <coordinates>-70.16998,42.0392,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>S - August 20 16:06</name>
+    <description><![CDATA[Provincetown, MA]]></description>
+    <styleUrl>#S</styleUrl>
+    <LineString>
+					<coordinates>
+-70.16998,42.0392,0
+-70.84222,42.50451,0 
+</coordinates>
+				</LineString>
+  </Placemark>
+  <Placemark>
+    <name>Home! - August 21 18:06</name>
+    <description><![CDATA[Marblehead, MA]]></description>
+    <styleUrl>#sailline</styleUrl>
+    <Point>
+      <coordinates>-70.84222,42.50451,0</coordinates>
+    </Point>
+  </Placemark>
+  </Folder>
+<Style id="sailline">
+  <colorMode>normal</colorMode>
+  <scale>1.0</scale> 
+    <LineStyle>
+      <color>ff00d7ff</color>
+      <width>4</width>
+    </LineStyle>
+</Style>
+<Style id="A">
+  <IconStyle><Icon><href>http://www.google.com/mapfiles/markerA.png</href></Icon></IconStyle>
+     <LineStyle>
+      <color>ff00d7ff</color>
+      <width>4</width>
+    </LineStyle>
+</Style>
+<Style id="B">
+<IconStyle><Icon><href>http://www.google.com/mapfiles/markerB.png</href></Icon></IconStyle>
+     <LineStyle>
+      <color>ff00d7ff</color>
+      <width>4</width>
+    </LineStyle>
+</Style>
+<Style id="C">
+<IconStyle><Icon><href>http://www.google.com/mapfiles/markerC.png</href></Icon></IconStyle>
+     <LineStyle>
+      <color>ff00d7ff</color>
+      <width>4</width>
+    </LineStyle>
+</Style>
+<Style id="D">
+<IconStyle><Icon><href>http://www.google.com/mapfiles/markerD.png</href></Icon></IconStyle>
+     <LineStyle>
+      <color>ff00d7ff</color>
+      <width>4</width>
+    </LineStyle>
+</Style>
+<Style id="E">
+<IconStyle><Icon><href>http://www.google.com/mapfiles/markerE.png</href></Icon></IconStyle>
+     <LineStyle>
+      <color>ff00d7ff</color>
+      <width>4</width>
+    </LineStyle>
+</Style>
+<Style id="F">
+<IconStyle><Icon><href>http://www.google.com/mapfiles/markerF.png</href></Icon></IconStyle>
+     <LineStyle>
+      <color>ff00d7ff</color>
+      <width>4</width>
+    </LineStyle>
+</Style>
+<Style id="G">
+<IconStyle><Icon><href>http://www.google.com/mapfiles/markerG.png</href></Icon></IconStyle>
+     <LineStyle>
+      <color>ff00d7ff</color>
+      <width>4</width>
+    </LineStyle>
+</Style>
+<Style id="H">
+<IconStyle><Icon><href>http://www.google.com/mapfiles/markerH.png</href></Icon></IconStyle>
+     <LineStyle>
+      <color>ff00d7ff</color>
+      <width>4</width>
+    </LineStyle>
+</Style>
+<Style id="I">
+<IconStyle><Icon><href>http://www.google.com/mapfiles/markerI.png</href></Icon></IconStyle>
+     <LineStyle>
+      <color>ff00d7ff</color>
+      <width>4</width>
+    </LineStyle>
+</Style>
+<Style id="J">
+<IconStyle><Icon><href>http://www.google.com/mapfiles/markerJ.png</href></Icon></IconStyle>
+     <LineStyle>
+      <color>ff00d7ff</color>
+      <width>4</width>
+    </LineStyle>
+</Style>
+<Style id="K">
+<IconStyle><Icon><href>http://www.google.com/mapfiles/markerK.png</href></Icon></IconStyle>
+     <LineStyle>
+      <color>ff00d7ff</color>
+      <width>4</width>
+    </LineStyle>
+</Style>
+<Style id="L">
+<IconStyle><Icon><href>http://www.google.com/mapfiles/markerL.png</href></Icon></IconStyle>
+     <LineStyle>
+      <color>ff00d7ff</color>
+      <width>4</width>
+    </LineStyle>
+</Style>
+<Style id="M">
+<IconStyle><Icon><href>http://www.google.com/mapfiles/markerM.png</href></Icon></IconStyle>
+     <LineStyle>
+      <color>ff00d7ff</color>
+      <width>4</width>
+    </LineStyle>
+</Style>
+<Style id="N">
+<IconStyle><Icon><href>http://www.google.com/mapfiles/markerN.png</href></Icon></IconStyle>
+     <LineStyle>
+      <color>ff00d7ff</color>
+      <width>4</width>
+    </LineStyle>
+</Style>
+<Style id="O">
+<IconStyle><Icon><href>http://www.google.com/mapfiles/markerO.png</href></Icon></IconStyle>
+     <LineStyle>
+      <color>ff00d7ff</color>
+      <width>4</width>
+    </LineStyle>
+</Style>
+<Style id="P">
+<IconStyle><Icon><href>http://www.google.com/mapfiles/markerP.png</href></Icon></IconStyle>
+     <LineStyle>
+      <color>ff00d7ff</color>
+      <width>4</width>
+    </LineStyle>
+</Style>
+<Style id="Q">
+<IconStyle><Icon><href>http://www.google.com/mapfiles/markerQ.png</href></Icon></IconStyle>
+     <LineStyle>
+      <color>ff00d7ff</color>
+      <width>4</width>
+    </LineStyle>
+</Style>
+<Style id="R">
+<IconStyle><Icon><href>http://www.google.com/mapfiles/markerR.png</href></Icon></IconStyle>
+     <LineStyle>
+      <color>ff00d7ff</color>
+      <width>4</width>
+    </LineStyle>
+</Style>
+<Style id="S">
+<IconStyle><Icon><href>http://www.google.com/mapfiles/markerS.png</href></Icon></IconStyle>
+     <LineStyle>
+      <color>ff00d7ff</color>
+      <width>4</width>
+    </LineStyle>
+</Style>
+</Document>
+</kml>

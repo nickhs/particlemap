@@ -1,0 +1,3524 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+    <Document>
+        <Folder>
+            <open>0</open>
+            <name><![CDATA[Permits]]></name>
+            <Folder>
+                <open>0</open>
+                <name><![CDATA[ROW EXCAVATION]]></name>
+                <Folder>
+                    <open>0</open>
+                    <Snippet maxLines="0"> </Snippet>
+                    <name><![CDATA[SB_Emergency Permits/Rehab Flood Damage]]></name>
+                    <Placemark>
+                        <name><![CDATA[SB_Emergency Permits/Rehab Flood Damage]]></name>
+                        <Snippet maxLines="0"> </Snippet>
+                        <description><![CDATA[<a name="JR_PAGE_ANCHOR_0_1"></a>
+<table style="width: 420px; empty-cells: show" cellpadding="0" cellspacing="0" border="0" bgcolor="white">
+<tr>
+  <td style="width: 11px; height: 1px;"></td>
+  <td style="width: 1px; height: 1px;"></td>
+  <td style="width: 10px; height: 1px;"></td>
+  <td style="width: 49px; height: 1px;"></td>
+  <td style="width: 1px; height: 1px;"></td>
+  <td style="width: 3px; height: 1px;"></td>
+  <td style="width: 279px; height: 1px;"></td>
+  <td style="width: 26px; height: 1px;"></td>
+  <td style="width: 40px; height: 1px;"></td>
+</tr>
+<tr valign="top">
+  <td colspan="3" style="width: 22px; height: 2px;"></td>
+  <td colspan="4" style="border-top-style: solid; border-top-width: 1px; border-top-color: #000000; "></td>
+  <td colspan="2" style="width: 66px; height: 2px;"></td>
+</tr>
+<tr valign="top">
+  <td colspan="2" style="width: 12px; height: 14px;"></td>
+  <td colspan="3"><span style="font-family: Arial; color: #000000; font-size: 12.0px;">Owner :</span></td>
+  <td style="width: 3px; height: 14px;"></td>
+  <td colspan="2"><span style="font-family: Arial; color: #000000; font-size: 12.0px;">COMELEC_</span></td>
+  <td style="width: 40px; height: 14px;"></td>
+</tr>
+<tr valign="top">
+  <td style="width: 11px; height: 1px;"></td>
+  <td colspan="3" rowspan="2"><span style="font-family: Arial; color: #000000; font-size: 12.0px;">Applicant </span></td>
+  <td colspan="5" style="width: 349px; height: 1px;"></td>
+</tr>
+<tr valign="top">
+  <td style="width: 11px; height: 13px;"></td>
+  <td colspan="2" style="width: 4px; height: 13px;"></td>
+  <td colspan="2" rowspan="2"><span style="font-family: Arial; color: #0000FF; font-size: 12.0px;">Matt C Tessier (COMELEC_)</span></td>
+  <td style="width: 40px; height: 13px;"></td>
+</tr>
+<tr valign="top">
+  <td colspan="6" style="width: 75px; height: 1px;"></td>
+  <td style="width: 40px; height: 1px;"></td>
+</tr>
+<tr valign="top">
+  <td colspan="2" style="width: 12px; height: 14px;"></td>
+  <td colspan="3"><span style="font-family: Arial; color: #000000; font-size: 12.0px;">From :</span></td>
+  <td style="width: 3px; height: 14px;"></td>
+  <td colspan="2"><span style="font-family: Arial; color: #000000; font-size: 12.0px;">Saint Paul St &amp; E Monument St, Baltimore, Maryland, </span></td>
+  <td style="width: 40px; height: 14px;"></td>
+</tr>
+<tr valign="top">
+  <td style="width: 11px; height: 14px;"></td>
+  <td colspan="3"><span style="font-family: Arial; color: #000000; font-size: 12.0px;">To :</span></td>
+  <td colspan="2" style="width: 4px; height: 14px;"></td>
+  <td colspan="2"><span style="font-family: Arial; color: #000000; font-size: 12.0px;">E Lexington St &amp; Saint Paul Pl, Baltimore, Maryland, </span></td>
+  <td style="width: 40px; height: 14px;"></td>
+</tr>
+<tr valign="top">
+  <td colspan="2" style="width: 12px; height: 14px;"></td>
+  <td colspan="3"><span style="font-family: Arial; color: #000000; font-size: 12.0px;">Dates :</span></td>
+  <td style="width: 3px; height: 14px;"></td>
+  <td colspan="2"><span style="font-family: Arial; color: #000000; font-size: 12.0px;">05/11/2010 - 09/17/2012</span></td>
+  <td style="width: 40px; height: 14px;"></td>
+</tr>
+<tr valign="top">
+  <td colspan="2" style="width: 12px; height: 14px;"></td>
+  <td colspan="3"><span style="font-family: Arial; color: #000000; font-size: 12.0px;">Owner :</span></td>
+  <td style="width: 3px; height: 14px;"></td>
+  <td colspan="2"><span style="font-family: Arial; color: #000000; font-size: 12.0px;">null (COMELEC_)</span></td>
+  <td style="width: 40px; height: 14px;"></td>
+</tr>
+<tr valign="top">
+  <td colspan="2" style="width: 12px; height: 14px;"></td>
+  <td colspan="3"><span style="font-family: Arial; color: #000000; font-size: 12.0px;">Status :</span></td>
+  <td style="width: 3px; height: 14px;"></td>
+  <td colspan="2"><span style="font-family: Arial; color: #000000; font-size: 12.0px;">null</span></td>
+  <td style="width: 40px; height: 14px;"></td>
+</tr>
+</table>
+
+]]></description>
+                        <styleUrl>#ff2024b4LineString</styleUrl>
+                        <LineString>
+                            <coordinates>-76.6140599999999,39.2976,0
+-76.6140499999999,39.2974,0
+-76.61401,39.2968300000001,0
+-76.6139799999999,39.29641,0
+-76.6139999999999,39.29627,0
+-76.6140199999999,39.2962100000001,0
+-76.6140699999999,39.2961000000001,0
+-76.6142599999999,39.2957000000001,0
+-76.6142899999999,39.2956,0
+-76.6143099999999,39.2954700000001,0
+-76.6143099999999,39.29533,0
+-76.6142999999999,39.2951,0
+-76.6142699999999,39.29465,0
+-76.6142499999999,39.2944800000001,0
+-76.6142399998773,39.2942300001863,0
+-76.6142099999999,39.2935600000001,0
+-76.6141599999999,39.2929600000001,0
+-76.6141,39.2926600000001,0
+-76.6139999999999,39.2923400000001,0
+-76.6139399999999,39.2911100000001,0
+</coordinates>
+                        </LineString>
+                    </Placemark>
+                    <Placemark>
+                        <name><![CDATA[SB_Emergency Permits/Rehab Flood Damage]]></name>
+                        <Snippet maxLines="0"> </Snippet>
+                        <description><![CDATA[<a name="JR_PAGE_ANCHOR_0_1"></a>
+<table style="width: 420px; empty-cells: show" cellpadding="0" cellspacing="0" border="0" bgcolor="white">
+<tr>
+  <td style="width: 11px; height: 1px;"></td>
+  <td style="width: 1px; height: 1px;"></td>
+  <td style="width: 10px; height: 1px;"></td>
+  <td style="width: 49px; height: 1px;"></td>
+  <td style="width: 1px; height: 1px;"></td>
+  <td style="width: 3px; height: 1px;"></td>
+  <td style="width: 279px; height: 1px;"></td>
+  <td style="width: 26px; height: 1px;"></td>
+  <td style="width: 40px; height: 1px;"></td>
+</tr>
+<tr valign="top">
+  <td colspan="3" style="width: 22px; height: 2px;"></td>
+  <td colspan="4" style="border-top-style: solid; border-top-width: 1px; border-top-color: #000000; "></td>
+  <td colspan="2" style="width: 66px; height: 2px;"></td>
+</tr>
+<tr valign="top">
+  <td colspan="2" style="width: 12px; height: 14px;"></td>
+  <td colspan="3"><span style="font-family: Arial; color: #000000; font-size: 12.0px;">Owner :</span></td>
+  <td style="width: 3px; height: 14px;"></td>
+  <td colspan="2"><span style="font-family: Arial; color: #000000; font-size: 12.0px;">COMELEC_</span></td>
+  <td style="width: 40px; height: 14px;"></td>
+</tr>
+<tr valign="top">
+  <td style="width: 11px; height: 1px;"></td>
+  <td colspan="3" rowspan="2"><span style="font-family: Arial; color: #000000; font-size: 12.0px;">Applicant </span></td>
+  <td colspan="5" style="width: 349px; height: 1px;"></td>
+</tr>
+<tr valign="top">
+  <td style="width: 11px; height: 13px;"></td>
+  <td colspan="2" style="width: 4px; height: 13px;"></td>
+  <td colspan="2" rowspan="2"><span style="font-family: Arial; color: #0000FF; font-size: 12.0px;">Matt C Tessier (COMELEC_)</span></td>
+  <td style="width: 40px; height: 13px;"></td>
+</tr>
+<tr valign="top">
+  <td colspan="6" style="width: 75px; height: 1px;"></td>
+  <td style="width: 40px; height: 1px;"></td>
+</tr>
+<tr valign="top">
+  <td colspan="2" style="width: 12px; height: 14px;"></td>
+  <td colspan="3"><span style="font-family: Arial; color: #000000; font-size: 12.0px;">From :</span></td>
+  <td style="width: 3px; height: 14px;"></td>
+  <td colspan="2"><span style="font-family: Arial; color: #000000; font-size: 12.0px;">Saint Paul St &amp; E Monument St, Baltimore, Maryland, </span></td>
+  <td style="width: 40px; height: 14px;"></td>
+</tr>
+<tr valign="top">
+  <td style="width: 11px; height: 14px;"></td>
+  <td colspan="3"><span style="font-family: Arial; color: #000000; font-size: 12.0px;">To :</span></td>
+  <td colspan="2" style="width: 4px; height: 14px;"></td>
+  <td colspan="2"><span style="font-family: Arial; color: #000000; font-size: 12.0px;">E Lexington St &amp; Saint Paul Pl, Baltimore, Maryland, </span></td>
+  <td style="width: 40px; height: 14px;"></td>
+</tr>
+<tr valign="top">
+  <td colspan="2" style="width: 12px; height: 14px;"></td>
+  <td colspan="3"><span style="font-family: Arial; color: #000000; font-size: 12.0px;">Dates :</span></td>
+  <td style="width: 3px; height: 14px;"></td>
+  <td colspan="2"><span style="font-family: Arial; color: #000000; font-size: 12.0px;">05/11/2010 - 09/17/2012</span></td>
+  <td style="width: 40px; height: 14px;"></td>
+</tr>
+<tr valign="top">
+  <td colspan="2" style="width: 12px; height: 14px;"></td>
+  <td colspan="3"><span style="font-family: Arial; color: #000000; font-size: 12.0px;">Owner :</span></td>
+  <td style="width: 3px; height: 14px;"></td>
+  <td colspan="2"><span style="font-family: Arial; color: #000000; font-size: 12.0px;">null (COMELEC_)</span></td>
+  <td style="width: 40px; height: 14px;"></td>
+</tr>
+<tr valign="top">
+  <td colspan="2" style="width: 12px; height: 14px;"></td>
+  <td colspan="3"><span style="font-family: Arial; color: #000000; font-size: 12.0px;">Status :</span></td>
+  <td style="width: 3px; height: 14px;"></td>
+  <td colspan="2"><span style="font-family: Arial; color: #000000; font-size: 12.0px;">null</span></td>
+  <td style="width: 40px; height: 14px;"></td>
+</tr>
+</table>
+
+]]></description>
+                        <styleUrl>#ff2024b4r_ele.png</styleUrl>
+                        <Point>
+                            <coordinates>-76.6141564836499,39.2959179291581</coordinates>
+                        </Point>
+                    </Placemark>
+                </Folder>
+            </Folder>
+            <Folder>
+                <open>0</open>
+                <name><![CDATA[Water]]></name>
+                <Folder>
+                    <open>0</open>
+                    <Snippet maxLines="0"> </Snippet>
+                    <name><![CDATA[WC_1167R-18/E Fairmount Avenue Water Main]]></name>
+                    <Placemark>
+                        <name><![CDATA[WC_1167R-18/E Fairmount Avenue Water Main]]></name>
+                        <Snippet maxLines="0"> </Snippet>
+                        <description><![CDATA[<a name="JR_PAGE_ANCHOR_0_1"></a>
+<table style="width: 420px; empty-cells: show" cellpadding="0" cellspacing="0" border="0" bgcolor="white">
+<tr>
+  <td style="width: 11px; height: 1px;"></td>
+  <td style="width: 1px; height: 1px;"></td>
+  <td style="width: 10px; height: 1px;"></td>
+  <td style="width: 49px; height: 1px;"></td>
+  <td style="width: 1px; height: 1px;"></td>
+  <td style="width: 3px; height: 1px;"></td>
+  <td style="width: 279px; height: 1px;"></td>
+  <td style="width: 26px; height: 1px;"></td>
+  <td style="width: 40px; height: 1px;"></td>
+</tr>
+<tr valign="top">
+  <td colspan="3" style="width: 22px; height: 2px;"></td>
+  <td colspan="4" style="border-top-style: solid; border-top-width: 1px; border-top-color: #000000; "></td>
+  <td colspan="2" style="width: 66px; height: 2px;"></td>
+</tr>
+<tr valign="top">
+  <td colspan="2" style="width: 12px; height: 14px;"></td>
+  <td colspan="3"><span style="font-family: Arial; color: #000000; font-size: 12.0px;">Owner :</span></td>
+  <td style="width: 3px; height: 14px;"></td>
+  <td colspan="2"><span style="font-family: Arial; color: #000000; font-size: 12.0px;">METWATER_</span></td>
+  <td style="width: 40px; height: 14px;"></td>
+</tr>
+<tr valign="top">
+  <td style="width: 11px; height: 1px;"></td>
+  <td colspan="3" rowspan="2"><span style="font-family: Arial; color: #000000; font-size: 12.0px;">Applicant </span></td>
+  <td colspan="5" style="width: 349px; height: 1px;"></td>
+</tr>
+<tr valign="top">
+  <td style="width: 11px; height: 13px;"></td>
+  <td colspan="2" style="width: 4px; height: 13px;"></td>
+  <td colspan="2" rowspan="2"><span style="font-family: Arial; color: #0000FF; font-size: 12.0px;">null (METWATER_)</span></td>
+  <td style="width: 40px; height: 13px;"></td>
+</tr>
+<tr valign="top">
+  <td colspan="6" style="width: 75px; height: 1px;"></td>
+  <td style="width: 40px; height: 1px;"></td>
+</tr>
+<tr valign="top">
+  <td colspan="2" style="width: 12px; height: 14px;"></td>
+  <td colspan="3"><span style="font-family: Arial; color: #000000; font-size: 12.0px;">From :</span></td>
+  <td style="width: 3px; height: 14px;"></td>
+  <td colspan="2"><span style="font-family: Arial; color: #000000; font-size: 12.0px;">E Fairmount Ave &amp; N Milton Ave, Baltimore, </span></td>
+  <td style="width: 40px; height: 14px;"></td>
+</tr>
+<tr valign="top">
+  <td style="width: 11px; height: 14px;"></td>
+  <td colspan="3"><span style="font-family: Arial; color: #000000; font-size: 12.0px;">To :</span></td>
+  <td colspan="2" style="width: 4px; height: 14px;"></td>
+  <td colspan="2"><span style="font-family: Arial; color: #000000; font-size: 12.0px;">-</span></td>
+  <td style="width: 40px; height: 14px;"></td>
+</tr>
+<tr valign="top">
+  <td colspan="2" style="width: 12px; height: 14px;"></td>
+  <td colspan="3"><span style="font-family: Arial; color: #000000; font-size: 12.0px;">Dates :</span></td>
+  <td style="width: 3px; height: 14px;"></td>
+  <td colspan="2"><span style="font-family: Arial; color: #000000; font-size: 12.0px;">08/01/2010 - 01/01/2011</span></td>
+  <td style="width: 40px; height: 14px;"></td>
+</tr>
+<tr valign="top">
+  <td colspan="2" style="width: 12px; height: 14px;"></td>
+  <td colspan="3"><span style="font-family: Arial; color: #000000; font-size: 12.0px;">Owner :</span></td>
+  <td style="width: 3px; height: 14px;"></td>
+  <td colspan="2"><span style="font-family: Arial; color: #000000; font-size: 12.0px;">null (METWATER_)</span></td>
+  <td style="width: 40px; height: 14px;"></td>
+</tr>
+<tr valign="top">
+  <td colspan="2" style="width: 12px; height: 14px;"></td>
+  <td colspan="3"><span style="font-family: Arial; color: #000000; font-size: 12.0px;">Status :</span></td>
+  <td style="width: 3px; height: 14px;"></td>
+  <td colspan="2"><span style="font-family: Arial; color: #000000; font-size: 12.0px;">null</span></td>
+  <td style="width: 40px; height: 14px;"></td>
+</tr>
+</table>
+
+]]></description>
+                        <styleUrl>#ffff0000r_wat.png</styleUrl>
+                        <Point>
+                            <coordinates>-76.5819599999999,39.2931100000001</coordinates>
+                        </Point>
+                    </Placemark>
+                </Folder>
+                <Folder>
+                    <open>0</open>
+                    <Snippet maxLines="0"> </Snippet>
+                    <name><![CDATA[WC_1167R-01/Frisby Water Main]]></name>
+                    <Placemark>
+                        <name><![CDATA[WC_1167R-01/Frisby Water Main]]></name>
+                        <Snippet maxLines="0"> </Snippet>
+                        <description><![CDATA[<a name="JR_PAGE_ANCHOR_0_1"></a>
+<table style="width: 420px; empty-cells: show" cellpadding="0" cellspacing="0" border="0" bgcolor="white">
+<tr>
+  <td style="width: 11px; height: 1px;"></td>
+  <td style="width: 1px; height: 1px;"></td>
+  <td style="width: 10px; height: 1px;"></td>
+  <td style="width: 49px; height: 1px;"></td>
+  <td style="width: 1px; height: 1px;"></td>
+  <td style="width: 3px; height: 1px;"></td>
+  <td style="width: 279px; height: 1px;"></td>
+  <td style="width: 26px; height: 1px;"></td>
+  <td style="width: 40px; height: 1px;"></td>
+</tr>
+<tr valign="top">
+  <td colspan="3" style="width: 22px; height: 2px;"></td>
+  <td colspan="4" style="border-top-style: solid; border-top-width: 1px; border-top-color: #000000; "></td>
+  <td colspan="2" style="width: 66px; height: 2px;"></td>
+</tr>
+<tr valign="top">
+  <td colspan="2" style="width: 12px; height: 14px;"></td>
+  <td colspan="3"><span style="font-family: Arial; color: #000000; font-size: 12.0px;">Owner :</span></td>
+  <td style="width: 3px; height: 14px;"></td>
+  <td colspan="2"><span style="font-family: Arial; color: #000000; font-size: 12.0px;">METWATER_</span></td>
+  <td style="width: 40px; height: 14px;"></td>
+</tr>
+<tr valign="top">
+  <td style="width: 11px; height: 1px;"></td>
+  <td colspan="3" rowspan="2"><span style="font-family: Arial; color: #000000; font-size: 12.0px;">Applicant </span></td>
+  <td colspan="5" style="width: 349px; height: 1px;"></td>
+</tr>
+<tr valign="top">
+  <td style="width: 11px; height: 13px;"></td>
+  <td colspan="2" style="width: 4px; height: 13px;"></td>
+  <td colspan="2" rowspan="2"><span style="font-family: Arial; color: #0000FF; font-size: 12.0px;">null (METWATER_)</span></td>
+  <td style="width: 40px; height: 13px;"></td>
+</tr>
+<tr valign="top">
+  <td colspan="6" style="width: 75px; height: 1px;"></td>
+  <td style="width: 40px; height: 1px;"></td>
+</tr>
+<tr valign="top">
+  <td colspan="2" style="width: 12px; height: 14px;"></td>
+  <td colspan="3"><span style="font-family: Arial; color: #000000; font-size: 12.0px;">From :</span></td>
+  <td style="width: 3px; height: 14px;"></td>
+  <td colspan="2"><span style="font-family: Arial; color: #000000; font-size: 12.0px;">Frisby St &amp; E 31St St, Baltimore, Maryland, 21218</span></td>
+  <td style="width: 40px; height: 14px;"></td>
+</tr>
+<tr valign="top">
+  <td style="width: 11px; height: 14px;"></td>
+  <td colspan="3"><span style="font-family: Arial; color: #000000; font-size: 12.0px;">To :</span></td>
+  <td colspan="2" style="width: 4px; height: 14px;"></td>
+  <td colspan="2"><span style="font-family: Arial; color: #000000; font-size: 12.0px;">Frisby St &amp; Belle Terre Ave, Baltimore, Maryland, </span></td>
+  <td style="width: 40px; height: 14px;"></td>
+</tr>
+<tr valign="top">
+  <td colspan="2" style="width: 12px; height: 14px;"></td>
+  <td colspan="3"><span style="font-family: Arial; color: #000000; font-size: 12.0px;">Dates :</span></td>
+  <td style="width: 3px; height: 14px;"></td>
+  <td colspan="2"><span style="font-family: Arial; color: #000000; font-size: 12.0px;">08/01/2010 - 01/01/2011</span></td>
+  <td style="width: 40px; height: 14px;"></td>
+</tr>
+<tr valign="top">
+  <td colspan="2" style="width: 12px; height: 14px;"></td>
+  <td colspan="3"><span style="font-family: Arial; color: #000000; font-size: 12.0px;">Owner :</span></td>
+  <td style="width: 3px; height: 14px;"></td>
+  <td colspan="2"><span style="font-family: Arial; color: #000000; font-size: 12.0px;">null (METWATER_)</span></td>
+  <td style="width: 40px; height: 14px;"></td>
+</tr>
+<tr valign="top">
+  <td colspan="2" style="width: 12px; height: 14px;"></td>
+  <td colspan="3"><span style="font-family: Arial; color: #000000; font-size: 12.0px;">Status :</span></td>
+  <td style="width: 3px; height: 14px;"></td>
+  <td colspan="2"><span style="font-family: Arial; color: #000000; font-size: 12.0px;">null</span></td>
+  <td style="width: 40px; height: 14px;"></td>
+</tr>
+</table>
+
+]]></description>
+                        <styleUrl>#ffff0000LineString</styleUrl>
+                        <LineString>
+                            <coordinates>-76.6074399999999,39.3256500000001,0
+-76.6073099999999,39.3259800000001,0
+-76.60721,39.3261600000001,0
+-76.60694,39.32658,0
+-76.6065399999999,39.32721,0
+-76.6063199999999,39.3275800000001,0
+-76.6062599999999,39.3278200000001,0
+</coordinates>
+                        </LineString>
+                    </Placemark>
+                    <Placemark>
+                        <name><![CDATA[WC_1167R-01/Frisby Water Main]]></name>
+                        <Snippet maxLines="0"> </Snippet>
+                        <description><![CDATA[<a name="JR_PAGE_ANCHOR_0_1"></a>
+<table style="width: 420px; empty-cells: show" cellpadding="0" cellspacing="0" border="0" bgcolor="white">
+<tr>
+  <td style="width: 11px; height: 1px;"></td>
+  <td style="width: 1px; height: 1px;"></td>
+  <td style="width: 10px; height: 1px;"></td>
+  <td style="width: 49px; height: 1px;"></td>
+  <td style="width: 1px; height: 1px;"></td>
+  <td style="width: 3px; height: 1px;"></td>
+  <td style="width: 279px; height: 1px;"></td>
+  <td style="width: 26px; height: 1px;"></td>
+  <td style="width: 40px; height: 1px;"></td>
+</tr>
+<tr valign="top">
+  <td colspan="3" style="width: 22px; height: 2px;"></td>
+  <td colspan="4" style="border-top-style: solid; border-top-width: 1px; border-top-color: #000000; "></td>
+  <td colspan="2" style="width: 66px; height: 2px;"></td>
+</tr>
+<tr valign="top">
+  <td colspan="2" style="width: 12px; height: 14px;"></td>
+  <td colspan="3"><span style="font-family: Arial; color: #000000; font-size: 12.0px;">Owner :</span></td>
+  <td style="width: 3px; height: 14px;"></td>
+  <td colspan="2"><span style="font-family: Arial; color: #000000; font-size: 12.0px;">METWATER_</span></td>
+  <td style="width: 40px; height: 14px;"></td>
+</tr>
+<tr valign="top">
+  <td style="width: 11px; height: 1px;"></td>
+  <td colspan="3" rowspan="2"><span style="font-family: Arial; color: #000000; font-size: 12.0px;">Applicant </span></td>
+  <td colspan="5" style="width: 349px; height: 1px;"></td>
+</tr>
+<tr valign="top">
+  <td style="width: 11px; height: 13px;"></td>
+  <td colspan="2" style="width: 4px; height: 13px;"></td>
+  <td colspan="2" rowspan="2"><span style="font-family: Arial; color: #0000FF; font-size: 12.0px;">null (METWATER_)</span></td>
+  <td style="width: 40px; height: 13px;"></td>
+</tr>
+<tr valign="top">
+  <td colspan="6" style="width: 75px; height: 1px;"></td>
+  <td style="width: 40px; height: 1px;"></td>
+</tr>
+<tr valign="top">
+  <td colspan="2" style="width: 12px; height: 14px;"></td>
+  <td colspan="3"><span style="font-family: Arial; color: #000000; font-size: 12.0px;">From :</span></td>
+  <td style="width: 3px; height: 14px;"></td>
+  <td colspan="2"><span style="font-family: Arial; color: #000000; font-size: 12.0px;">Frisby St &amp; E 31St St, Baltimore, Maryland, 21218</span></td>
+  <td style="width: 40px; height: 14px;"></td>
+</tr>
+<tr valign="top">
+  <td style="width: 11px; height: 14px;"></td>
+  <td colspan="3"><span style="font-family: Arial; color: #000000; font-size: 12.0px;">To :</span></td>
+  <td colspan="2" style="width: 4px; height: 14px;"></td>
+  <td colspan="2"><span style="font-family: Arial; color: #000000; font-size: 12.0px;">Frisby St &amp; Belle Terre Ave, Baltimore, Maryland, </span></td>
+  <td style="width: 40px; height: 14px;"></td>
+</tr>
+<tr valign="top">
+  <td colspan="2" style="width: 12px; height: 14px;"></td>
+  <td colspan="3"><span style="font-family: Arial; color: #000000; font-size: 12.0px;">Dates :</span></td>
+  <td style="width: 3px; height: 14px;"></td>
+  <td colspan="2"><span style="font-family: Arial; color: #000000; font-size: 12.0px;">08/01/2010 - 01/01/2011</span></td>
+  <td style="width: 40px; height: 14px;"></td>
+</tr>
+<tr valign="top">
+  <td colspan="2" style="width: 12px; height: 14px;"></td>
+  <td colspan="3"><span style="font-family: Arial; color: #000000; font-size: 12.0px;">Owner :</span></td>
+  <td style="width: 3px; height: 14px;"></td>
+  <td colspan="2"><span style="font-family: Arial; color: #000000; font-size: 12.0px;">null (METWATER_)</span></td>
+  <td style="width: 40px; height: 14px;"></td>
+</tr>
+<tr valign="top">
+  <td colspan="2" style="width: 12px; height: 14px;"></td>
+  <td colspan="3"><span style="font-family: Arial; color: #000000; font-size: 12.0px;">Status :</span></td>
+  <td style="width: 3px; height: 14px;"></td>
+  <td colspan="2"><span style="font-family: Arial; color: #000000; font-size: 12.0px;">null</span></td>
+  <td style="width: 40px; height: 14px;"></td>
+</tr>
+</table>
+
+]]></description>
+                        <styleUrl>#ffff0000r_wat.png</styleUrl>
+                        <Point>
+                            <coordinates>-76.6068423893105,39.326733736836</coordinates>
+                        </Point>
+                    </Placemark>
+                </Folder>
+                <Folder>
+                    <open>0</open>
+                    <Snippet maxLines="0"> </Snippet>
+                    <name><![CDATA[WC_1167R-16/E Baltimore Street Water Main]]></name>
+                    <Placemark>
+                        <name><![CDATA[WC_1167R-16/E Baltimore Street Water Main]]></name>
+                        <Snippet maxLines="0"> </Snippet>
+                        <description><![CDATA[<a name="JR_PAGE_ANCHOR_0_1"></a>
+<table style="width: 420px; empty-cells: show" cellpadding="0" cellspacing="0" border="0" bgcolor="white">
+<tr>
+  <td style="width: 11px; height: 1px;"></td>
+  <td style="width: 1px; height: 1px;"></td>
+  <td style="width: 10px; height: 1px;"></td>
+  <td style="width: 49px; height: 1px;"></td>
+  <td style="width: 1px; height: 1px;"></td>
+  <td style="width: 3px; height: 1px;"></td>
+  <td style="width: 279px; height: 1px;"></td>
+  <td style="width: 26px; height: 1px;"></td>
+  <td style="width: 40px; height: 1px;"></td>
+</tr>
+<tr valign="top">
+  <td colspan="3" style="width: 22px; height: 2px;"></td>
+  <td colspan="4" style="border-top-style: solid; border-top-width: 1px; border-top-color: #000000; "></td>
+  <td colspan="2" style="width: 66px; height: 2px;"></td>
+</tr>
+<tr valign="top">
+  <td colspan="2" style="width: 12px; height: 14px;"></td>
+  <td colspan="3"><span style="font-family: Arial; color: #000000; font-size: 12.0px;">Owner :</span></td>
+  <td style="width: 3px; height: 14px;"></td>
+  <td colspan="2"><span style="font-family: Arial; color: #000000; font-size: 12.0px;">METWATER_</span></td>
+  <td style="width: 40px; height: 14px;"></td>
+</tr>
+<tr valign="top">
+  <td style="width: 11px; height: 1px;"></td>
+  <td colspan="3" rowspan="2"><span style="font-family: Arial; color: #000000; font-size: 12.0px;">Applicant </span></td>
+  <td colspan="5" style="width: 349px; height: 1px;"></td>
+</tr>
+<tr valign="top">
+  <td style="width: 11px; height: 13px;"></td>
+  <td colspan="2" style="width: 4px; height: 13px;"></td>
+  <td colspan="2" rowspan="2"><span style="font-family: Arial; color: #0000FF; font-size: 12.0px;">null (METWATER_)</span></td>
+  <td style="width: 40px; height: 13px;"></td>
+</tr>
+<tr valign="top">
+  <td colspan="6" style="width: 75px; height: 1px;"></td>
+  <td style="width: 40px; height: 1px;"></td>
+</tr>
+<tr valign="top">
+  <td colspan="2" style="width: 12px; height: 14px;"></td>
+  <td colspan="3"><span style="font-family: Arial; color: #000000; font-size: 12.0px;">From :</span></td>
+  <td style="width: 3px; height: 14px;"></td>
+  <td colspan="2"><span style="font-family: Arial; color: #000000; font-size: 12.0px;">E Baltimore St &amp; N Milton Ave, Baltimore, Maryland, </span></td>
+  <td style="width: 40px; height: 14px;"></td>
+</tr>
+<tr valign="top">
+  <td style="width: 11px; height: 14px;"></td>
+  <td colspan="3"><span style="font-family: Arial; color: #000000; font-size: 12.0px;">To :</span></td>
+  <td colspan="2" style="width: 4px; height: 14px;"></td>
+  <td colspan="2"><span style="font-family: Arial; color: #000000; font-size: 12.0px;">-</span></td>
+  <td style="width: 40px; height: 14px;"></td>
+</tr>
+<tr valign="top">
+  <td colspan="2" style="width: 12px; height: 14px;"></td>
+  <td colspan="3"><span style="font-family: Arial; color: #000000; font-size: 12.0px;">Dates :</span></td>
+  <td style="width: 3px; height: 14px;"></td>
+  <td colspan="2"><span style="font-family: Arial; color: #000000; font-size: 12.0px;">08/01/2010 - 01/01/2011</span></td>
+  <td style="width: 40px; height: 14px;"></td>
+</tr>
+<tr valign="top">
+  <td colspan="2" style="width: 12px; height: 14px;"></td>
+  <td colspan="3"><span style="font-family: Arial; color: #000000; font-size: 12.0px;">Owner :</span></td>
+  <td style="width: 3px; height: 14px;"></td>
+  <td colspan="2"><span style="font-family: Arial; color: #000000; font-size: 12.0px;">null (METWATER_)</span></td>
+  <td style="width: 40px; height: 14px;"></td>
+</tr>
+<tr valign="top">
+  <td colspan="2" style="width: 12px; height: 14px;"></td>
+  <td colspan="3"><span style="font-family: Arial; color: #000000; font-size: 12.0px;">Status :</span></td>
+  <td style="width: 3px; height: 14px;"></td>
+  <td colspan="2"><span style="font-family: Arial; color: #000000; font-size: 12.0px;">null</span></td>
+  <td style="width: 40px; height: 14px;"></td>
+</tr>
+</table>
+
+]]></description>
+                        <styleUrl>#ffff0000r_wat.png</styleUrl>
+                        <Point>
+                            <coordinates>-76.5818899999999,39.2920000000001</coordinates>
+                        </Point>
+                    </Placemark>
+                </Folder>
+                <Folder>
+                    <open>0</open>
+                    <Snippet maxLines="0"> </Snippet>
+                    <name><![CDATA[WC_1167R-02/Ellersie Water Main]]></name>
+                    <Placemark>
+                        <name><![CDATA[WC_1167R-02/Ellersie Water Main]]></name>
+                        <Snippet maxLines="0"> </Snippet>
+                        <description><![CDATA[<a name="JR_PAGE_ANCHOR_0_1"></a>
+<table style="width: 420px; empty-cells: show" cellpadding="0" cellspacing="0" border="0" bgcolor="white">
+<tr>
+  <td style="width: 11px; height: 1px;"></td>
+  <td style="width: 1px; height: 1px;"></td>
+  <td style="width: 10px; height: 1px;"></td>
+  <td style="width: 49px; height: 1px;"></td>
+  <td style="width: 1px; height: 1px;"></td>
+  <td style="width: 3px; height: 1px;"></td>
+  <td style="width: 279px; height: 1px;"></td>
+  <td style="width: 26px; height: 1px;"></td>
+  <td style="width: 40px; height: 1px;"></td>
+</tr>
+<tr valign="top">
+  <td colspan="3" style="width: 22px; height: 2px;"></td>
+  <td colspan="4" style="border-top-style: solid; border-top-width: 1px; border-top-color: #000000; "></td>
+  <td colspan="2" style="width: 66px; height: 2px;"></td>
+</tr>
+<tr valign="top">
+  <td colspan="2" style="width: 12px; height: 14px;"></td>
+  <td colspan="3"><span style="font-family: Arial; color: #000000; font-size: 12.0px;">Owner :</span></td>
+  <td style="width: 3px; height: 14px;"></td>
+  <td colspan="2"><span style="font-family: Arial; color: #000000; font-size: 12.0px;">METWATER_</span></td>
+  <td style="width: 40px; height: 14px;"></td>
+</tr>
+<tr valign="top">
+  <td style="width: 11px; height: 1px;"></td>
+  <td colspan="3" rowspan="2"><span style="font-family: Arial; color: #000000; font-size: 12.0px;">Applicant </span></td>
+  <td colspan="5" style="width: 349px; height: 1px;"></td>
+</tr>
+<tr valign="top">
+  <td style="width: 11px; height: 13px;"></td>
+  <td colspan="2" style="width: 4px; height: 13px;"></td>
+  <td colspan="2" rowspan="2"><span style="font-family: Arial; color: #0000FF; font-size: 12.0px;">null (METWATER_)</span></td>
+  <td style="width: 40px; height: 13px;"></td>
+</tr>
+<tr valign="top">
+  <td colspan="6" style="width: 75px; height: 1px;"></td>
+  <td style="width: 40px; height: 1px;"></td>
+</tr>
+<tr valign="top">
+  <td colspan="2" style="width: 12px; height: 14px;"></td>
+  <td colspan="3"><span style="font-family: Arial; color: #000000; font-size: 12.0px;">From :</span></td>
+  <td style="width: 3px; height: 14px;"></td>
+  <td colspan="2"><span style="font-family: Arial; color: #000000; font-size: 12.0px;">Ellerslie Ave &amp; Fillmore St, Baltimore, Maryland, </span></td>
+  <td style="width: 40px; height: 14px;"></td>
+</tr>
+<tr valign="top">
+  <td style="width: 11px; height: 14px;"></td>
+  <td colspan="3"><span style="font-family: Arial; color: #000000; font-size: 12.0px;">To :</span></td>
+  <td colspan="2" style="width: 4px; height: 14px;"></td>
+  <td colspan="2"><span style="font-family: Arial; color: #000000; font-size: 12.0px;">Ellerslie Ave &amp; Belle Terre Ave, Baltimore, Maryland, </span></td>
+  <td style="width: 40px; height: 14px;"></td>
+</tr>
+<tr valign="top">
+  <td colspan="2" style="width: 12px; height: 14px;"></td>
+  <td colspan="3"><span style="font-family: Arial; color: #000000; font-size: 12.0px;">Dates :</span></td>
+  <td style="width: 3px; height: 14px;"></td>
+  <td colspan="2"><span style="font-family: Arial; color: #000000; font-size: 12.0px;">08/01/2010 - 01/01/2011</span></td>
+  <td style="width: 40px; height: 14px;"></td>
+</tr>
+<tr valign="top">
+  <td colspan="2" style="width: 12px; height: 14px;"></td>
+  <td colspan="3"><span style="font-family: Arial; color: #000000; font-size: 12.0px;">Owner :</span></td>
+  <td style="width: 3px; height: 14px;"></td>
+  <td colspan="2"><span style="font-family: Arial; color: #000000; font-size: 12.0px;">null (METWATER_)</span></td>
+  <td style="width: 40px; height: 14px;"></td>
+</tr>
+<tr valign="top">
+  <td colspan="2" style="width: 12px; height: 14px;"></td>
+  <td colspan="3"><span style="font-family: Arial; color: #000000; font-size: 12.0px;">Status :</span></td>
+  <td style="width: 3px; height: 14px;"></td>
+  <td colspan="2"><span style="font-family: Arial; color: #000000; font-size: 12.0px;">null</span></td>
+  <td style="width: 40px; height: 14px;"></td>
+</tr>
+</table>
+
+]]></description>
+                        <styleUrl>#ffff0000LineString</styleUrl>
+                        <LineString>
+                            <coordinates>-76.6053299999999,39.3247400000001,0
+-76.6050899999999,39.3251000000001,0
+-76.6047099999999,39.32572,0
+-76.6042899999999,39.32635,0
+-76.6041899999999,39.3264600000001,0
+-76.6038699999999,39.3269500000001,0
+</coordinates>
+                        </LineString>
+                    </Placemark>
+                    <Placemark>
+                        <name><![CDATA[WC_1167R-02/Ellersie Water Main]]></name>
+                        <Snippet maxLines="0"> </Snippet>
+                        <description><![CDATA[<a name="JR_PAGE_ANCHOR_0_1"></a>
+<table style="width: 420px; empty-cells: show" cellpadding="0" cellspacing="0" border="0" bgcolor="white">
+<tr>
+  <td style="width: 11px; height: 1px;"></td>
+  <td style="width: 1px; height: 1px;"></td>
+  <td style="width: 10px; height: 1px;"></td>
+  <td style="width: 49px; height: 1px;"></td>
+  <td style="width: 1px; height: 1px;"></td>
+  <td style="width: 3px; height: 1px;"></td>
+  <td style="width: 279px; height: 1px;"></td>
+  <td style="width: 26px; height: 1px;"></td>
+  <td style="width: 40px; height: 1px;"></td>
+</tr>
+<tr valign="top">
+  <td colspan="3" style="width: 22px; height: 2px;"></td>
+  <td colspan="4" style="border-top-style: solid; border-top-width: 1px; border-top-color: #000000; "></td>
+  <td colspan="2" style="width: 66px; height: 2px;"></td>
+</tr>
+<tr valign="top">
+  <td colspan="2" style="width: 12px; height: 14px;"></td>
+  <td colspan="3"><span style="font-family: Arial; color: #000000; font-size: 12.0px;">Owner :</span></td>
+  <td style="width: 3px; height: 14px;"></td>
+  <td colspan="2"><span style="font-family: Arial; color: #000000; font-size: 12.0px;">METWATER_</span></td>
+  <td style="width: 40px; height: 14px;"></td>
+</tr>
+<tr valign="top">
+  <td style="width: 11px; height: 1px;"></td>
+  <td colspan="3" rowspan="2"><span style="font-family: Arial; color: #000000; font-size: 12.0px;">Applicant </span></td>
+  <td colspan="5" style="width: 349px; height: 1px;"></td>
+</tr>
+<tr valign="top">
+  <td style="width: 11px; height: 13px;"></td>
+  <td colspan="2" style="width: 4px; height: 13px;"></td>
+  <td colspan="2" rowspan="2"><span style="font-family: Arial; color: #0000FF; font-size: 12.0px;">null (METWATER_)</span></td>
+  <td style="width: 40px; height: 13px;"></td>
+</tr>
+<tr valign="top">
+  <td colspan="6" style="width: 75px; height: 1px;"></td>
+  <td style="width: 40px; height: 1px;"></td>
+</tr>
+<tr valign="top">
+  <td colspan="2" style="width: 12px; height: 14px;"></td>
+  <td colspan="3"><span style="font-family: Arial; color: #000000; font-size: 12.0px;">From :</span></td>
+  <td style="width: 3px; height: 14px;"></td>
+  <td colspan="2"><span style="font-family: Arial; color: #000000; font-size: 12.0px;">Ellerslie Ave &amp; Fillmore St, Baltimore, Maryland, </span></td>
+  <td style="width: 40px; height: 14px;"></td>
+</tr>
+<tr valign="top">
+  <td style="width: 11px; height: 14px;"></td>
+  <td colspan="3"><span style="font-family: Arial; color: #000000; font-size: 12.0px;">To :</span></td>
+  <td colspan="2" style="width: 4px; height: 14px;"></td>
+  <td colspan="2"><span style="font-family: Arial; color: #000000; font-size: 12.0px;">Ellerslie Ave &amp; Belle Terre Ave, Baltimore, Maryland, </span></td>
+  <td style="width: 40px; height: 14px;"></td>
+</tr>
+<tr valign="top">
+  <td colspan="2" style="width: 12px; height: 14px;"></td>
+  <td colspan="3"><span style="font-family: Arial; color: #000000; font-size: 12.0px;">Dates :</span></td>
+  <td style="width: 3px; height: 14px;"></td>
+  <td colspan="2"><span style="font-family: Arial; color: #000000; font-size: 12.0px;">08/01/2010 - 01/01/2011</span></td>
+  <td style="width: 40px; height: 14px;"></td>
+</tr>
+<tr valign="top">
+  <td colspan="2" style="width: 12px; height: 14px;"></td>
+  <td colspan="3"><span style="font-family: Arial; color: #000000; font-size: 12.0px;">Owner :</span></td>
+  <td style="width: 3px; height: 14px;"></td>
+  <td colspan="2"><span style="font-family: Arial; color: #000000; font-size: 12.0px;">null (METWATER_)</span></td>
+  <td style="width: 40px; height: 14px;"></td>
+</tr>
+<tr valign="top">
+  <td colspan="2" style="width: 12px; height: 14px;"></td>
+  <td colspan="3"><span style="font-family: Arial; color: #000000; font-size: 12.0px;">Status :</span></td>
+  <td style="width: 3px; height: 14px;"></td>
+  <td colspan="2"><span style="font-family: Arial; color: #000000; font-size: 12.0px;">null</span></td>
+  <td style="width: 40px; height: 14px;"></td>
+</tr>
+</table>
+
+]]></description>
+                        <styleUrl>#ffff0000r_wat.png</styleUrl>
+                        <Point>
+                            <coordinates>-76.6046181391681,39.3258577912478</coordinates>
+                        </Point>
+                    </Placemark>
+                </Folder>
+                <Folder>
+                    <open>0</open>
+                    <Snippet maxLines="0"> </Snippet>
+                    <name><![CDATA[WC_1167R-17/Milton Street Water Main]]></name>
+                    <Placemark>
+                        <name><![CDATA[WC_1167R-17/Milton Street Water Main]]></name>
+                        <Snippet maxLines="0"> </Snippet>
+                        <description><![CDATA[<a name="JR_PAGE_ANCHOR_0_1"></a>
+<table style="width: 420px; empty-cells: show" cellpadding="0" cellspacing="0" border="0" bgcolor="white">
+<tr>
+  <td style="width: 11px; height: 1px;"></td>
+  <td style="width: 1px; height: 1px;"></td>
+  <td style="width: 10px; height: 1px;"></td>
+  <td style="width: 49px; height: 1px;"></td>
+  <td style="width: 1px; height: 1px;"></td>
+  <td style="width: 3px; height: 1px;"></td>
+  <td style="width: 279px; height: 1px;"></td>
+  <td style="width: 26px; height: 1px;"></td>
+  <td style="width: 40px; height: 1px;"></td>
+</tr>
+<tr valign="top">
+  <td colspan="3" style="width: 22px; height: 2px;"></td>
+  <td colspan="4" style="border-top-style: solid; border-top-width: 1px; border-top-color: #000000; "></td>
+  <td colspan="2" style="width: 66px; height: 2px;"></td>
+</tr>
+<tr valign="top">
+  <td colspan="2" style="width: 12px; height: 14px;"></td>
+  <td colspan="3"><span style="font-family: Arial; color: #000000; font-size: 12.0px;">Owner :</span></td>
+  <td style="width: 3px; height: 14px;"></td>
+  <td colspan="2"><span style="font-family: Arial; color: #000000; font-size: 12.0px;">METWATER_</span></td>
+  <td style="width: 40px; height: 14px;"></td>
+</tr>
+<tr valign="top">
+  <td style="width: 11px; height: 1px;"></td>
+  <td colspan="3" rowspan="2"><span style="font-family: Arial; color: #000000; font-size: 12.0px;">Applicant </span></td>
+  <td colspan="5" style="width: 349px; height: 1px;"></td>
+</tr>
+<tr valign="top">
+  <td style="width: 11px; height: 13px;"></td>
+  <td colspan="2" style="width: 4px; height: 13px;"></td>
+  <td colspan="2" rowspan="2"><span style="font-family: Arial; color: #0000FF; font-size: 12.0px;">null (METWATER_)</span></td>
+  <td style="width: 40px; height: 13px;"></td>
+</tr>
+<tr valign="top">
+  <td colspan="6" style="width: 75px; height: 1px;"></td>
+  <td style="width: 40px; height: 1px;"></td>
+</tr>
+<tr valign="top">
+  <td colspan="2" style="width: 12px; height: 14px;"></td>
+  <td colspan="3"><span style="font-family: Arial; color: #000000; font-size: 12.0px;">From :</span></td>
+  <td style="width: 3px; height: 14px;"></td>
+  <td colspan="2"><span style="font-family: Arial; color: #000000; font-size: 12.0px;">N Milton Ave &amp; Jefferson St, Baltimore, Maryland, </span></td>
+  <td style="width: 40px; height: 14px;"></td>
+</tr>
+<tr valign="top">
+  <td style="width: 11px; height: 14px;"></td>
+  <td colspan="3"><span style="font-family: Arial; color: #000000; font-size: 12.0px;">To :</span></td>
+  <td colspan="2" style="width: 4px; height: 14px;"></td>
+  <td colspan="2"><span style="font-family: Arial; color: #000000; font-size: 12.0px;">N Milton Ave &amp; E Baltimore St, Baltimore, Maryland, </span></td>
+  <td style="width: 40px; height: 14px;"></td>
+</tr>
+<tr valign="top">
+  <td colspan="2" style="width: 12px; height: 14px;"></td>
+  <td colspan="3"><span style="font-family: Arial; color: #000000; font-size: 12.0px;">Dates :</span></td>
+  <td style="width: 3px; height: 14px;"></td>
+  <td colspan="2"><span style="font-family: Arial; color: #000000; font-size: 12.0px;">08/01/2010 - 01/01/2011</span></td>
+  <td style="width: 40px; height: 14px;"></td>
+</tr>
+<tr valign="top">
+  <td colspan="2" style="width: 12px; height: 14px;"></td>
+  <td colspan="3"><span style="font-family: Arial; color: #000000; font-size: 12.0px;">Owner :</span></td>
+  <td style="width: 3px; height: 14px;"></td>
+  <td colspan="2"><span style="font-family: Arial; color: #000000; font-size: 12.0px;">null (METWATER_)</span></td>
+  <td style="width: 40px; height: 14px;"></td>
+</tr>
+<tr valign="top">
+  <td colspan="2" style="width: 12px; height: 14px;"></td>
+  <td colspan="3"><span style="font-family: Arial; color: #000000; font-size: 12.0px;">Status :</span></td>
+  <td style="width: 3px; height: 14px;"></td>
+  <td colspan="2"><span style="font-family: Arial; color: #000000; font-size: 12.0px;">null</span></td>
+  <td style="width: 40px; height: 14px;"></td>
+</tr>
+</table>
+
+]]></description>
+                        <styleUrl>#ffff0000LineString</styleUrl>
+                        <LineString>
+                            <coordinates>-76.5821599999999,39.2967200000001,0
+-76.5821099999999,39.29598,0
+-76.5821099999999,39.2955900000001,0
+-76.5820399999999,39.2943900000001,0
+-76.5819699999999,39.2934300000001,0
+-76.5819599999999,39.2931100000001,0
+-76.5819299999999,39.2924400000001,0
+-76.5818899999999,39.2920000000001,0
+</coordinates>
+                        </LineString>
+                    </Placemark>
+                    <Placemark>
+                        <name><![CDATA[WC_1167R-17/Milton Street Water Main]]></name>
+                        <Snippet maxLines="0"> </Snippet>
+                        <description><![CDATA[<a name="JR_PAGE_ANCHOR_0_1"></a>
+<table style="width: 420px; empty-cells: show" cellpadding="0" cellspacing="0" border="0" bgcolor="white">
+<tr>
+  <td style="width: 11px; height: 1px;"></td>
+  <td style="width: 1px; height: 1px;"></td>
+  <td style="width: 10px; height: 1px;"></td>
+  <td style="width: 49px; height: 1px;"></td>
+  <td style="width: 1px; height: 1px;"></td>
+  <td style="width: 3px; height: 1px;"></td>
+  <td style="width: 279px; height: 1px;"></td>
+  <td style="width: 26px; height: 1px;"></td>
+  <td style="width: 40px; height: 1px;"></td>
+</tr>
+<tr valign="top">
+  <td colspan="3" style="width: 22px; height: 2px;"></td>
+  <td colspan="4" style="border-top-style: solid; border-top-width: 1px; border-top-color: #000000; "></td>
+  <td colspan="2" style="width: 66px; height: 2px;"></td>
+</tr>
+<tr valign="top">
+  <td colspan="2" style="width: 12px; height: 14px;"></td>
+  <td colspan="3"><span style="font-family: Arial; color: #000000; font-size: 12.0px;">Owner :</span></td>
+  <td style="width: 3px; height: 14px;"></td>
+  <td colspan="2"><span style="font-family: Arial; color: #000000; font-size: 12.0px;">METWATER_</span></td>
+  <td style="width: 40px; height: 14px;"></td>
+</tr>
+<tr valign="top">
+  <td style="width: 11px; height: 1px;"></td>
+  <td colspan="3" rowspan="2"><span style="font-family: Arial; color: #000000; font-size: 12.0px;">Applicant </span></td>
+  <td colspan="5" style="width: 349px; height: 1px;"></td>
+</tr>
+<tr valign="top">
+  <td style="width: 11px; height: 13px;"></td>
+  <td colspan="2" style="width: 4px; height: 13px;"></td>
+  <td colspan="2" rowspan="2"><span style="font-family: Arial; color: #0000FF; font-size: 12.0px;">null (METWATER_)</span></td>
+  <td style="width: 40px; height: 13px;"></td>
+</tr>
+<tr valign="top">
+  <td colspan="6" style="width: 75px; height: 1px;"></td>
+  <td style="width: 40px; height: 1px;"></td>
+</tr>
+<tr valign="top">
+  <td colspan="2" style="width: 12px; height: 14px;"></td>
+  <td colspan="3"><span style="font-family: Arial; color: #000000; font-size: 12.0px;">From :</span></td>
+  <td style="width: 3px; height: 14px;"></td>
+  <td colspan="2"><span style="font-family: Arial; color: #000000; font-size: 12.0px;">N Milton Ave &amp; Jefferson St, Baltimore, Maryland, </span></td>
+  <td style="width: 40px; height: 14px;"></td>
+</tr>
+<tr valign="top">
+  <td style="width: 11px; height: 14px;"></td>
+  <td colspan="3"><span style="font-family: Arial; color: #000000; font-size: 12.0px;">To :</span></td>
+  <td colspan="2" style="width: 4px; height: 14px;"></td>
+  <td colspan="2"><span style="font-family: Arial; color: #000000; font-size: 12.0px;">N Milton Ave &amp; E Baltimore St, Baltimore, Maryland, </span></td>
+  <td style="width: 40px; height: 14px;"></td>
+</tr>
+<tr valign="top">
+  <td colspan="2" style="width: 12px; height: 14px;"></td>
+  <td colspan="3"><span style="font-family: Arial; color: #000000; font-size: 12.0px;">Dates :</span></td>
+  <td style="width: 3px; height: 14px;"></td>
+  <td colspan="2"><span style="font-family: Arial; color: #000000; font-size: 12.0px;">08/01/2010 - 01/01/2011</span></td>
+  <td style="width: 40px; height: 14px;"></td>
+</tr>
+<tr valign="top">
+  <td colspan="2" style="width: 12px; height: 14px;"></td>
+  <td colspan="3"><span style="font-family: Arial; color: #000000; font-size: 12.0px;">Owner :</span></td>
+  <td style="width: 3px; height: 14px;"></td>
+  <td colspan="2"><span style="font-family: Arial; color: #000000; font-size: 12.0px;">null (METWATER_)</span></td>
+  <td style="width: 40px; height: 14px;"></td>
+</tr>
+<tr valign="top">
+  <td colspan="2" style="width: 12px; height: 14px;"></td>
+  <td colspan="3"><span style="font-family: Arial; color: #000000; font-size: 12.0px;">Status :</span></td>
+  <td style="width: 3px; height: 14px;"></td>
+  <td colspan="2"><span style="font-family: Arial; color: #000000; font-size: 12.0px;">null</span></td>
+  <td style="width: 40px; height: 14px;"></td>
+</tr>
+</table>
+
+]]></description>
+                        <styleUrl>#ffff0000r_wat.png</styleUrl>
+                        <Point>
+                            <coordinates>-76.5820377650781,39.2943593496437</coordinates>
+                        </Point>
+                    </Placemark>
+                </Folder>
+                <Folder>
+                    <open>0</open>
+                    <Snippet maxLines="0"> </Snippet>
+                    <name><![CDATA[WC_1167R-12/Baker Street Area Water Main]]></name>
+                    <Placemark>
+                        <name><![CDATA[WC_1167R-12/Baker Street Area Water Main]]></name>
+                        <Snippet maxLines="0"> </Snippet>
+                        <description><![CDATA[<a name="JR_PAGE_ANCHOR_0_1"></a>
+<table style="width: 420px; empty-cells: show" cellpadding="0" cellspacing="0" border="0" bgcolor="white">
+<tr>
+  <td style="width: 11px; height: 1px;"></td>
+  <td style="width: 1px; height: 1px;"></td>
+  <td style="width: 10px; height: 1px;"></td>
+  <td style="width: 49px; height: 1px;"></td>
+  <td style="width: 1px; height: 1px;"></td>
+  <td style="width: 3px; height: 1px;"></td>
+  <td style="width: 279px; height: 1px;"></td>
+  <td style="width: 26px; height: 1px;"></td>
+  <td style="width: 40px; height: 1px;"></td>
+</tr>
+<tr valign="top">
+  <td colspan="3" style="width: 22px; height: 2px;"></td>
+  <td colspan="4" style="border-top-style: solid; border-top-width: 1px; border-top-color: #000000; "></td>
+  <td colspan="2" style="width: 66px; height: 2px;"></td>
+</tr>
+<tr valign="top">
+  <td colspan="2" style="width: 12px; height: 14px;"></td>
+  <td colspan="3"><span style="font-family: Arial; color: #000000; font-size: 12.0px;">Owner :</span></td>
+  <td style="width: 3px; height: 14px;"></td>
+  <td colspan="2"><span style="font-family: Arial; color: #000000; font-size: 12.0px;">METWATER_</span></td>
+  <td style="width: 40px; height: 14px;"></td>
+</tr>
+<tr valign="top">
+  <td style="width: 11px; height: 1px;"></td>
+  <td colspan="3" rowspan="2"><span style="font-family: Arial; color: #000000; font-size: 12.0px;">Applicant </span></td>
+  <td colspan="5" style="width: 349px; height: 1px;"></td>
+</tr>
+<tr valign="top">
+  <td style="width: 11px; height: 13px;"></td>
+  <td colspan="2" style="width: 4px; height: 13px;"></td>
+  <td colspan="2" rowspan="2"><span style="font-family: Arial; color: #0000FF; font-size: 12.0px;">null (METWATER_)</span></td>
+  <td style="width: 40px; height: 13px;"></td>
+</tr>
+<tr valign="top">
+  <td colspan="6" style="width: 75px; height: 1px;"></td>
+  <td style="width: 40px; height: 1px;"></td>
+</tr>
+<tr valign="top">
+  <td colspan="2" style="width: 12px; height: 14px;"></td>
+  <td colspan="3"><span style="font-family: Arial; color: #000000; font-size: 12.0px;">From :</span></td>
+  <td style="width: 3px; height: 14px;"></td>
+  <td colspan="2"><span style="font-family: Arial; color: #000000; font-size: 12.0px;">Baker St &amp; N Longwood St, Baltimore, Maryland, </span></td>
+  <td style="width: 40px; height: 14px;"></td>
+</tr>
+<tr valign="top">
+  <td style="width: 11px; height: 14px;"></td>
+  <td colspan="3"><span style="font-family: Arial; color: #000000; font-size: 12.0px;">To :</span></td>
+  <td colspan="2" style="width: 4px; height: 14px;"></td>
+  <td colspan="2"><span style="font-family: Arial; color: #000000; font-size: 12.0px;">Baker St &amp; Poplar Grove St, Baltimore, Maryland, </span></td>
+  <td style="width: 40px; height: 14px;"></td>
+</tr>
+<tr valign="top">
+  <td colspan="2" style="width: 12px; height: 14px;"></td>
+  <td colspan="3"><span style="font-family: Arial; color: #000000; font-size: 12.0px;">Dates :</span></td>
+  <td style="width: 3px; height: 14px;"></td>
+  <td colspan="2"><span style="font-family: Arial; color: #000000; font-size: 12.0px;">08/01/2010 - 01/01/2011</span></td>
+  <td style="width: 40px; height: 14px;"></td>
+</tr>
+<tr valign="top">
+  <td colspan="2" style="width: 12px; height: 14px;"></td>
+  <td colspan="3"><span style="font-family: Arial; color: #000000; font-size: 12.0px;">Owner :</span></td>
+  <td style="width: 3px; height: 14px;"></td>
+  <td colspan="2"><span style="font-family: Arial; color: #000000; font-size: 12.0px;">null (METWATER_)</span></td>
+  <td style="width: 40px; height: 14px;"></td>
+</tr>
+<tr valign="top">
+  <td colspan="2" style="width: 12px; height: 14px;"></td>
+  <td colspan="3"><span style="font-family: Arial; color: #000000; font-size: 12.0px;">Status :</span></td>
+  <td style="width: 3px; height: 14px;"></td>
+  <td colspan="2"><span style="font-family: Arial; color: #000000; font-size: 12.0px;">null</span></td>
+  <td style="width: 40px; height: 14px;"></td>
+</tr>
+</table>
+
+]]></description>
+                        <styleUrl>#ffff0000LineString</styleUrl>
+                        <LineString>
+                            <coordinates>-76.6672999999999,39.30589,0
+-76.6664699999999,39.3059200000001,0
+-76.66559,39.3059600000001,0
+</coordinates>
+                        </LineString>
+                    </Placemark>
+                    <Placemark>
+                        <name><![CDATA[WC_1167R-12/Baker Street Area Water Main]]></name>
+                        <Snippet maxLines="0"> </Snippet>
+                        <description><![CDATA[<a name="JR_PAGE_ANCHOR_0_1"></a>
+<table style="width: 420px; empty-cells: show" cellpadding="0" cellspacing="0" border="0" bgcolor="white">
+<tr>
+  <td style="width: 11px; height: 1px;"></td>
+  <td style="width: 1px; height: 1px;"></td>
+  <td style="width: 10px; height: 1px;"></td>
+  <td style="width: 49px; height: 1px;"></td>
+  <td style="width: 1px; height: 1px;"></td>
+  <td style="width: 3px; height: 1px;"></td>
+  <td style="width: 279px; height: 1px;"></td>
+  <td style="width: 26px; height: 1px;"></td>
+  <td style="width: 40px; height: 1px;"></td>
+</tr>
+<tr valign="top">
+  <td colspan="3" style="width: 22px; height: 2px;"></td>
+  <td colspan="4" style="border-top-style: solid; border-top-width: 1px; border-top-color: #000000; "></td>
+  <td colspan="2" style="width: 66px; height: 2px;"></td>
+</tr>
+<tr valign="top">
+  <td colspan="2" style="width: 12px; height: 14px;"></td>
+  <td colspan="3"><span style="font-family: Arial; color: #000000; font-size: 12.0px;">Owner :</span></td>
+  <td style="width: 3px; height: 14px;"></td>
+  <td colspan="2"><span style="font-family: Arial; color: #000000; font-size: 12.0px;">METWATER_</span></td>
+  <td style="width: 40px; height: 14px;"></td>
+</tr>
+<tr valign="top">
+  <td style="width: 11px; height: 1px;"></td>
+  <td colspan="3" rowspan="2"><span style="font-family: Arial; color: #000000; font-size: 12.0px;">Applicant </span></td>
+  <td colspan="5" style="width: 349px; height: 1px;"></td>
+</tr>
+<tr valign="top">
+  <td style="width: 11px; height: 13px;"></td>
+  <td colspan="2" style="width: 4px; height: 13px;"></td>
+  <td colspan="2" rowspan="2"><span style="font-family: Arial; color: #0000FF; font-size: 12.0px;">null (METWATER_)</span></td>
+  <td style="width: 40px; height: 13px;"></td>
+</tr>
+<tr valign="top">
+  <td colspan="6" style="width: 75px; height: 1px;"></td>
+  <td style="width: 40px; height: 1px;"></td>
+</tr>
+<tr valign="top">
+  <td colspan="2" style="width: 12px; height: 14px;"></td>
+  <td colspan="3"><span style="font-family: Arial; color: #000000; font-size: 12.0px;">From :</span></td>
+  <td style="width: 3px; height: 14px;"></td>
+  <td colspan="2"><span style="font-family: Arial; color: #000000; font-size: 12.0px;">Baker St &amp; N Longwood St, Baltimore, Maryland, </span></td>
+  <td style="width: 40px; height: 14px;"></td>
+</tr>
+<tr valign="top">
+  <td style="width: 11px; height: 14px;"></td>
+  <td colspan="3"><span style="font-family: Arial; color: #000000; font-size: 12.0px;">To :</span></td>
+  <td colspan="2" style="width: 4px; height: 14px;"></td>
+  <td colspan="2"><span style="font-family: Arial; color: #000000; font-size: 12.0px;">Baker St &amp; Poplar Grove St, Baltimore, Maryland, </span></td>
+  <td style="width: 40px; height: 14px;"></td>
+</tr>
+<tr valign="top">
+  <td colspan="2" style="width: 12px; height: 14px;"></td>
+  <td colspan="3"><span style="font-family: Arial; color: #000000; font-size: 12.0px;">Dates :</span></td>
+  <td style="width: 3px; height: 14px;"></td>
+  <td colspan="2"><span style="font-family: Arial; color: #000000; font-size: 12.0px;">08/01/2010 - 01/01/2011</span></td>
+  <td style="width: 40px; height: 14px;"></td>
+</tr>
+<tr valign="top">
+  <td colspan="2" style="width: 12px; height: 14px;"></td>
+  <td colspan="3"><span style="font-family: Arial; color: #000000; font-size: 12.0px;">Owner :</span></td>
+  <td style="width: 3px; height: 14px;"></td>
+  <td colspan="2"><span style="font-family: Arial; color: #000000; font-size: 12.0px;">null (METWATER_)</span></td>
+  <td style="width: 40px; height: 14px;"></td>
+</tr>
+<tr valign="top">
+  <td colspan="2" style="width: 12px; height: 14px;"></td>
+  <td colspan="3"><span style="font-family: Arial; color: #000000; font-size: 12.0px;">Status :</span></td>
+  <td style="width: 3px; height: 14px;"></td>
+  <td colspan="2"><span style="font-family: Arial; color: #000000; font-size: 12.0px;">null</span></td>
+  <td style="width: 40px; height: 14px;"></td>
+</tr>
+</table>
+
+]]></description>
+                        <styleUrl>#ffff0000r_wat.png</styleUrl>
+                        <Point>
+                            <coordinates>-76.6664448426605,39.3059211435155</coordinates>
+                        </Point>
+                    </Placemark>
+                </Folder>
+                <Folder>
+                    <open>0</open>
+                    <Snippet maxLines="0"> </Snippet>
+                    <name><![CDATA[WC_1167R-05/Greene Street Lining]]></name>
+                    <Placemark>
+                        <name><![CDATA[WC_1167R-05/Greene Street Lining]]></name>
+                        <Snippet maxLines="0"> </Snippet>
+                        <description><![CDATA[<a name="JR_PAGE_ANCHOR_0_1"></a>
+<table style="width: 420px; empty-cells: show" cellpadding="0" cellspacing="0" border="0" bgcolor="white">
+<tr>
+  <td style="width: 11px; height: 1px;"></td>
+  <td style="width: 1px; height: 1px;"></td>
+  <td style="width: 10px; height: 1px;"></td>
+  <td style="width: 49px; height: 1px;"></td>
+  <td style="width: 1px; height: 1px;"></td>
+  <td style="width: 3px; height: 1px;"></td>
+  <td style="width: 279px; height: 1px;"></td>
+  <td style="width: 26px; height: 1px;"></td>
+  <td style="width: 40px; height: 1px;"></td>
+</tr>
+<tr valign="top">
+  <td colspan="3" style="width: 22px; height: 2px;"></td>
+  <td colspan="4" style="border-top-style: solid; border-top-width: 1px; border-top-color: #000000; "></td>
+  <td colspan="2" style="width: 66px; height: 2px;"></td>
+</tr>
+<tr valign="top">
+  <td colspan="2" style="width: 12px; height: 14px;"></td>
+  <td colspan="3"><span style="font-family: Arial; color: #000000; font-size: 12.0px;">Owner :</span></td>
+  <td style="width: 3px; height: 14px;"></td>
+  <td colspan="2"><span style="font-family: Arial; color: #000000; font-size: 12.0px;">METWATER_</span></td>
+  <td style="width: 40px; height: 14px;"></td>
+</tr>
+<tr valign="top">
+  <td style="width: 11px; height: 1px;"></td>
+  <td colspan="3" rowspan="2"><span style="font-family: Arial; color: #000000; font-size: 12.0px;">Applicant </span></td>
+  <td colspan="5" style="width: 349px; height: 1px;"></td>
+</tr>
+<tr valign="top">
+  <td style="width: 11px; height: 13px;"></td>
+  <td colspan="2" style="width: 4px; height: 13px;"></td>
+  <td colspan="2" rowspan="2"><span style="font-family: Arial; color: #0000FF; font-size: 12.0px;">null (METWATER_)</span></td>
+  <td style="width: 40px; height: 13px;"></td>
+</tr>
+<tr valign="top">
+  <td colspan="6" style="width: 75px; height: 1px;"></td>
+  <td style="width: 40px; height: 1px;"></td>
+</tr>
+<tr valign="top">
+  <td colspan="2" style="width: 12px; height: 14px;"></td>
+  <td colspan="3"><span style="font-family: Arial; color: #000000; font-size: 12.0px;">From :</span></td>
+  <td style="width: 3px; height: 14px;"></td>
+  <td colspan="2"><span style="font-family: Arial; color: #000000; font-size: 12.0px;">S Greene St &amp; W Baltimore St, Baltimore, Maryland, </span></td>
+  <td style="width: 40px; height: 14px;"></td>
+</tr>
+<tr valign="top">
+  <td style="width: 11px; height: 14px;"></td>
+  <td colspan="3"><span style="font-family: Arial; color: #000000; font-size: 12.0px;">To :</span></td>
+  <td colspan="2" style="width: 4px; height: 14px;"></td>
+  <td colspan="2"><span style="font-family: Arial; color: #000000; font-size: 12.0px;">S Greene St &amp; W Lombard St, Baltimore, Maryland, </span></td>
+  <td style="width: 40px; height: 14px;"></td>
+</tr>
+<tr valign="top">
+  <td colspan="2" style="width: 12px; height: 14px;"></td>
+  <td colspan="3"><span style="font-family: Arial; color: #000000; font-size: 12.0px;">Dates :</span></td>
+  <td style="width: 3px; height: 14px;"></td>
+  <td colspan="2"><span style="font-family: Arial; color: #000000; font-size: 12.0px;">08/01/2010 - 01/01/2011</span></td>
+  <td style="width: 40px; height: 14px;"></td>
+</tr>
+<tr valign="top">
+  <td colspan="2" style="width: 12px; height: 14px;"></td>
+  <td colspan="3"><span style="font-family: Arial; color: #000000; font-size: 12.0px;">Owner :</span></td>
+  <td style="width: 3px; height: 14px;"></td>
+  <td colspan="2"><span style="font-family: Arial; color: #000000; font-size: 12.0px;">null (METWATER_)</span></td>
+  <td style="width: 40px; height: 14px;"></td>
+</tr>
+<tr valign="top">
+  <td colspan="2" style="width: 12px; height: 14px;"></td>
+  <td colspan="3"><span style="font-family: Arial; color: #000000; font-size: 12.0px;">Status :</span></td>
+  <td style="width: 3px; height: 14px;"></td>
+  <td colspan="2"><span style="font-family: Arial; color: #000000; font-size: 12.0px;">null</span></td>
+  <td style="width: 40px; height: 14px;"></td>
+</tr>
+</table>
+
+]]></description>
+                        <styleUrl>#ffff0000LineString</styleUrl>
+                        <LineString>
+                            <coordinates>-76.6236699999999,39.2891900000001,0
+-76.6236599999999,39.28898,0
+-76.6236399999999,39.28853,0
+-76.6236099999999,39.2880200000001,0
+-76.6236099999999,39.28799,0
+-76.6235699999999,39.2874100000001,0
+</coordinates>
+                        </LineString>
+                    </Placemark>
+                    <Placemark>
+                        <name><![CDATA[WC_1167R-05/Greene Street Lining]]></name>
+                        <Snippet maxLines="0"> </Snippet>
+                        <description><![CDATA[<a name="JR_PAGE_ANCHOR_0_1"></a>
+<table style="width: 420px; empty-cells: show" cellpadding="0" cellspacing="0" border="0" bgcolor="white">
+<tr>
+  <td style="width: 11px; height: 1px;"></td>
+  <td style="width: 1px; height: 1px;"></td>
+  <td style="width: 10px; height: 1px;"></td>
+  <td style="width: 49px; height: 1px;"></td>
+  <td style="width: 1px; height: 1px;"></td>
+  <td style="width: 3px; height: 1px;"></td>
+  <td style="width: 279px; height: 1px;"></td>
+  <td style="width: 26px; height: 1px;"></td>
+  <td style="width: 40px; height: 1px;"></td>
+</tr>
+<tr valign="top">
+  <td colspan="3" style="width: 22px; height: 2px;"></td>
+  <td colspan="4" style="border-top-style: solid; border-top-width: 1px; border-top-color: #000000; "></td>
+  <td colspan="2" style="width: 66px; height: 2px;"></td>
+</tr>
+<tr valign="top">
+  <td colspan="2" style="width: 12px; height: 14px;"></td>
+  <td colspan="3"><span style="font-family: Arial; color: #000000; font-size: 12.0px;">Owner :</span></td>
+  <td style="width: 3px; height: 14px;"></td>
+  <td colspan="2"><span style="font-family: Arial; color: #000000; font-size: 12.0px;">METWATER_</span></td>
+  <td style="width: 40px; height: 14px;"></td>
+</tr>
+<tr valign="top">
+  <td style="width: 11px; height: 1px;"></td>
+  <td colspan="3" rowspan="2"><span style="font-family: Arial; color: #000000; font-size: 12.0px;">Applicant </span></td>
+  <td colspan="5" style="width: 349px; height: 1px;"></td>
+</tr>
+<tr valign="top">
+  <td style="width: 11px; height: 13px;"></td>
+  <td colspan="2" style="width: 4px; height: 13px;"></td>
+  <td colspan="2" rowspan="2"><span style="font-family: Arial; color: #0000FF; font-size: 12.0px;">null (METWATER_)</span></td>
+  <td style="width: 40px; height: 13px;"></td>
+</tr>
+<tr valign="top">
+  <td colspan="6" style="width: 75px; height: 1px;"></td>
+  <td style="width: 40px; height: 1px;"></td>
+</tr>
+<tr valign="top">
+  <td colspan="2" style="width: 12px; height: 14px;"></td>
+  <td colspan="3"><span style="font-family: Arial; color: #000000; font-size: 12.0px;">From :</span></td>
+  <td style="width: 3px; height: 14px;"></td>
+  <td colspan="2"><span style="font-family: Arial; color: #000000; font-size: 12.0px;">S Greene St &amp; W Baltimore St, Baltimore, Maryland, </span></td>
+  <td style="width: 40px; height: 14px;"></td>
+</tr>
+<tr valign="top">
+  <td style="width: 11px; height: 14px;"></td>
+  <td colspan="3"><span style="font-family: Arial; color: #000000; font-size: 12.0px;">To :</span></td>
+  <td colspan="2" style="width: 4px; height: 14px;"></td>
+  <td colspan="2"><span style="font-family: Arial; color: #000000; font-size: 12.0px;">S Greene St &amp; W Lombard St, Baltimore, Maryland, </span></td>
+  <td style="width: 40px; height: 14px;"></td>
+</tr>
+<tr valign="top">
+  <td colspan="2" style="width: 12px; height: 14px;"></td>
+  <td colspan="3"><span style="font-family: Arial; color: #000000; font-size: 12.0px;">Dates :</span></td>
+  <td style="width: 3px; height: 14px;"></td>
+  <td colspan="2"><span style="font-family: Arial; color: #000000; font-size: 12.0px;">08/01/2010 - 01/01/2011</span></td>
+  <td style="width: 40px; height: 14px;"></td>
+</tr>
+<tr valign="top">
+  <td colspan="2" style="width: 12px; height: 14px;"></td>
+  <td colspan="3"><span style="font-family: Arial; color: #000000; font-size: 12.0px;">Owner :</span></td>
+  <td style="width: 3px; height: 14px;"></td>
+  <td colspan="2"><span style="font-family: Arial; color: #000000; font-size: 12.0px;">null (METWATER_)</span></td>
+  <td style="width: 40px; height: 14px;"></td>
+</tr>
+<tr valign="top">
+  <td colspan="2" style="width: 12px; height: 14px;"></td>
+  <td colspan="3"><span style="font-family: Arial; color: #000000; font-size: 12.0px;">Status :</span></td>
+  <td style="width: 3px; height: 14px;"></td>
+  <td colspan="2"><span style="font-family: Arial; color: #000000; font-size: 12.0px;">null</span></td>
+  <td style="width: 40px; height: 14px;"></td>
+</tr>
+</table>
+
+]]></description>
+                        <styleUrl>#ffff0000r_wat.png</styleUrl>
+                        <Point>
+                            <coordinates>-76.6236264476302,39.2882996097152</coordinates>
+                        </Point>
+                    </Placemark>
+                </Folder>
+                <Folder>
+                    <open>0</open>
+                    <Snippet maxLines="0"> </Snippet>
+                    <name><![CDATA[WC_1167R-06/Baltimore Street Linig]]></name>
+                    <Placemark>
+                        <name><![CDATA[WC_1167R-06/Baltimore Street Linig]]></name>
+                        <Snippet maxLines="0"> </Snippet>
+                        <description><![CDATA[<a name="JR_PAGE_ANCHOR_0_1"></a>
+<table style="width: 420px; empty-cells: show" cellpadding="0" cellspacing="0" border="0" bgcolor="white">
+<tr>
+  <td style="width: 11px; height: 1px;"></td>
+  <td style="width: 1px; height: 1px;"></td>
+  <td style="width: 10px; height: 1px;"></td>
+  <td style="width: 49px; height: 1px;"></td>
+  <td style="width: 1px; height: 1px;"></td>
+  <td style="width: 3px; height: 1px;"></td>
+  <td style="width: 279px; height: 1px;"></td>
+  <td style="width: 26px; height: 1px;"></td>
+  <td style="width: 40px; height: 1px;"></td>
+</tr>
+<tr valign="top">
+  <td colspan="3" style="width: 22px; height: 2px;"></td>
+  <td colspan="4" style="border-top-style: solid; border-top-width: 1px; border-top-color: #000000; "></td>
+  <td colspan="2" style="width: 66px; height: 2px;"></td>
+</tr>
+<tr valign="top">
+  <td colspan="2" style="width: 12px; height: 14px;"></td>
+  <td colspan="3"><span style="font-family: Arial; color: #000000; font-size: 12.0px;">Owner :</span></td>
+  <td style="width: 3px; height: 14px;"></td>
+  <td colspan="2"><span style="font-family: Arial; color: #000000; font-size: 12.0px;">METWATER_</span></td>
+  <td style="width: 40px; height: 14px;"></td>
+</tr>
+<tr valign="top">
+  <td style="width: 11px; height: 1px;"></td>
+  <td colspan="3" rowspan="2"><span style="font-family: Arial; color: #000000; font-size: 12.0px;">Applicant </span></td>
+  <td colspan="5" style="width: 349px; height: 1px;"></td>
+</tr>
+<tr valign="top">
+  <td style="width: 11px; height: 13px;"></td>
+  <td colspan="2" style="width: 4px; height: 13px;"></td>
+  <td colspan="2" rowspan="2"><span style="font-family: Arial; color: #0000FF; font-size: 12.0px;">null (METWATER_)</span></td>
+  <td style="width: 40px; height: 13px;"></td>
+</tr>
+<tr valign="top">
+  <td colspan="6" style="width: 75px; height: 1px;"></td>
+  <td style="width: 40px; height: 1px;"></td>
+</tr>
+<tr valign="top">
+  <td colspan="2" style="width: 12px; height: 14px;"></td>
+  <td colspan="3"><span style="font-family: Arial; color: #000000; font-size: 12.0px;">From :</span></td>
+  <td style="width: 3px; height: 14px;"></td>
+  <td colspan="2"><span style="font-family: Arial; color: #000000; font-size: 12.0px;">W Baltimore St &amp; N Martin Luther King Jr Blvd, </span></td>
+  <td style="width: 40px; height: 14px;"></td>
+</tr>
+<tr valign="top">
+  <td style="width: 11px; height: 14px;"></td>
+  <td colspan="3"><span style="font-family: Arial; color: #000000; font-size: 12.0px;">To :</span></td>
+  <td colspan="2" style="width: 4px; height: 14px;"></td>
+  <td colspan="2"><span style="font-family: Arial; color: #000000; font-size: 12.0px;">W Baltimore St &amp; S Paca St, Baltimore, Maryland, </span></td>
+  <td style="width: 40px; height: 14px;"></td>
+</tr>
+<tr valign="top">
+  <td colspan="2" style="width: 12px; height: 14px;"></td>
+  <td colspan="3"><span style="font-family: Arial; color: #000000; font-size: 12.0px;">Dates :</span></td>
+  <td style="width: 3px; height: 14px;"></td>
+  <td colspan="2"><span style="font-family: Arial; color: #000000; font-size: 12.0px;">08/01/2010 - 01/01/2011</span></td>
+  <td style="width: 40px; height: 14px;"></td>
+</tr>
+<tr valign="top">
+  <td colspan="2" style="width: 12px; height: 14px;"></td>
+  <td colspan="3"><span style="font-family: Arial; color: #000000; font-size: 12.0px;">Owner :</span></td>
+  <td style="width: 3px; height: 14px;"></td>
+  <td colspan="2"><span style="font-family: Arial; color: #000000; font-size: 12.0px;">null (METWATER_)</span></td>
+  <td style="width: 40px; height: 14px;"></td>
+</tr>
+<tr valign="top">
+  <td colspan="2" style="width: 12px; height: 14px;"></td>
+  <td colspan="3"><span style="font-family: Arial; color: #000000; font-size: 12.0px;">Status :</span></td>
+  <td style="width: 3px; height: 14px;"></td>
+  <td colspan="2"><span style="font-family: Arial; color: #000000; font-size: 12.0px;">null</span></td>
+  <td style="width: 40px; height: 14px;"></td>
+</tr>
+</table>
+
+]]></description>
+                        <styleUrl>#ffff0000LineString</styleUrl>
+                        <LineString>
+                            <coordinates>-76.6280199999999,39.289,0
+-76.6277799999999,39.289,0
+-76.6267799999999,39.2890400000001,0
+-76.6236699999999,39.2891900000001,0
+-76.6222699999999,39.2892400000001,0
+</coordinates>
+                        </LineString>
+                    </Placemark>
+                    <Placemark>
+                        <name><![CDATA[WC_1167R-06/Baltimore Street Linig]]></name>
+                        <Snippet maxLines="0"> </Snippet>
+                        <description><![CDATA[<a name="JR_PAGE_ANCHOR_0_1"></a>
+<table style="width: 420px; empty-cells: show" cellpadding="0" cellspacing="0" border="0" bgcolor="white">
+<tr>
+  <td style="width: 11px; height: 1px;"></td>
+  <td style="width: 1px; height: 1px;"></td>
+  <td style="width: 10px; height: 1px;"></td>
+  <td style="width: 49px; height: 1px;"></td>
+  <td style="width: 1px; height: 1px;"></td>
+  <td style="width: 3px; height: 1px;"></td>
+  <td style="width: 279px; height: 1px;"></td>
+  <td style="width: 26px; height: 1px;"></td>
+  <td style="width: 40px; height: 1px;"></td>
+</tr>
+<tr valign="top">
+  <td colspan="3" style="width: 22px; height: 2px;"></td>
+  <td colspan="4" style="border-top-style: solid; border-top-width: 1px; border-top-color: #000000; "></td>
+  <td colspan="2" style="width: 66px; height: 2px;"></td>
+</tr>
+<tr valign="top">
+  <td colspan="2" style="width: 12px; height: 14px;"></td>
+  <td colspan="3"><span style="font-family: Arial; color: #000000; font-size: 12.0px;">Owner :</span></td>
+  <td style="width: 3px; height: 14px;"></td>
+  <td colspan="2"><span style="font-family: Arial; color: #000000; font-size: 12.0px;">METWATER_</span></td>
+  <td style="width: 40px; height: 14px;"></td>
+</tr>
+<tr valign="top">
+  <td style="width: 11px; height: 1px;"></td>
+  <td colspan="3" rowspan="2"><span style="font-family: Arial; color: #000000; font-size: 12.0px;">Applicant </span></td>
+  <td colspan="5" style="width: 349px; height: 1px;"></td>
+</tr>
+<tr valign="top">
+  <td style="width: 11px; height: 13px;"></td>
+  <td colspan="2" style="width: 4px; height: 13px;"></td>
+  <td colspan="2" rowspan="2"><span style="font-family: Arial; color: #0000FF; font-size: 12.0px;">null (METWATER_)</span></td>
+  <td style="width: 40px; height: 13px;"></td>
+</tr>
+<tr valign="top">
+  <td colspan="6" style="width: 75px; height: 1px;"></td>
+  <td style="width: 40px; height: 1px;"></td>
+</tr>
+<tr valign="top">
+  <td colspan="2" style="width: 12px; height: 14px;"></td>
+  <td colspan="3"><span style="font-family: Arial; color: #000000; font-size: 12.0px;">From :</span></td>
+  <td style="width: 3px; height: 14px;"></td>
+  <td colspan="2"><span style="font-family: Arial; color: #000000; font-size: 12.0px;">W Baltimore St &amp; N Martin Luther King Jr Blvd, </span></td>
+  <td style="width: 40px; height: 14px;"></td>
+</tr>
+<tr valign="top">
+  <td style="width: 11px; height: 14px;"></td>
+  <td colspan="3"><span style="font-family: Arial; color: #000000; font-size: 12.0px;">To :</span></td>
+  <td colspan="2" style="width: 4px; height: 14px;"></td>
+  <td colspan="2"><span style="font-family: Arial; color: #000000; font-size: 12.0px;">W Baltimore St &amp; S Paca St, Baltimore, Maryland, </span></td>
+  <td style="width: 40px; height: 14px;"></td>
+</tr>
+<tr valign="top">
+  <td colspan="2" style="width: 12px; height: 14px;"></td>
+  <td colspan="3"><span style="font-family: Arial; color: #000000; font-size: 12.0px;">Dates :</span></td>
+  <td style="width: 3px; height: 14px;"></td>
+  <td colspan="2"><span style="font-family: Arial; color: #000000; font-size: 12.0px;">08/01/2010 - 01/01/2011</span></td>
+  <td style="width: 40px; height: 14px;"></td>
+</tr>
+<tr valign="top">
+  <td colspan="2" style="width: 12px; height: 14px;"></td>
+  <td colspan="3"><span style="font-family: Arial; color: #000000; font-size: 12.0px;">Owner :</span></td>
+  <td style="width: 3px; height: 14px;"></td>
+  <td colspan="2"><span style="font-family: Arial; color: #000000; font-size: 12.0px;">null (METWATER_)</span></td>
+  <td style="width: 40px; height: 14px;"></td>
+</tr>
+<tr valign="top">
+  <td colspan="2" style="width: 12px; height: 14px;"></td>
+  <td colspan="3"><span style="font-family: Arial; color: #000000; font-size: 12.0px;">Status :</span></td>
+  <td style="width: 3px; height: 14px;"></td>
+  <td colspan="2"><span style="font-family: Arial; color: #000000; font-size: 12.0px;">null</span></td>
+  <td style="width: 40px; height: 14px;"></td>
+</tr>
+</table>
+
+]]></description>
+                        <styleUrl>#ffff0000r_wat.png</styleUrl>
+                        <Point>
+                            <coordinates>-76.6251450464968,39.2891188562784</coordinates>
+                        </Point>
+                    </Placemark>
+                </Folder>
+                <Folder>
+                    <open>0</open>
+                    <Snippet maxLines="0"> </Snippet>
+                    <name><![CDATA[WC_1167R-26/Lake Walker Area]]></name>
+                    <Placemark>
+                        <name><![CDATA[WC_1167R-26/Lake Walker Area]]></name>
+                        <Snippet maxLines="0"> </Snippet>
+                        <description><![CDATA[<a name="JR_PAGE_ANCHOR_0_1"></a>
+<table style="width: 420px; empty-cells: show" cellpadding="0" cellspacing="0" border="0" bgcolor="white">
+<tr>
+  <td style="width: 11px; height: 1px;"></td>
+  <td style="width: 1px; height: 1px;"></td>
+  <td style="width: 10px; height: 1px;"></td>
+  <td style="width: 49px; height: 1px;"></td>
+  <td style="width: 1px; height: 1px;"></td>
+  <td style="width: 3px; height: 1px;"></td>
+  <td style="width: 279px; height: 1px;"></td>
+  <td style="width: 26px; height: 1px;"></td>
+  <td style="width: 40px; height: 1px;"></td>
+</tr>
+<tr valign="top">
+  <td colspan="3" style="width: 22px; height: 2px;"></td>
+  <td colspan="4" style="border-top-style: solid; border-top-width: 1px; border-top-color: #000000; "></td>
+  <td colspan="2" style="width: 66px; height: 2px;"></td>
+</tr>
+<tr valign="top">
+  <td colspan="2" style="width: 12px; height: 14px;"></td>
+  <td colspan="3"><span style="font-family: Arial; color: #000000; font-size: 12.0px;">Owner :</span></td>
+  <td style="width: 3px; height: 14px;"></td>
+  <td colspan="2"><span style="font-family: Arial; color: #000000; font-size: 12.0px;">METWATER_</span></td>
+  <td style="width: 40px; height: 14px;"></td>
+</tr>
+<tr valign="top">
+  <td style="width: 11px; height: 1px;"></td>
+  <td colspan="3" rowspan="2"><span style="font-family: Arial; color: #000000; font-size: 12.0px;">Applicant </span></td>
+  <td colspan="5" style="width: 349px; height: 1px;"></td>
+</tr>
+<tr valign="top">
+  <td style="width: 11px; height: 13px;"></td>
+  <td colspan="2" style="width: 4px; height: 13px;"></td>
+  <td colspan="2" rowspan="2"><span style="font-family: Arial; color: #0000FF; font-size: 12.0px;">null (METWATER_)</span></td>
+  <td style="width: 40px; height: 13px;"></td>
+</tr>
+<tr valign="top">
+  <td colspan="6" style="width: 75px; height: 1px;"></td>
+  <td style="width: 40px; height: 1px;"></td>
+</tr>
+<tr valign="top">
+  <td colspan="2" style="width: 12px; height: 14px;"></td>
+  <td colspan="3"><span style="font-family: Arial; color: #000000; font-size: 12.0px;">From :</span></td>
+  <td style="width: 3px; height: 14px;"></td>
+  <td colspan="2"><span style="font-family: Arial; color: #000000; font-size: 12.0px;">Weidner Ave &amp; Walker Ave, Baltimore, Maryland, </span></td>
+  <td style="width: 40px; height: 14px;"></td>
+</tr>
+<tr valign="top">
+  <td style="width: 11px; height: 14px;"></td>
+  <td colspan="3"><span style="font-family: Arial; color: #000000; font-size: 12.0px;">To :</span></td>
+  <td colspan="2" style="width: 4px; height: 14px;"></td>
+  <td colspan="2"><span style="font-family: Arial; color: #000000; font-size: 12.0px;">Weidner Ave &amp; Hollen Rd, Baltimore, Maryland, </span></td>
+  <td style="width: 40px; height: 14px;"></td>
+</tr>
+<tr valign="top">
+  <td colspan="2" style="width: 12px; height: 14px;"></td>
+  <td colspan="3"><span style="font-family: Arial; color: #000000; font-size: 12.0px;">Dates :</span></td>
+  <td style="width: 3px; height: 14px;"></td>
+  <td colspan="2"><span style="font-family: Arial; color: #000000; font-size: 12.0px;">08/01/2010 - 01/01/2011</span></td>
+  <td style="width: 40px; height: 14px;"></td>
+</tr>
+<tr valign="top">
+  <td colspan="2" style="width: 12px; height: 14px;"></td>
+  <td colspan="3"><span style="font-family: Arial; color: #000000; font-size: 12.0px;">Owner :</span></td>
+  <td style="width: 3px; height: 14px;"></td>
+  <td colspan="2"><span style="font-family: Arial; color: #000000; font-size: 12.0px;">null (METWATER_)</span></td>
+  <td style="width: 40px; height: 14px;"></td>
+</tr>
+<tr valign="top">
+  <td colspan="2" style="width: 12px; height: 14px;"></td>
+  <td colspan="3"><span style="font-family: Arial; color: #000000; font-size: 12.0px;">Status :</span></td>
+  <td style="width: 3px; height: 14px;"></td>
+  <td colspan="2"><span style="font-family: Arial; color: #000000; font-size: 12.0px;">null</span></td>
+  <td style="width: 40px; height: 14px;"></td>
+</tr>
+</table>
+
+]]></description>
+                        <styleUrl>#ffff0000LineString</styleUrl>
+                        <LineString>
+                            <coordinates>-76.6059699999999,39.3720000000001,0
+-76.6054399999999,39.3711300000001,0
+-76.6052699999999,39.3708500000001,0
+-76.6051799999999,39.3707400000001,0
+-76.6045299999999,39.3701100000001,0
+</coordinates>
+                        </LineString>
+                    </Placemark>
+                    <Placemark>
+                        <name><![CDATA[WC_1167R-26/Lake Walker Area]]></name>
+                        <Snippet maxLines="0"> </Snippet>
+                        <description><![CDATA[<a name="JR_PAGE_ANCHOR_0_1"></a>
+<table style="width: 420px; empty-cells: show" cellpadding="0" cellspacing="0" border="0" bgcolor="white">
+<tr>
+  <td style="width: 11px; height: 1px;"></td>
+  <td style="width: 1px; height: 1px;"></td>
+  <td style="width: 10px; height: 1px;"></td>
+  <td style="width: 49px; height: 1px;"></td>
+  <td style="width: 1px; height: 1px;"></td>
+  <td style="width: 3px; height: 1px;"></td>
+  <td style="width: 279px; height: 1px;"></td>
+  <td style="width: 26px; height: 1px;"></td>
+  <td style="width: 40px; height: 1px;"></td>
+</tr>
+<tr valign="top">
+  <td colspan="3" style="width: 22px; height: 2px;"></td>
+  <td colspan="4" style="border-top-style: solid; border-top-width: 1px; border-top-color: #000000; "></td>
+  <td colspan="2" style="width: 66px; height: 2px;"></td>
+</tr>
+<tr valign="top">
+  <td colspan="2" style="width: 12px; height: 14px;"></td>
+  <td colspan="3"><span style="font-family: Arial; color: #000000; font-size: 12.0px;">Owner :</span></td>
+  <td style="width: 3px; height: 14px;"></td>
+  <td colspan="2"><span style="font-family: Arial; color: #000000; font-size: 12.0px;">METWATER_</span></td>
+  <td style="width: 40px; height: 14px;"></td>
+</tr>
+<tr valign="top">
+  <td style="width: 11px; height: 1px;"></td>
+  <td colspan="3" rowspan="2"><span style="font-family: Arial; color: #000000; font-size: 12.0px;">Applicant </span></td>
+  <td colspan="5" style="width: 349px; height: 1px;"></td>
+</tr>
+<tr valign="top">
+  <td style="width: 11px; height: 13px;"></td>
+  <td colspan="2" style="width: 4px; height: 13px;"></td>
+  <td colspan="2" rowspan="2"><span style="font-family: Arial; color: #0000FF; font-size: 12.0px;">null (METWATER_)</span></td>
+  <td style="width: 40px; height: 13px;"></td>
+</tr>
+<tr valign="top">
+  <td colspan="6" style="width: 75px; height: 1px;"></td>
+  <td style="width: 40px; height: 1px;"></td>
+</tr>
+<tr valign="top">
+  <td colspan="2" style="width: 12px; height: 14px;"></td>
+  <td colspan="3"><span style="font-family: Arial; color: #000000; font-size: 12.0px;">From :</span></td>
+  <td style="width: 3px; height: 14px;"></td>
+  <td colspan="2"><span style="font-family: Arial; color: #000000; font-size: 12.0px;">Weidner Ave &amp; Walker Ave, Baltimore, Maryland, </span></td>
+  <td style="width: 40px; height: 14px;"></td>
+</tr>
+<tr valign="top">
+  <td style="width: 11px; height: 14px;"></td>
+  <td colspan="3"><span style="font-family: Arial; color: #000000; font-size: 12.0px;">To :</span></td>
+  <td colspan="2" style="width: 4px; height: 14px;"></td>
+  <td colspan="2"><span style="font-family: Arial; color: #000000; font-size: 12.0px;">Weidner Ave &amp; Hollen Rd, Baltimore, Maryland, </span></td>
+  <td style="width: 40px; height: 14px;"></td>
+</tr>
+<tr valign="top">
+  <td colspan="2" style="width: 12px; height: 14px;"></td>
+  <td colspan="3"><span style="font-family: Arial; color: #000000; font-size: 12.0px;">Dates :</span></td>
+  <td style="width: 3px; height: 14px;"></td>
+  <td colspan="2"><span style="font-family: Arial; color: #000000; font-size: 12.0px;">08/01/2010 - 01/01/2011</span></td>
+  <td style="width: 40px; height: 14px;"></td>
+</tr>
+<tr valign="top">
+  <td colspan="2" style="width: 12px; height: 14px;"></td>
+  <td colspan="3"><span style="font-family: Arial; color: #000000; font-size: 12.0px;">Owner :</span></td>
+  <td style="width: 3px; height: 14px;"></td>
+  <td colspan="2"><span style="font-family: Arial; color: #000000; font-size: 12.0px;">null (METWATER_)</span></td>
+  <td style="width: 40px; height: 14px;"></td>
+</tr>
+<tr valign="top">
+  <td colspan="2" style="width: 12px; height: 14px;"></td>
+  <td colspan="3"><span style="font-family: Arial; color: #000000; font-size: 12.0px;">Status :</span></td>
+  <td style="width: 3px; height: 14px;"></td>
+  <td colspan="2"><span style="font-family: Arial; color: #000000; font-size: 12.0px;">null</span></td>
+  <td style="width: 40px; height: 14px;"></td>
+</tr>
+</table>
+
+]]></description>
+                        <styleUrl>#ffff0000r_wat.png</styleUrl>
+                        <Point>
+                            <coordinates>-76.6053475762332,39.3709777726195</coordinates>
+                        </Point>
+                    </Placemark>
+                </Folder>
+                <Folder>
+                    <open>0</open>
+                    <Snippet maxLines="0"> </Snippet>
+                    <name><![CDATA[WC_1167R-08/Paca  Street Lining]]></name>
+                    <Placemark>
+                        <name><![CDATA[WC_1167R-08/Paca  Street Lining]]></name>
+                        <Snippet maxLines="0"> </Snippet>
+                        <description><![CDATA[<a name="JR_PAGE_ANCHOR_0_1"></a>
+<table style="width: 420px; empty-cells: show" cellpadding="0" cellspacing="0" border="0" bgcolor="white">
+<tr>
+  <td style="width: 11px; height: 1px;"></td>
+  <td style="width: 1px; height: 1px;"></td>
+  <td style="width: 10px; height: 1px;"></td>
+  <td style="width: 49px; height: 1px;"></td>
+  <td style="width: 1px; height: 1px;"></td>
+  <td style="width: 3px; height: 1px;"></td>
+  <td style="width: 279px; height: 1px;"></td>
+  <td style="width: 26px; height: 1px;"></td>
+  <td style="width: 40px; height: 1px;"></td>
+</tr>
+<tr valign="top">
+  <td colspan="3" style="width: 22px; height: 2px;"></td>
+  <td colspan="4" style="border-top-style: solid; border-top-width: 1px; border-top-color: #000000; "></td>
+  <td colspan="2" style="width: 66px; height: 2px;"></td>
+</tr>
+<tr valign="top">
+  <td colspan="2" style="width: 12px; height: 14px;"></td>
+  <td colspan="3"><span style="font-family: Arial; color: #000000; font-size: 12.0px;">Owner :</span></td>
+  <td style="width: 3px; height: 14px;"></td>
+  <td colspan="2"><span style="font-family: Arial; color: #000000; font-size: 12.0px;">METWATER_</span></td>
+  <td style="width: 40px; height: 14px;"></td>
+</tr>
+<tr valign="top">
+  <td style="width: 11px; height: 1px;"></td>
+  <td colspan="3" rowspan="2"><span style="font-family: Arial; color: #000000; font-size: 12.0px;">Applicant </span></td>
+  <td colspan="5" style="width: 349px; height: 1px;"></td>
+</tr>
+<tr valign="top">
+  <td style="width: 11px; height: 13px;"></td>
+  <td colspan="2" style="width: 4px; height: 13px;"></td>
+  <td colspan="2" rowspan="2"><span style="font-family: Arial; color: #0000FF; font-size: 12.0px;">null (METWATER_)</span></td>
+  <td style="width: 40px; height: 13px;"></td>
+</tr>
+<tr valign="top">
+  <td colspan="6" style="width: 75px; height: 1px;"></td>
+  <td style="width: 40px; height: 1px;"></td>
+</tr>
+<tr valign="top">
+  <td colspan="2" style="width: 12px; height: 14px;"></td>
+  <td colspan="3"><span style="font-family: Arial; color: #000000; font-size: 12.0px;">From :</span></td>
+  <td style="width: 3px; height: 14px;"></td>
+  <td colspan="2"><span style="font-family: Arial; color: #000000; font-size: 12.0px;">S Paca St &amp; W Lombard St, Baltimore, Maryland, </span></td>
+  <td style="width: 40px; height: 14px;"></td>
+</tr>
+<tr valign="top">
+  <td style="width: 11px; height: 14px;"></td>
+  <td colspan="3"><span style="font-family: Arial; color: #000000; font-size: 12.0px;">To :</span></td>
+  <td colspan="2" style="width: 4px; height: 14px;"></td>
+  <td colspan="2"><span style="font-family: Arial; color: #000000; font-size: 12.0px;">S Paca St &amp; W Baltimore St, Baltimore, Maryland, </span></td>
+  <td style="width: 40px; height: 14px;"></td>
+</tr>
+<tr valign="top">
+  <td colspan="2" style="width: 12px; height: 14px;"></td>
+  <td colspan="3"><span style="font-family: Arial; color: #000000; font-size: 12.0px;">Dates :</span></td>
+  <td style="width: 3px; height: 14px;"></td>
+  <td colspan="2"><span style="font-family: Arial; color: #000000; font-size: 12.0px;">08/01/2010 - 01/01/2011</span></td>
+  <td style="width: 40px; height: 14px;"></td>
+</tr>
+<tr valign="top">
+  <td colspan="2" style="width: 12px; height: 14px;"></td>
+  <td colspan="3"><span style="font-family: Arial; color: #000000; font-size: 12.0px;">Owner :</span></td>
+  <td style="width: 3px; height: 14px;"></td>
+  <td colspan="2"><span style="font-family: Arial; color: #000000; font-size: 12.0px;">null (METWATER_)</span></td>
+  <td style="width: 40px; height: 14px;"></td>
+</tr>
+<tr valign="top">
+  <td colspan="2" style="width: 12px; height: 14px;"></td>
+  <td colspan="3"><span style="font-family: Arial; color: #000000; font-size: 12.0px;">Status :</span></td>
+  <td style="width: 3px; height: 14px;"></td>
+  <td colspan="2"><span style="font-family: Arial; color: #000000; font-size: 12.0px;">null</span></td>
+  <td style="width: 40px; height: 14px;"></td>
+</tr>
+</table>
+
+]]></description>
+                        <styleUrl>#ffff0000LineString</styleUrl>
+                        <LineString>
+                            <coordinates>-76.62216,39.28747,0
+-76.6222199999999,39.28803,0
+-76.6222199999999,39.2880900000001,0
+-76.6222599999999,39.2885800000001,0
+-76.6222699999999,39.2889400000001,0
+-76.6222699999999,39.2892400000001,0
+</coordinates>
+                        </LineString>
+                    </Placemark>
+                    <Placemark>
+                        <name><![CDATA[WC_1167R-08/Paca  Street Lining]]></name>
+                        <Snippet maxLines="0"> </Snippet>
+                        <description><![CDATA[<a name="JR_PAGE_ANCHOR_0_1"></a>
+<table style="width: 420px; empty-cells: show" cellpadding="0" cellspacing="0" border="0" bgcolor="white">
+<tr>
+  <td style="width: 11px; height: 1px;"></td>
+  <td style="width: 1px; height: 1px;"></td>
+  <td style="width: 10px; height: 1px;"></td>
+  <td style="width: 49px; height: 1px;"></td>
+  <td style="width: 1px; height: 1px;"></td>
+  <td style="width: 3px; height: 1px;"></td>
+  <td style="width: 279px; height: 1px;"></td>
+  <td style="width: 26px; height: 1px;"></td>
+  <td style="width: 40px; height: 1px;"></td>
+</tr>
+<tr valign="top">
+  <td colspan="3" style="width: 22px; height: 2px;"></td>
+  <td colspan="4" style="border-top-style: solid; border-top-width: 1px; border-top-color: #000000; "></td>
+  <td colspan="2" style="width: 66px; height: 2px;"></td>
+</tr>
+<tr valign="top">
+  <td colspan="2" style="width: 12px; height: 14px;"></td>
+  <td colspan="3"><span style="font-family: Arial; color: #000000; font-size: 12.0px;">Owner :</span></td>
+  <td style="width: 3px; height: 14px;"></td>
+  <td colspan="2"><span style="font-family: Arial; color: #000000; font-size: 12.0px;">METWATER_</span></td>
+  <td style="width: 40px; height: 14px;"></td>
+</tr>
+<tr valign="top">
+  <td style="width: 11px; height: 1px;"></td>
+  <td colspan="3" rowspan="2"><span style="font-family: Arial; color: #000000; font-size: 12.0px;">Applicant </span></td>
+  <td colspan="5" style="width: 349px; height: 1px;"></td>
+</tr>
+<tr valign="top">
+  <td style="width: 11px; height: 13px;"></td>
+  <td colspan="2" style="width: 4px; height: 13px;"></td>
+  <td colspan="2" rowspan="2"><span style="font-family: Arial; color: #0000FF; font-size: 12.0px;">null (METWATER_)</span></td>
+  <td style="width: 40px; height: 13px;"></td>
+</tr>
+<tr valign="top">
+  <td colspan="6" style="width: 75px; height: 1px;"></td>
+  <td style="width: 40px; height: 1px;"></td>
+</tr>
+<tr valign="top">
+  <td colspan="2" style="width: 12px; height: 14px;"></td>
+  <td colspan="3"><span style="font-family: Arial; color: #000000; font-size: 12.0px;">From :</span></td>
+  <td style="width: 3px; height: 14px;"></td>
+  <td colspan="2"><span style="font-family: Arial; color: #000000; font-size: 12.0px;">S Paca St &amp; W Lombard St, Baltimore, Maryland, </span></td>
+  <td style="width: 40px; height: 14px;"></td>
+</tr>
+<tr valign="top">
+  <td style="width: 11px; height: 14px;"></td>
+  <td colspan="3"><span style="font-family: Arial; color: #000000; font-size: 12.0px;">To :</span></td>
+  <td colspan="2" style="width: 4px; height: 14px;"></td>
+  <td colspan="2"><span style="font-family: Arial; color: #000000; font-size: 12.0px;">S Paca St &amp; W Baltimore St, Baltimore, Maryland, </span></td>
+  <td style="width: 40px; height: 14px;"></td>
+</tr>
+<tr valign="top">
+  <td colspan="2" style="width: 12px; height: 14px;"></td>
+  <td colspan="3"><span style="font-family: Arial; color: #000000; font-size: 12.0px;">Dates :</span></td>
+  <td style="width: 3px; height: 14px;"></td>
+  <td colspan="2"><span style="font-family: Arial; color: #000000; font-size: 12.0px;">08/01/2010 - 01/01/2011</span></td>
+  <td style="width: 40px; height: 14px;"></td>
+</tr>
+<tr valign="top">
+  <td colspan="2" style="width: 12px; height: 14px;"></td>
+  <td colspan="3"><span style="font-family: Arial; color: #000000; font-size: 12.0px;">Owner :</span></td>
+  <td style="width: 3px; height: 14px;"></td>
+  <td colspan="2"><span style="font-family: Arial; color: #000000; font-size: 12.0px;">null (METWATER_)</span></td>
+  <td style="width: 40px; height: 14px;"></td>
+</tr>
+<tr valign="top">
+  <td colspan="2" style="width: 12px; height: 14px;"></td>
+  <td colspan="3"><span style="font-family: Arial; color: #000000; font-size: 12.0px;">Status :</span></td>
+  <td style="width: 3px; height: 14px;"></td>
+  <td colspan="2"><span style="font-family: Arial; color: #000000; font-size: 12.0px;">null</span></td>
+  <td style="width: 40px; height: 14px;"></td>
+</tr>
+</table>
+
+]]></description>
+                        <styleUrl>#ffff0000r_wat.png</styleUrl>
+                        <Point>
+                            <coordinates>-76.6222415025019,39.2883534056495</coordinates>
+                        </Point>
+                    </Placemark>
+                </Folder>
+                <Folder>
+                    <open>0</open>
+                    <Snippet maxLines="0"> </Snippet>
+                    <name><![CDATA[WC_1167R-19/Montpelier Water Main]]></name>
+                    <Placemark>
+                        <name><![CDATA[WC_1167R-19/Montpelier Water Main]]></name>
+                        <Snippet maxLines="0"> </Snippet>
+                        <description><![CDATA[<a name="JR_PAGE_ANCHOR_0_1"></a>
+<table style="width: 420px; empty-cells: show" cellpadding="0" cellspacing="0" border="0" bgcolor="white">
+<tr>
+  <td style="width: 11px; height: 1px;"></td>
+  <td style="width: 1px; height: 1px;"></td>
+  <td style="width: 10px; height: 1px;"></td>
+  <td style="width: 49px; height: 1px;"></td>
+  <td style="width: 1px; height: 1px;"></td>
+  <td style="width: 3px; height: 1px;"></td>
+  <td style="width: 279px; height: 1px;"></td>
+  <td style="width: 26px; height: 1px;"></td>
+  <td style="width: 40px; height: 1px;"></td>
+</tr>
+<tr valign="top">
+  <td colspan="3" style="width: 22px; height: 2px;"></td>
+  <td colspan="4" style="border-top-style: solid; border-top-width: 1px; border-top-color: #000000; "></td>
+  <td colspan="2" style="width: 66px; height: 2px;"></td>
+</tr>
+<tr valign="top">
+  <td colspan="2" style="width: 12px; height: 14px;"></td>
+  <td colspan="3"><span style="font-family: Arial; color: #000000; font-size: 12.0px;">Owner :</span></td>
+  <td style="width: 3px; height: 14px;"></td>
+  <td colspan="2"><span style="font-family: Arial; color: #000000; font-size: 12.0px;">METWATER_</span></td>
+  <td style="width: 40px; height: 14px;"></td>
+</tr>
+<tr valign="top">
+  <td style="width: 11px; height: 1px;"></td>
+  <td colspan="3" rowspan="2"><span style="font-family: Arial; color: #000000; font-size: 12.0px;">Applicant </span></td>
+  <td colspan="5" style="width: 349px; height: 1px;"></td>
+</tr>
+<tr valign="top">
+  <td style="width: 11px; height: 13px;"></td>
+  <td colspan="2" style="width: 4px; height: 13px;"></td>
+  <td colspan="2" rowspan="2"><span style="font-family: Arial; color: #0000FF; font-size: 12.0px;">null (METWATER_)</span></td>
+  <td style="width: 40px; height: 13px;"></td>
+</tr>
+<tr valign="top">
+  <td colspan="6" style="width: 75px; height: 1px;"></td>
+  <td style="width: 40px; height: 1px;"></td>
+</tr>
+<tr valign="top">
+  <td colspan="2" style="width: 12px; height: 14px;"></td>
+  <td colspan="3"><span style="font-family: Arial; color: #000000; font-size: 12.0px;">From :</span></td>
+  <td style="width: 3px; height: 14px;"></td>
+  <td colspan="2"><span style="font-family: Arial; color: #000000; font-size: 12.0px;">Montpelier St &amp; Ellerslie Ave, Baltimore, Maryland, </span></td>
+  <td style="width: 40px; height: 14px;"></td>
+</tr>
+<tr valign="top">
+  <td style="width: 11px; height: 14px;"></td>
+  <td colspan="3"><span style="font-family: Arial; color: #000000; font-size: 12.0px;">To :</span></td>
+  <td colspan="2" style="width: 4px; height: 14px;"></td>
+  <td colspan="2"><span style="font-family: Arial; color: #000000; font-size: 12.0px;">Montpelier St &amp; Old York Rd, Baltimore, Maryland, </span></td>
+  <td style="width: 40px; height: 14px;"></td>
+</tr>
+<tr valign="top">
+  <td colspan="2" style="width: 12px; height: 14px;"></td>
+  <td colspan="3"><span style="font-family: Arial; color: #000000; font-size: 12.0px;">Dates :</span></td>
+  <td style="width: 3px; height: 14px;"></td>
+  <td colspan="2"><span style="font-family: Arial; color: #000000; font-size: 12.0px;">08/01/2010 - 01/01/2011</span></td>
+  <td style="width: 40px; height: 14px;"></td>
+</tr>
+<tr valign="top">
+  <td colspan="2" style="width: 12px; height: 14px;"></td>
+  <td colspan="3"><span style="font-family: Arial; color: #000000; font-size: 12.0px;">Owner :</span></td>
+  <td style="width: 3px; height: 14px;"></td>
+  <td colspan="2"><span style="font-family: Arial; color: #000000; font-size: 12.0px;">null (METWATER_)</span></td>
+  <td style="width: 40px; height: 14px;"></td>
+</tr>
+<tr valign="top">
+  <td colspan="2" style="width: 12px; height: 14px;"></td>
+  <td colspan="3"><span style="font-family: Arial; color: #000000; font-size: 12.0px;">Status :</span></td>
+  <td style="width: 3px; height: 14px;"></td>
+  <td colspan="2"><span style="font-family: Arial; color: #000000; font-size: 12.0px;">null</span></td>
+  <td style="width: 40px; height: 14px;"></td>
+</tr>
+</table>
+
+]]></description>
+                        <styleUrl>#ffff0000LineString</styleUrl>
+                        <LineString>
+                            <coordinates>-76.6050899999999,39.3251000000001,0
+-76.60667,39.3257100000001,0
+-76.6073099999999,39.3259800000001,0
+-76.60721,39.3261600000001,0
+-76.6073099999999,39.3261900000001,0
+-76.6088399999999,39.3264500000001,0
+</coordinates>
+                        </LineString>
+                    </Placemark>
+                    <Placemark>
+                        <name><![CDATA[WC_1167R-19/Montpelier Water Main]]></name>
+                        <Snippet maxLines="0"> </Snippet>
+                        <description><![CDATA[<a name="JR_PAGE_ANCHOR_0_1"></a>
+<table style="width: 420px; empty-cells: show" cellpadding="0" cellspacing="0" border="0" bgcolor="white">
+<tr>
+  <td style="width: 11px; height: 1px;"></td>
+  <td style="width: 1px; height: 1px;"></td>
+  <td style="width: 10px; height: 1px;"></td>
+  <td style="width: 49px; height: 1px;"></td>
+  <td style="width: 1px; height: 1px;"></td>
+  <td style="width: 3px; height: 1px;"></td>
+  <td style="width: 279px; height: 1px;"></td>
+  <td style="width: 26px; height: 1px;"></td>
+  <td style="width: 40px; height: 1px;"></td>
+</tr>
+<tr valign="top">
+  <td colspan="3" style="width: 22px; height: 2px;"></td>
+  <td colspan="4" style="border-top-style: solid; border-top-width: 1px; border-top-color: #000000; "></td>
+  <td colspan="2" style="width: 66px; height: 2px;"></td>
+</tr>
+<tr valign="top">
+  <td colspan="2" style="width: 12px; height: 14px;"></td>
+  <td colspan="3"><span style="font-family: Arial; color: #000000; font-size: 12.0px;">Owner :</span></td>
+  <td style="width: 3px; height: 14px;"></td>
+  <td colspan="2"><span style="font-family: Arial; color: #000000; font-size: 12.0px;">METWATER_</span></td>
+  <td style="width: 40px; height: 14px;"></td>
+</tr>
+<tr valign="top">
+  <td style="width: 11px; height: 1px;"></td>
+  <td colspan="3" rowspan="2"><span style="font-family: Arial; color: #000000; font-size: 12.0px;">Applicant </span></td>
+  <td colspan="5" style="width: 349px; height: 1px;"></td>
+</tr>
+<tr valign="top">
+  <td style="width: 11px; height: 13px;"></td>
+  <td colspan="2" style="width: 4px; height: 13px;"></td>
+  <td colspan="2" rowspan="2"><span style="font-family: Arial; color: #0000FF; font-size: 12.0px;">null (METWATER_)</span></td>
+  <td style="width: 40px; height: 13px;"></td>
+</tr>
+<tr valign="top">
+  <td colspan="6" style="width: 75px; height: 1px;"></td>
+  <td style="width: 40px; height: 1px;"></td>
+</tr>
+<tr valign="top">
+  <td colspan="2" style="width: 12px; height: 14px;"></td>
+  <td colspan="3"><span style="font-family: Arial; color: #000000; font-size: 12.0px;">From :</span></td>
+  <td style="width: 3px; height: 14px;"></td>
+  <td colspan="2"><span style="font-family: Arial; color: #000000; font-size: 12.0px;">Montpelier St &amp; Ellerslie Ave, Baltimore, Maryland, </span></td>
+  <td style="width: 40px; height: 14px;"></td>
+</tr>
+<tr valign="top">
+  <td style="width: 11px; height: 14px;"></td>
+  <td colspan="3"><span style="font-family: Arial; color: #000000; font-size: 12.0px;">To :</span></td>
+  <td colspan="2" style="width: 4px; height: 14px;"></td>
+  <td colspan="2"><span style="font-family: Arial; color: #000000; font-size: 12.0px;">Montpelier St &amp; Old York Rd, Baltimore, Maryland, </span></td>
+  <td style="width: 40px; height: 14px;"></td>
+</tr>
+<tr valign="top">
+  <td colspan="2" style="width: 12px; height: 14px;"></td>
+  <td colspan="3"><span style="font-family: Arial; color: #000000; font-size: 12.0px;">Dates :</span></td>
+  <td style="width: 3px; height: 14px;"></td>
+  <td colspan="2"><span style="font-family: Arial; color: #000000; font-size: 12.0px;">08/01/2010 - 01/01/2011</span></td>
+  <td style="width: 40px; height: 14px;"></td>
+</tr>
+<tr valign="top">
+  <td colspan="2" style="width: 12px; height: 14px;"></td>
+  <td colspan="3"><span style="font-family: Arial; color: #000000; font-size: 12.0px;">Owner :</span></td>
+  <td style="width: 3px; height: 14px;"></td>
+  <td colspan="2"><span style="font-family: Arial; color: #000000; font-size: 12.0px;">null (METWATER_)</span></td>
+  <td style="width: 40px; height: 14px;"></td>
+</tr>
+<tr valign="top">
+  <td colspan="2" style="width: 12px; height: 14px;"></td>
+  <td colspan="3"><span style="font-family: Arial; color: #000000; font-size: 12.0px;">Status :</span></td>
+  <td style="width: 3px; height: 14px;"></td>
+  <td colspan="2"><span style="font-family: Arial; color: #000000; font-size: 12.0px;">null</span></td>
+  <td style="width: 40px; height: 14px;"></td>
+</tr>
+</table>
+
+]]></description>
+                        <styleUrl>#ffff0000r_wat.png</styleUrl>
+                        <Point>
+                            <coordinates>-76.607067664217,39.3258777645917</coordinates>
+                        </Point>
+                    </Placemark>
+                </Folder>
+                <Folder>
+                    <open>0</open>
+                    <Snippet maxLines="0"> </Snippet>
+                    <name><![CDATA[WC_1167R-13/W Lanvale Street Water Main]]></name>
+                    <Placemark>
+                        <name><![CDATA[WC_1167R-13/W Lanvale Street Water Main]]></name>
+                        <Snippet maxLines="0"> </Snippet>
+                        <description><![CDATA[<a name="JR_PAGE_ANCHOR_0_1"></a>
+<table style="width: 420px; empty-cells: show" cellpadding="0" cellspacing="0" border="0" bgcolor="white">
+<tr>
+  <td style="width: 11px; height: 1px;"></td>
+  <td style="width: 1px; height: 1px;"></td>
+  <td style="width: 10px; height: 1px;"></td>
+  <td style="width: 49px; height: 1px;"></td>
+  <td style="width: 1px; height: 1px;"></td>
+  <td style="width: 3px; height: 1px;"></td>
+  <td style="width: 279px; height: 1px;"></td>
+  <td style="width: 26px; height: 1px;"></td>
+  <td style="width: 40px; height: 1px;"></td>
+</tr>
+<tr valign="top">
+  <td colspan="3" style="width: 22px; height: 2px;"></td>
+  <td colspan="4" style="border-top-style: solid; border-top-width: 1px; border-top-color: #000000; "></td>
+  <td colspan="2" style="width: 66px; height: 2px;"></td>
+</tr>
+<tr valign="top">
+  <td colspan="2" style="width: 12px; height: 14px;"></td>
+  <td colspan="3"><span style="font-family: Arial; color: #000000; font-size: 12.0px;">Owner :</span></td>
+  <td style="width: 3px; height: 14px;"></td>
+  <td colspan="2"><span style="font-family: Arial; color: #000000; font-size: 12.0px;">METWATER_</span></td>
+  <td style="width: 40px; height: 14px;"></td>
+</tr>
+<tr valign="top">
+  <td style="width: 11px; height: 1px;"></td>
+  <td colspan="3" rowspan="2"><span style="font-family: Arial; color: #000000; font-size: 12.0px;">Applicant </span></td>
+  <td colspan="5" style="width: 349px; height: 1px;"></td>
+</tr>
+<tr valign="top">
+  <td style="width: 11px; height: 13px;"></td>
+  <td colspan="2" style="width: 4px; height: 13px;"></td>
+  <td colspan="2" rowspan="2"><span style="font-family: Arial; color: #0000FF; font-size: 12.0px;">null (METWATER_)</span></td>
+  <td style="width: 40px; height: 13px;"></td>
+</tr>
+<tr valign="top">
+  <td colspan="6" style="width: 75px; height: 1px;"></td>
+  <td style="width: 40px; height: 1px;"></td>
+</tr>
+<tr valign="top">
+  <td colspan="2" style="width: 12px; height: 14px;"></td>
+  <td colspan="3"><span style="font-family: Arial; color: #000000; font-size: 12.0px;">From :</span></td>
+  <td style="width: 3px; height: 14px;"></td>
+  <td colspan="2"><span style="font-family: Arial; color: #000000; font-size: 12.0px;">W Lanvale St &amp; Jordan St, Baltimore, Maryland, </span></td>
+  <td style="width: 40px; height: 14px;"></td>
+</tr>
+<tr valign="top">
+  <td style="width: 11px; height: 14px;"></td>
+  <td colspan="3"><span style="font-family: Arial; color: #000000; font-size: 12.0px;">To :</span></td>
+  <td colspan="2" style="width: 4px; height: 14px;"></td>
+  <td colspan="2"><span style="font-family: Arial; color: #000000; font-size: 12.0px;">W Lanvale St &amp; Park Ave, Baltimore, Maryland, </span></td>
+  <td style="width: 40px; height: 14px;"></td>
+</tr>
+<tr valign="top">
+  <td colspan="2" style="width: 12px; height: 14px;"></td>
+  <td colspan="3"><span style="font-family: Arial; color: #000000; font-size: 12.0px;">Dates :</span></td>
+  <td style="width: 3px; height: 14px;"></td>
+  <td colspan="2"><span style="font-family: Arial; color: #000000; font-size: 12.0px;">08/01/2010 - 01/01/2011</span></td>
+  <td style="width: 40px; height: 14px;"></td>
+</tr>
+<tr valign="top">
+  <td colspan="2" style="width: 12px; height: 14px;"></td>
+  <td colspan="3"><span style="font-family: Arial; color: #000000; font-size: 12.0px;">Owner :</span></td>
+  <td style="width: 3px; height: 14px;"></td>
+  <td colspan="2"><span style="font-family: Arial; color: #000000; font-size: 12.0px;">null (METWATER_)</span></td>
+  <td style="width: 40px; height: 14px;"></td>
+</tr>
+<tr valign="top">
+  <td colspan="2" style="width: 12px; height: 14px;"></td>
+  <td colspan="3"><span style="font-family: Arial; color: #000000; font-size: 12.0px;">Status :</span></td>
+  <td style="width: 3px; height: 14px;"></td>
+  <td colspan="2"><span style="font-family: Arial; color: #000000; font-size: 12.0px;">null</span></td>
+  <td style="width: 40px; height: 14px;"></td>
+</tr>
+</table>
+
+]]></description>
+                        <styleUrl>#ffff0000LineString</styleUrl>
+                        <LineString>
+                            <coordinates>-76.6255099999999,39.3042800000001,0
+-76.6250099999999,39.3046300000001,0
+-76.6245399999999,39.3049800000001,0
+-76.6240399999999,39.3053400000001,0
+-76.6235499999999,39.30571,0
+-76.6230499999999,39.3060800000001,0
+</coordinates>
+                        </LineString>
+                    </Placemark>
+                    <Placemark>
+                        <name><![CDATA[WC_1167R-13/W Lanvale Street Water Main]]></name>
+                        <Snippet maxLines="0"> </Snippet>
+                        <description><![CDATA[<a name="JR_PAGE_ANCHOR_0_1"></a>
+<table style="width: 420px; empty-cells: show" cellpadding="0" cellspacing="0" border="0" bgcolor="white">
+<tr>
+  <td style="width: 11px; height: 1px;"></td>
+  <td style="width: 1px; height: 1px;"></td>
+  <td style="width: 10px; height: 1px;"></td>
+  <td style="width: 49px; height: 1px;"></td>
+  <td style="width: 1px; height: 1px;"></td>
+  <td style="width: 3px; height: 1px;"></td>
+  <td style="width: 279px; height: 1px;"></td>
+  <td style="width: 26px; height: 1px;"></td>
+  <td style="width: 40px; height: 1px;"></td>
+</tr>
+<tr valign="top">
+  <td colspan="3" style="width: 22px; height: 2px;"></td>
+  <td colspan="4" style="border-top-style: solid; border-top-width: 1px; border-top-color: #000000; "></td>
+  <td colspan="2" style="width: 66px; height: 2px;"></td>
+</tr>
+<tr valign="top">
+  <td colspan="2" style="width: 12px; height: 14px;"></td>
+  <td colspan="3"><span style="font-family: Arial; color: #000000; font-size: 12.0px;">Owner :</span></td>
+  <td style="width: 3px; height: 14px;"></td>
+  <td colspan="2"><span style="font-family: Arial; color: #000000; font-size: 12.0px;">METWATER_</span></td>
+  <td style="width: 40px; height: 14px;"></td>
+</tr>
+<tr valign="top">
+  <td style="width: 11px; height: 1px;"></td>
+  <td colspan="3" rowspan="2"><span style="font-family: Arial; color: #000000; font-size: 12.0px;">Applicant </span></td>
+  <td colspan="5" style="width: 349px; height: 1px;"></td>
+</tr>
+<tr valign="top">
+  <td style="width: 11px; height: 13px;"></td>
+  <td colspan="2" style="width: 4px; height: 13px;"></td>
+  <td colspan="2" rowspan="2"><span style="font-family: Arial; color: #0000FF; font-size: 12.0px;">null (METWATER_)</span></td>
+  <td style="width: 40px; height: 13px;"></td>
+</tr>
+<tr valign="top">
+  <td colspan="6" style="width: 75px; height: 1px;"></td>
+  <td style="width: 40px; height: 1px;"></td>
+</tr>
+<tr valign="top">
+  <td colspan="2" style="width: 12px; height: 14px;"></td>
+  <td colspan="3"><span style="font-family: Arial; color: #000000; font-size: 12.0px;">From :</span></td>
+  <td style="width: 3px; height: 14px;"></td>
+  <td colspan="2"><span style="font-family: Arial; color: #000000; font-size: 12.0px;">W Lanvale St &amp; Jordan St, Baltimore, Maryland, </span></td>
+  <td style="width: 40px; height: 14px;"></td>
+</tr>
+<tr valign="top">
+  <td style="width: 11px; height: 14px;"></td>
+  <td colspan="3"><span style="font-family: Arial; color: #000000; font-size: 12.0px;">To :</span></td>
+  <td colspan="2" style="width: 4px; height: 14px;"></td>
+  <td colspan="2"><span style="font-family: Arial; color: #000000; font-size: 12.0px;">W Lanvale St &amp; Park Ave, Baltimore, Maryland, </span></td>
+  <td style="width: 40px; height: 14px;"></td>
+</tr>
+<tr valign="top">
+  <td colspan="2" style="width: 12px; height: 14px;"></td>
+  <td colspan="3"><span style="font-family: Arial; color: #000000; font-size: 12.0px;">Dates :</span></td>
+  <td style="width: 3px; height: 14px;"></td>
+  <td colspan="2"><span style="font-family: Arial; color: #000000; font-size: 12.0px;">08/01/2010 - 01/01/2011</span></td>
+  <td style="width: 40px; height: 14px;"></td>
+</tr>
+<tr valign="top">
+  <td colspan="2" style="width: 12px; height: 14px;"></td>
+  <td colspan="3"><span style="font-family: Arial; color: #000000; font-size: 12.0px;">Owner :</span></td>
+  <td style="width: 3px; height: 14px;"></td>
+  <td colspan="2"><span style="font-family: Arial; color: #000000; font-size: 12.0px;">null (METWATER_)</span></td>
+  <td style="width: 40px; height: 14px;"></td>
+</tr>
+<tr valign="top">
+  <td colspan="2" style="width: 12px; height: 14px;"></td>
+  <td colspan="3"><span style="font-family: Arial; color: #000000; font-size: 12.0px;">Status :</span></td>
+  <td style="width: 3px; height: 14px;"></td>
+  <td colspan="2"><span style="font-family: Arial; color: #000000; font-size: 12.0px;">null</span></td>
+  <td style="width: 40px; height: 14px;"></td>
+</tr>
+</table>
+
+]]></description>
+                        <styleUrl>#ffff0000r_wat.png</styleUrl>
+                        <Point>
+                            <coordinates>-76.6242738971601,39.3051715940447</coordinates>
+                        </Point>
+                    </Placemark>
+                </Folder>
+                <Folder>
+                    <open>0</open>
+                    <Snippet maxLines="0"> </Snippet>
+                    <name><![CDATA[WC_1167R-21/Lake Walker Area]]></name>
+                    <Placemark>
+                        <name><![CDATA[WC_1167R-21/Lake Walker Area]]></name>
+                        <Snippet maxLines="0"> </Snippet>
+                        <description><![CDATA[<a name="JR_PAGE_ANCHOR_0_1"></a>
+<table style="width: 420px; empty-cells: show" cellpadding="0" cellspacing="0" border="0" bgcolor="white">
+<tr>
+  <td style="width: 11px; height: 1px;"></td>
+  <td style="width: 1px; height: 1px;"></td>
+  <td style="width: 10px; height: 1px;"></td>
+  <td style="width: 49px; height: 1px;"></td>
+  <td style="width: 1px; height: 1px;"></td>
+  <td style="width: 3px; height: 1px;"></td>
+  <td style="width: 279px; height: 1px;"></td>
+  <td style="width: 26px; height: 1px;"></td>
+  <td style="width: 40px; height: 1px;"></td>
+</tr>
+<tr valign="top">
+  <td colspan="3" style="width: 22px; height: 2px;"></td>
+  <td colspan="4" style="border-top-style: solid; border-top-width: 1px; border-top-color: #000000; "></td>
+  <td colspan="2" style="width: 66px; height: 2px;"></td>
+</tr>
+<tr valign="top">
+  <td colspan="2" style="width: 12px; height: 14px;"></td>
+  <td colspan="3"><span style="font-family: Arial; color: #000000; font-size: 12.0px;">Owner :</span></td>
+  <td style="width: 3px; height: 14px;"></td>
+  <td colspan="2"><span style="font-family: Arial; color: #000000; font-size: 12.0px;">METWATER_</span></td>
+  <td style="width: 40px; height: 14px;"></td>
+</tr>
+<tr valign="top">
+  <td style="width: 11px; height: 1px;"></td>
+  <td colspan="3" rowspan="2"><span style="font-family: Arial; color: #000000; font-size: 12.0px;">Applicant </span></td>
+  <td colspan="5" style="width: 349px; height: 1px;"></td>
+</tr>
+<tr valign="top">
+  <td style="width: 11px; height: 13px;"></td>
+  <td colspan="2" style="width: 4px; height: 13px;"></td>
+  <td colspan="2" rowspan="2"><span style="font-family: Arial; color: #0000FF; font-size: 12.0px;">null (METWATER_)</span></td>
+  <td style="width: 40px; height: 13px;"></td>
+</tr>
+<tr valign="top">
+  <td colspan="6" style="width: 75px; height: 1px;"></td>
+  <td style="width: 40px; height: 1px;"></td>
+</tr>
+<tr valign="top">
+  <td colspan="2" style="width: 12px; height: 14px;"></td>
+  <td colspan="3"><span style="font-family: Arial; color: #000000; font-size: 12.0px;">From :</span></td>
+  <td style="width: 3px; height: 14px;"></td>
+  <td colspan="2"><span style="font-family: Arial; color: #000000; font-size: 12.0px;">Clearspring Rd &amp; Gittings Ave, Baltimore, Maryland, </span></td>
+  <td style="width: 40px; height: 14px;"></td>
+</tr>
+<tr valign="top">
+  <td style="width: 11px; height: 14px;"></td>
+  <td colspan="3"><span style="font-family: Arial; color: #000000; font-size: 12.0px;">To :</span></td>
+  <td colspan="2" style="width: 4px; height: 14px;"></td>
+  <td colspan="2"><span style="font-family: Arial; color: #000000; font-size: 12.0px;">Weidner Ave &amp; Gittings Ave, Baltimore, Maryland, </span></td>
+  <td style="width: 40px; height: 14px;"></td>
+</tr>
+<tr valign="top">
+  <td colspan="2" style="width: 12px; height: 14px;"></td>
+  <td colspan="3"><span style="font-family: Arial; color: #000000; font-size: 12.0px;">Dates :</span></td>
+  <td style="width: 3px; height: 14px;"></td>
+  <td colspan="2"><span style="font-family: Arial; color: #000000; font-size: 12.0px;">08/01/2010 - 01/01/2011</span></td>
+  <td style="width: 40px; height: 14px;"></td>
+</tr>
+<tr valign="top">
+  <td colspan="2" style="width: 12px; height: 14px;"></td>
+  <td colspan="3"><span style="font-family: Arial; color: #000000; font-size: 12.0px;">Owner :</span></td>
+  <td style="width: 3px; height: 14px;"></td>
+  <td colspan="2"><span style="font-family: Arial; color: #000000; font-size: 12.0px;">null (METWATER_)</span></td>
+  <td style="width: 40px; height: 14px;"></td>
+</tr>
+<tr valign="top">
+  <td colspan="2" style="width: 12px; height: 14px;"></td>
+  <td colspan="3"><span style="font-family: Arial; color: #000000; font-size: 12.0px;">Status :</span></td>
+  <td style="width: 3px; height: 14px;"></td>
+  <td colspan="2"><span style="font-family: Arial; color: #000000; font-size: 12.0px;">null</span></td>
+  <td style="width: 40px; height: 14px;"></td>
+</tr>
+</table>
+
+]]></description>
+                        <styleUrl>#ffff0000LineString</styleUrl>
+                        <LineString>
+                            <coordinates>-76.6083999999999,39.37003,0
+-76.6054399999999,39.3711300000001,0
+</coordinates>
+                        </LineString>
+                    </Placemark>
+                    <Placemark>
+                        <name><![CDATA[WC_1167R-21/Lake Walker Area]]></name>
+                        <Snippet maxLines="0"> </Snippet>
+                        <description><![CDATA[<a name="JR_PAGE_ANCHOR_0_1"></a>
+<table style="width: 420px; empty-cells: show" cellpadding="0" cellspacing="0" border="0" bgcolor="white">
+<tr>
+  <td style="width: 11px; height: 1px;"></td>
+  <td style="width: 1px; height: 1px;"></td>
+  <td style="width: 10px; height: 1px;"></td>
+  <td style="width: 49px; height: 1px;"></td>
+  <td style="width: 1px; height: 1px;"></td>
+  <td style="width: 3px; height: 1px;"></td>
+  <td style="width: 279px; height: 1px;"></td>
+  <td style="width: 26px; height: 1px;"></td>
+  <td style="width: 40px; height: 1px;"></td>
+</tr>
+<tr valign="top">
+  <td colspan="3" style="width: 22px; height: 2px;"></td>
+  <td colspan="4" style="border-top-style: solid; border-top-width: 1px; border-top-color: #000000; "></td>
+  <td colspan="2" style="width: 66px; height: 2px;"></td>
+</tr>
+<tr valign="top">
+  <td colspan="2" style="width: 12px; height: 14px;"></td>
+  <td colspan="3"><span style="font-family: Arial; color: #000000; font-size: 12.0px;">Owner :</span></td>
+  <td style="width: 3px; height: 14px;"></td>
+  <td colspan="2"><span style="font-family: Arial; color: #000000; font-size: 12.0px;">METWATER_</span></td>
+  <td style="width: 40px; height: 14px;"></td>
+</tr>
+<tr valign="top">
+  <td style="width: 11px; height: 1px;"></td>
+  <td colspan="3" rowspan="2"><span style="font-family: Arial; color: #000000; font-size: 12.0px;">Applicant </span></td>
+  <td colspan="5" style="width: 349px; height: 1px;"></td>
+</tr>
+<tr valign="top">
+  <td style="width: 11px; height: 13px;"></td>
+  <td colspan="2" style="width: 4px; height: 13px;"></td>
+  <td colspan="2" rowspan="2"><span style="font-family: Arial; color: #0000FF; font-size: 12.0px;">null (METWATER_)</span></td>
+  <td style="width: 40px; height: 13px;"></td>
+</tr>
+<tr valign="top">
+  <td colspan="6" style="width: 75px; height: 1px;"></td>
+  <td style="width: 40px; height: 1px;"></td>
+</tr>
+<tr valign="top">
+  <td colspan="2" style="width: 12px; height: 14px;"></td>
+  <td colspan="3"><span style="font-family: Arial; color: #000000; font-size: 12.0px;">From :</span></td>
+  <td style="width: 3px; height: 14px;"></td>
+  <td colspan="2"><span style="font-family: Arial; color: #000000; font-size: 12.0px;">Clearspring Rd &amp; Gittings Ave, Baltimore, Maryland, </span></td>
+  <td style="width: 40px; height: 14px;"></td>
+</tr>
+<tr valign="top">
+  <td style="width: 11px; height: 14px;"></td>
+  <td colspan="3"><span style="font-family: Arial; color: #000000; font-size: 12.0px;">To :</span></td>
+  <td colspan="2" style="width: 4px; height: 14px;"></td>
+  <td colspan="2"><span style="font-family: Arial; color: #000000; font-size: 12.0px;">Weidner Ave &amp; Gittings Ave, Baltimore, Maryland, </span></td>
+  <td style="width: 40px; height: 14px;"></td>
+</tr>
+<tr valign="top">
+  <td colspan="2" style="width: 12px; height: 14px;"></td>
+  <td colspan="3"><span style="font-family: Arial; color: #000000; font-size: 12.0px;">Dates :</span></td>
+  <td style="width: 3px; height: 14px;"></td>
+  <td colspan="2"><span style="font-family: Arial; color: #000000; font-size: 12.0px;">08/01/2010 - 01/01/2011</span></td>
+  <td style="width: 40px; height: 14px;"></td>
+</tr>
+<tr valign="top">
+  <td colspan="2" style="width: 12px; height: 14px;"></td>
+  <td colspan="3"><span style="font-family: Arial; color: #000000; font-size: 12.0px;">Owner :</span></td>
+  <td style="width: 3px; height: 14px;"></td>
+  <td colspan="2"><span style="font-family: Arial; color: #000000; font-size: 12.0px;">null (METWATER_)</span></td>
+  <td style="width: 40px; height: 14px;"></td>
+</tr>
+<tr valign="top">
+  <td colspan="2" style="width: 12px; height: 14px;"></td>
+  <td colspan="3"><span style="font-family: Arial; color: #000000; font-size: 12.0px;">Status :</span></td>
+  <td style="width: 3px; height: 14px;"></td>
+  <td colspan="2"><span style="font-family: Arial; color: #000000; font-size: 12.0px;">null</span></td>
+  <td style="width: 40px; height: 14px;"></td>
+</tr>
+</table>
+
+]]></description>
+                        <styleUrl>#ffff0000r_wat.png</styleUrl>
+                        <Point>
+                            <coordinates>-76.6069199999999,39.37058</coordinates>
+                        </Point>
+                    </Placemark>
+                </Folder>
+                <Folder>
+                    <open>0</open>
+                    <Snippet maxLines="0"> </Snippet>
+                    <name><![CDATA[WC_1167R-07/Penn Street Lining]]></name>
+                    <Placemark>
+                        <name><![CDATA[WC_1167R-07/Penn Street Lining]]></name>
+                        <Snippet maxLines="0"> </Snippet>
+                        <description><![CDATA[<a name="JR_PAGE_ANCHOR_0_1"></a>
+<table style="width: 420px; empty-cells: show" cellpadding="0" cellspacing="0" border="0" bgcolor="white">
+<tr>
+  <td style="width: 11px; height: 1px;"></td>
+  <td style="width: 1px; height: 1px;"></td>
+  <td style="width: 10px; height: 1px;"></td>
+  <td style="width: 49px; height: 1px;"></td>
+  <td style="width: 1px; height: 1px;"></td>
+  <td style="width: 3px; height: 1px;"></td>
+  <td style="width: 279px; height: 1px;"></td>
+  <td style="width: 26px; height: 1px;"></td>
+  <td style="width: 40px; height: 1px;"></td>
+</tr>
+<tr valign="top">
+  <td colspan="3" style="width: 22px; height: 2px;"></td>
+  <td colspan="4" style="border-top-style: solid; border-top-width: 1px; border-top-color: #000000; "></td>
+  <td colspan="2" style="width: 66px; height: 2px;"></td>
+</tr>
+<tr valign="top">
+  <td colspan="2" style="width: 12px; height: 14px;"></td>
+  <td colspan="3"><span style="font-family: Arial; color: #000000; font-size: 12.0px;">Owner :</span></td>
+  <td style="width: 3px; height: 14px;"></td>
+  <td colspan="2"><span style="font-family: Arial; color: #000000; font-size: 12.0px;">METWATER_</span></td>
+  <td style="width: 40px; height: 14px;"></td>
+</tr>
+<tr valign="top">
+  <td style="width: 11px; height: 1px;"></td>
+  <td colspan="3" rowspan="2"><span style="font-family: Arial; color: #000000; font-size: 12.0px;">Applicant </span></td>
+  <td colspan="5" style="width: 349px; height: 1px;"></td>
+</tr>
+<tr valign="top">
+  <td style="width: 11px; height: 13px;"></td>
+  <td colspan="2" style="width: 4px; height: 13px;"></td>
+  <td colspan="2" rowspan="2"><span style="font-family: Arial; color: #0000FF; font-size: 12.0px;">null (METWATER_)</span></td>
+  <td style="width: 40px; height: 13px;"></td>
+</tr>
+<tr valign="top">
+  <td colspan="6" style="width: 75px; height: 1px;"></td>
+  <td style="width: 40px; height: 1px;"></td>
+</tr>
+<tr valign="top">
+  <td colspan="2" style="width: 12px; height: 14px;"></td>
+  <td colspan="3"><span style="font-family: Arial; color: #000000; font-size: 12.0px;">From :</span></td>
+  <td style="width: 3px; height: 14px;"></td>
+  <td colspan="2"><span style="font-family: Arial; color: #000000; font-size: 12.0px;">Penn St &amp; W Redwood St, Baltimore, Maryland, </span></td>
+  <td style="width: 40px; height: 14px;"></td>
+</tr>
+<tr valign="top">
+  <td style="width: 11px; height: 14px;"></td>
+  <td colspan="3"><span style="font-family: Arial; color: #000000; font-size: 12.0px;">To :</span></td>
+  <td colspan="2" style="width: 4px; height: 14px;"></td>
+  <td colspan="2"><span style="font-family: Arial; color: #000000; font-size: 12.0px;">Penn St &amp; Lemmon St, Baltimore, Maryland, 21201</span></td>
+  <td style="width: 40px; height: 14px;"></td>
+</tr>
+<tr valign="top">
+  <td colspan="2" style="width: 12px; height: 14px;"></td>
+  <td colspan="3"><span style="font-family: Arial; color: #000000; font-size: 12.0px;">Dates :</span></td>
+  <td style="width: 3px; height: 14px;"></td>
+  <td colspan="2"><span style="font-family: Arial; color: #000000; font-size: 12.0px;">08/01/2010 - 01/01/2011</span></td>
+  <td style="width: 40px; height: 14px;"></td>
+</tr>
+<tr valign="top">
+  <td colspan="2" style="width: 12px; height: 14px;"></td>
+  <td colspan="3"><span style="font-family: Arial; color: #000000; font-size: 12.0px;">Owner :</span></td>
+  <td style="width: 3px; height: 14px;"></td>
+  <td colspan="2"><span style="font-family: Arial; color: #000000; font-size: 12.0px;">null (METWATER_)</span></td>
+  <td style="width: 40px; height: 14px;"></td>
+</tr>
+<tr valign="top">
+  <td colspan="2" style="width: 12px; height: 14px;"></td>
+  <td colspan="3"><span style="font-family: Arial; color: #000000; font-size: 12.0px;">Status :</span></td>
+  <td style="width: 3px; height: 14px;"></td>
+  <td colspan="2"><span style="font-family: Arial; color: #000000; font-size: 12.0px;">null</span></td>
+  <td style="width: 40px; height: 14px;"></td>
+</tr>
+</table>
+
+]]></description>
+                        <styleUrl>#ffff0000LineString</styleUrl>
+                        <LineString>
+                            <coordinates>-76.6259999999999,39.2884300000001,0
+-76.6259599999999,39.2876800000001,0
+-76.6259299999999,39.2873200000001,0
+-76.6258899999999,39.2867200000001,0
+</coordinates>
+                        </LineString>
+                    </Placemark>
+                    <Placemark>
+                        <name><![CDATA[WC_1167R-07/Penn Street Lining]]></name>
+                        <Snippet maxLines="0"> </Snippet>
+                        <description><![CDATA[<a name="JR_PAGE_ANCHOR_0_1"></a>
+<table style="width: 420px; empty-cells: show" cellpadding="0" cellspacing="0" border="0" bgcolor="white">
+<tr>
+  <td style="width: 11px; height: 1px;"></td>
+  <td style="width: 1px; height: 1px;"></td>
+  <td style="width: 10px; height: 1px;"></td>
+  <td style="width: 49px; height: 1px;"></td>
+  <td style="width: 1px; height: 1px;"></td>
+  <td style="width: 3px; height: 1px;"></td>
+  <td style="width: 279px; height: 1px;"></td>
+  <td style="width: 26px; height: 1px;"></td>
+  <td style="width: 40px; height: 1px;"></td>
+</tr>
+<tr valign="top">
+  <td colspan="3" style="width: 22px; height: 2px;"></td>
+  <td colspan="4" style="border-top-style: solid; border-top-width: 1px; border-top-color: #000000; "></td>
+  <td colspan="2" style="width: 66px; height: 2px;"></td>
+</tr>
+<tr valign="top">
+  <td colspan="2" style="width: 12px; height: 14px;"></td>
+  <td colspan="3"><span style="font-family: Arial; color: #000000; font-size: 12.0px;">Owner :</span></td>
+  <td style="width: 3px; height: 14px;"></td>
+  <td colspan="2"><span style="font-family: Arial; color: #000000; font-size: 12.0px;">METWATER_</span></td>
+  <td style="width: 40px; height: 14px;"></td>
+</tr>
+<tr valign="top">
+  <td style="width: 11px; height: 1px;"></td>
+  <td colspan="3" rowspan="2"><span style="font-family: Arial; color: #000000; font-size: 12.0px;">Applicant </span></td>
+  <td colspan="5" style="width: 349px; height: 1px;"></td>
+</tr>
+<tr valign="top">
+  <td style="width: 11px; height: 13px;"></td>
+  <td colspan="2" style="width: 4px; height: 13px;"></td>
+  <td colspan="2" rowspan="2"><span style="font-family: Arial; color: #0000FF; font-size: 12.0px;">null (METWATER_)</span></td>
+  <td style="width: 40px; height: 13px;"></td>
+</tr>
+<tr valign="top">
+  <td colspan="6" style="width: 75px; height: 1px;"></td>
+  <td style="width: 40px; height: 1px;"></td>
+</tr>
+<tr valign="top">
+  <td colspan="2" style="width: 12px; height: 14px;"></td>
+  <td colspan="3"><span style="font-family: Arial; color: #000000; font-size: 12.0px;">From :</span></td>
+  <td style="width: 3px; height: 14px;"></td>
+  <td colspan="2"><span style="font-family: Arial; color: #000000; font-size: 12.0px;">Penn St &amp; W Redwood St, Baltimore, Maryland, </span></td>
+  <td style="width: 40px; height: 14px;"></td>
+</tr>
+<tr valign="top">
+  <td style="width: 11px; height: 14px;"></td>
+  <td colspan="3"><span style="font-family: Arial; color: #000000; font-size: 12.0px;">To :</span></td>
+  <td colspan="2" style="width: 4px; height: 14px;"></td>
+  <td colspan="2"><span style="font-family: Arial; color: #000000; font-size: 12.0px;">Penn St &amp; Lemmon St, Baltimore, Maryland, 21201</span></td>
+  <td style="width: 40px; height: 14px;"></td>
+</tr>
+<tr valign="top">
+  <td colspan="2" style="width: 12px; height: 14px;"></td>
+  <td colspan="3"><span style="font-family: Arial; color: #000000; font-size: 12.0px;">Dates :</span></td>
+  <td style="width: 3px; height: 14px;"></td>
+  <td colspan="2"><span style="font-family: Arial; color: #000000; font-size: 12.0px;">08/01/2010 - 01/01/2011</span></td>
+  <td style="width: 40px; height: 14px;"></td>
+</tr>
+<tr valign="top">
+  <td colspan="2" style="width: 12px; height: 14px;"></td>
+  <td colspan="3"><span style="font-family: Arial; color: #000000; font-size: 12.0px;">Owner :</span></td>
+  <td style="width: 3px; height: 14px;"></td>
+  <td colspan="2"><span style="font-family: Arial; color: #000000; font-size: 12.0px;">null (METWATER_)</span></td>
+  <td style="width: 40px; height: 14px;"></td>
+</tr>
+<tr valign="top">
+  <td colspan="2" style="width: 12px; height: 14px;"></td>
+  <td colspan="3"><span style="font-family: Arial; color: #000000; font-size: 12.0px;">Status :</span></td>
+  <td style="width: 3px; height: 14px;"></td>
+  <td colspan="2"><span style="font-family: Arial; color: #000000; font-size: 12.0px;">null</span></td>
+  <td style="width: 40px; height: 14px;"></td>
+</tr>
+</table>
+
+]]></description>
+                        <styleUrl>#ffff0000r_wat.png</styleUrl>
+                        <Point>
+                            <coordinates>-76.6259512173681,39.2875746084183</coordinates>
+                        </Point>
+                    </Placemark>
+                </Folder>
+                <Folder>
+                    <open>0</open>
+                    <Snippet maxLines="0"> </Snippet>
+                    <name><![CDATA[WC_1167R-09/Pine Street Lining]]></name>
+                    <Placemark>
+                        <name><![CDATA[WC_1167R-09/Pine Street Lining]]></name>
+                        <Snippet maxLines="0"> </Snippet>
+                        <description><![CDATA[<a name="JR_PAGE_ANCHOR_0_1"></a>
+<table style="width: 420px; empty-cells: show" cellpadding="0" cellspacing="0" border="0" bgcolor="white">
+<tr>
+  <td style="width: 11px; height: 1px;"></td>
+  <td style="width: 1px; height: 1px;"></td>
+  <td style="width: 10px; height: 1px;"></td>
+  <td style="width: 49px; height: 1px;"></td>
+  <td style="width: 1px; height: 1px;"></td>
+  <td style="width: 3px; height: 1px;"></td>
+  <td style="width: 279px; height: 1px;"></td>
+  <td style="width: 26px; height: 1px;"></td>
+  <td style="width: 40px; height: 1px;"></td>
+</tr>
+<tr valign="top">
+  <td colspan="3" style="width: 22px; height: 2px;"></td>
+  <td colspan="4" style="border-top-style: solid; border-top-width: 1px; border-top-color: #000000; "></td>
+  <td colspan="2" style="width: 66px; height: 2px;"></td>
+</tr>
+<tr valign="top">
+  <td colspan="2" style="width: 12px; height: 14px;"></td>
+  <td colspan="3"><span style="font-family: Arial; color: #000000; font-size: 12.0px;">Owner :</span></td>
+  <td style="width: 3px; height: 14px;"></td>
+  <td colspan="2"><span style="font-family: Arial; color: #000000; font-size: 12.0px;">METWATER_</span></td>
+  <td style="width: 40px; height: 14px;"></td>
+</tr>
+<tr valign="top">
+  <td style="width: 11px; height: 1px;"></td>
+  <td colspan="3" rowspan="2"><span style="font-family: Arial; color: #000000; font-size: 12.0px;">Applicant </span></td>
+  <td colspan="5" style="width: 349px; height: 1px;"></td>
+</tr>
+<tr valign="top">
+  <td style="width: 11px; height: 13px;"></td>
+  <td colspan="2" style="width: 4px; height: 13px;"></td>
+  <td colspan="2" rowspan="2"><span style="font-family: Arial; color: #0000FF; font-size: 12.0px;">null (METWATER_)</span></td>
+  <td style="width: 40px; height: 13px;"></td>
+</tr>
+<tr valign="top">
+  <td colspan="6" style="width: 75px; height: 1px;"></td>
+  <td style="width: 40px; height: 1px;"></td>
+</tr>
+<tr valign="top">
+  <td colspan="2" style="width: 12px; height: 14px;"></td>
+  <td colspan="3"><span style="font-family: Arial; color: #000000; font-size: 12.0px;">From :</span></td>
+  <td style="width: 3px; height: 14px;"></td>
+  <td colspan="2"><span style="font-family: Arial; color: #000000; font-size: 12.0px;">S Pine St &amp; W Redwood St, Baltimore, Maryland, </span></td>
+  <td style="width: 40px; height: 14px;"></td>
+</tr>
+<tr valign="top">
+  <td style="width: 11px; height: 14px;"></td>
+  <td colspan="3"><span style="font-family: Arial; color: #000000; font-size: 12.0px;">To :</span></td>
+  <td colspan="2" style="width: 4px; height: 14px;"></td>
+  <td colspan="2"><span style="font-family: Arial; color: #000000; font-size: 12.0px;">N Pine St &amp; W Baltimore St, Baltimore, Maryland, </span></td>
+  <td style="width: 40px; height: 14px;"></td>
+</tr>
+<tr valign="top">
+  <td colspan="2" style="width: 12px; height: 14px;"></td>
+  <td colspan="3"><span style="font-family: Arial; color: #000000; font-size: 12.0px;">Dates :</span></td>
+  <td style="width: 3px; height: 14px;"></td>
+  <td colspan="2"><span style="font-family: Arial; color: #000000; font-size: 12.0px;">08/01/2010 - 01/01/2011</span></td>
+  <td style="width: 40px; height: 14px;"></td>
+</tr>
+<tr valign="top">
+  <td colspan="2" style="width: 12px; height: 14px;"></td>
+  <td colspan="3"><span style="font-family: Arial; color: #000000; font-size: 12.0px;">Owner :</span></td>
+  <td style="width: 3px; height: 14px;"></td>
+  <td colspan="2"><span style="font-family: Arial; color: #000000; font-size: 12.0px;">null (METWATER_)</span></td>
+  <td style="width: 40px; height: 14px;"></td>
+</tr>
+<tr valign="top">
+  <td colspan="2" style="width: 12px; height: 14px;"></td>
+  <td colspan="3"><span style="font-family: Arial; color: #000000; font-size: 12.0px;">Status :</span></td>
+  <td style="width: 3px; height: 14px;"></td>
+  <td colspan="2"><span style="font-family: Arial; color: #000000; font-size: 12.0px;">null</span></td>
+  <td style="width: 40px; height: 14px;"></td>
+</tr>
+</table>
+
+]]></description>
+                        <styleUrl>#ffff0000LineString</styleUrl>
+                        <LineString>
+                            <coordinates>-76.6267399999999,39.2884100000001,0
+-76.6267799999999,39.2890400000001,0
+</coordinates>
+                        </LineString>
+                    </Placemark>
+                    <Placemark>
+                        <name><![CDATA[WC_1167R-09/Pine Street Lining]]></name>
+                        <Snippet maxLines="0"> </Snippet>
+                        <description><![CDATA[<a name="JR_PAGE_ANCHOR_0_1"></a>
+<table style="width: 420px; empty-cells: show" cellpadding="0" cellspacing="0" border="0" bgcolor="white">
+<tr>
+  <td style="width: 11px; height: 1px;"></td>
+  <td style="width: 1px; height: 1px;"></td>
+  <td style="width: 10px; height: 1px;"></td>
+  <td style="width: 49px; height: 1px;"></td>
+  <td style="width: 1px; height: 1px;"></td>
+  <td style="width: 3px; height: 1px;"></td>
+  <td style="width: 279px; height: 1px;"></td>
+  <td style="width: 26px; height: 1px;"></td>
+  <td style="width: 40px; height: 1px;"></td>
+</tr>
+<tr valign="top">
+  <td colspan="3" style="width: 22px; height: 2px;"></td>
+  <td colspan="4" style="border-top-style: solid; border-top-width: 1px; border-top-color: #000000; "></td>
+  <td colspan="2" style="width: 66px; height: 2px;"></td>
+</tr>
+<tr valign="top">
+  <td colspan="2" style="width: 12px; height: 14px;"></td>
+  <td colspan="3"><span style="font-family: Arial; color: #000000; font-size: 12.0px;">Owner :</span></td>
+  <td style="width: 3px; height: 14px;"></td>
+  <td colspan="2"><span style="font-family: Arial; color: #000000; font-size: 12.0px;">METWATER_</span></td>
+  <td style="width: 40px; height: 14px;"></td>
+</tr>
+<tr valign="top">
+  <td style="width: 11px; height: 1px;"></td>
+  <td colspan="3" rowspan="2"><span style="font-family: Arial; color: #000000; font-size: 12.0px;">Applicant </span></td>
+  <td colspan="5" style="width: 349px; height: 1px;"></td>
+</tr>
+<tr valign="top">
+  <td style="width: 11px; height: 13px;"></td>
+  <td colspan="2" style="width: 4px; height: 13px;"></td>
+  <td colspan="2" rowspan="2"><span style="font-family: Arial; color: #0000FF; font-size: 12.0px;">null (METWATER_)</span></td>
+  <td style="width: 40px; height: 13px;"></td>
+</tr>
+<tr valign="top">
+  <td colspan="6" style="width: 75px; height: 1px;"></td>
+  <td style="width: 40px; height: 1px;"></td>
+</tr>
+<tr valign="top">
+  <td colspan="2" style="width: 12px; height: 14px;"></td>
+  <td colspan="3"><span style="font-family: Arial; color: #000000; font-size: 12.0px;">From :</span></td>
+  <td style="width: 3px; height: 14px;"></td>
+  <td colspan="2"><span style="font-family: Arial; color: #000000; font-size: 12.0px;">S Pine St &amp; W Redwood St, Baltimore, Maryland, </span></td>
+  <td style="width: 40px; height: 14px;"></td>
+</tr>
+<tr valign="top">
+  <td style="width: 11px; height: 14px;"></td>
+  <td colspan="3"><span style="font-family: Arial; color: #000000; font-size: 12.0px;">To :</span></td>
+  <td colspan="2" style="width: 4px; height: 14px;"></td>
+  <td colspan="2"><span style="font-family: Arial; color: #000000; font-size: 12.0px;">N Pine St &amp; W Baltimore St, Baltimore, Maryland, </span></td>
+  <td style="width: 40px; height: 14px;"></td>
+</tr>
+<tr valign="top">
+  <td colspan="2" style="width: 12px; height: 14px;"></td>
+  <td colspan="3"><span style="font-family: Arial; color: #000000; font-size: 12.0px;">Dates :</span></td>
+  <td style="width: 3px; height: 14px;"></td>
+  <td colspan="2"><span style="font-family: Arial; color: #000000; font-size: 12.0px;">08/01/2010 - 01/01/2011</span></td>
+  <td style="width: 40px; height: 14px;"></td>
+</tr>
+<tr valign="top">
+  <td colspan="2" style="width: 12px; height: 14px;"></td>
+  <td colspan="3"><span style="font-family: Arial; color: #000000; font-size: 12.0px;">Owner :</span></td>
+  <td style="width: 3px; height: 14px;"></td>
+  <td colspan="2"><span style="font-family: Arial; color: #000000; font-size: 12.0px;">null (METWATER_)</span></td>
+  <td style="width: 40px; height: 14px;"></td>
+</tr>
+<tr valign="top">
+  <td colspan="2" style="width: 12px; height: 14px;"></td>
+  <td colspan="3"><span style="font-family: Arial; color: #000000; font-size: 12.0px;">Status :</span></td>
+  <td style="width: 3px; height: 14px;"></td>
+  <td colspan="2"><span style="font-family: Arial; color: #000000; font-size: 12.0px;">null</span></td>
+  <td style="width: 40px; height: 14px;"></td>
+</tr>
+</table>
+
+]]></description>
+                        <styleUrl>#ffff0000r_wat.png</styleUrl>
+                        <Point>
+                            <coordinates>-76.6267599999999,39.2887250000001</coordinates>
+                        </Point>
+                    </Placemark>
+                </Folder>
+                <Folder>
+                    <open>0</open>
+                    <Snippet maxLines="0"> </Snippet>
+                    <name><![CDATA[WC_1167R-15/Port Street Water Main]]></name>
+                    <Placemark>
+                        <name><![CDATA[WC_1167R-15/Port Street Water Main]]></name>
+                        <Snippet maxLines="0"> </Snippet>
+                        <description><![CDATA[<a name="JR_PAGE_ANCHOR_0_1"></a>
+<table style="width: 420px; empty-cells: show" cellpadding="0" cellspacing="0" border="0" bgcolor="white">
+<tr>
+  <td style="width: 11px; height: 1px;"></td>
+  <td style="width: 1px; height: 1px;"></td>
+  <td style="width: 10px; height: 1px;"></td>
+  <td style="width: 49px; height: 1px;"></td>
+  <td style="width: 1px; height: 1px;"></td>
+  <td style="width: 3px; height: 1px;"></td>
+  <td style="width: 279px; height: 1px;"></td>
+  <td style="width: 26px; height: 1px;"></td>
+  <td style="width: 40px; height: 1px;"></td>
+</tr>
+<tr valign="top">
+  <td colspan="3" style="width: 22px; height: 2px;"></td>
+  <td colspan="4" style="border-top-style: solid; border-top-width: 1px; border-top-color: #000000; "></td>
+  <td colspan="2" style="width: 66px; height: 2px;"></td>
+</tr>
+<tr valign="top">
+  <td colspan="2" style="width: 12px; height: 14px;"></td>
+  <td colspan="3"><span style="font-family: Arial; color: #000000; font-size: 12.0px;">Owner :</span></td>
+  <td style="width: 3px; height: 14px;"></td>
+  <td colspan="2"><span style="font-family: Arial; color: #000000; font-size: 12.0px;">METWATER_</span></td>
+  <td style="width: 40px; height: 14px;"></td>
+</tr>
+<tr valign="top">
+  <td style="width: 11px; height: 1px;"></td>
+  <td colspan="3" rowspan="2"><span style="font-family: Arial; color: #000000; font-size: 12.0px;">Applicant </span></td>
+  <td colspan="5" style="width: 349px; height: 1px;"></td>
+</tr>
+<tr valign="top">
+  <td style="width: 11px; height: 13px;"></td>
+  <td colspan="2" style="width: 4px; height: 13px;"></td>
+  <td colspan="2" rowspan="2"><span style="font-family: Arial; color: #0000FF; font-size: 12.0px;">null (METWATER_)</span></td>
+  <td style="width: 40px; height: 13px;"></td>
+</tr>
+<tr valign="top">
+  <td colspan="6" style="width: 75px; height: 1px;"></td>
+  <td style="width: 40px; height: 1px;"></td>
+</tr>
+<tr valign="top">
+  <td colspan="2" style="width: 12px; height: 14px;"></td>
+  <td colspan="3"><span style="font-family: Arial; color: #000000; font-size: 12.0px;">From :</span></td>
+  <td style="width: 3px; height: 14px;"></td>
+  <td colspan="2"><span style="font-family: Arial; color: #000000; font-size: 12.0px;">N Port St &amp; Jefferson St, Baltimore, Maryland, 21205</span></td>
+  <td style="width: 40px; height: 14px;"></td>
+</tr>
+<tr valign="top">
+  <td style="width: 11px; height: 14px;"></td>
+  <td colspan="3"><span style="font-family: Arial; color: #000000; font-size: 12.0px;">To :</span></td>
+  <td colspan="2" style="width: 4px; height: 14px;"></td>
+  <td colspan="2"><span style="font-family: Arial; color: #000000; font-size: 12.0px;">N Port St &amp; E Baltimore St, Baltimore, Maryland, </span></td>
+  <td style="width: 40px; height: 14px;"></td>
+</tr>
+<tr valign="top">
+  <td colspan="2" style="width: 12px; height: 14px;"></td>
+  <td colspan="3"><span style="font-family: Arial; color: #000000; font-size: 12.0px;">Dates :</span></td>
+  <td style="width: 3px; height: 14px;"></td>
+  <td colspan="2"><span style="font-family: Arial; color: #000000; font-size: 12.0px;">08/01/2010 - 01/01/2011</span></td>
+  <td style="width: 40px; height: 14px;"></td>
+</tr>
+<tr valign="top">
+  <td colspan="2" style="width: 12px; height: 14px;"></td>
+  <td colspan="3"><span style="font-family: Arial; color: #000000; font-size: 12.0px;">Owner :</span></td>
+  <td style="width: 3px; height: 14px;"></td>
+  <td colspan="2"><span style="font-family: Arial; color: #000000; font-size: 12.0px;">null (METWATER_)</span></td>
+  <td style="width: 40px; height: 14px;"></td>
+</tr>
+<tr valign="top">
+  <td colspan="2" style="width: 12px; height: 14px;"></td>
+  <td colspan="3"><span style="font-family: Arial; color: #000000; font-size: 12.0px;">Status :</span></td>
+  <td style="width: 3px; height: 14px;"></td>
+  <td colspan="2"><span style="font-family: Arial; color: #000000; font-size: 12.0px;">null</span></td>
+  <td style="width: 40px; height: 14px;"></td>
+</tr>
+</table>
+
+]]></description>
+                        <styleUrl>#ffff0000LineString</styleUrl>
+                        <LineString>
+                            <coordinates>-76.5828699999999,39.2966900000001,0
+-76.5827999999999,39.2955700000001,0
+-76.5827199999999,39.2943700000001,0
+-76.5826599999999,39.2930800000001,0
+-76.5826099999999,39.2919600000001,0
+</coordinates>
+                        </LineString>
+                    </Placemark>
+                    <Placemark>
+                        <name><![CDATA[WC_1167R-15/Port Street Water Main]]></name>
+                        <Snippet maxLines="0"> </Snippet>
+                        <description><![CDATA[<a name="JR_PAGE_ANCHOR_0_1"></a>
+<table style="width: 420px; empty-cells: show" cellpadding="0" cellspacing="0" border="0" bgcolor="white">
+<tr>
+  <td style="width: 11px; height: 1px;"></td>
+  <td style="width: 1px; height: 1px;"></td>
+  <td style="width: 10px; height: 1px;"></td>
+  <td style="width: 49px; height: 1px;"></td>
+  <td style="width: 1px; height: 1px;"></td>
+  <td style="width: 3px; height: 1px;"></td>
+  <td style="width: 279px; height: 1px;"></td>
+  <td style="width: 26px; height: 1px;"></td>
+  <td style="width: 40px; height: 1px;"></td>
+</tr>
+<tr valign="top">
+  <td colspan="3" style="width: 22px; height: 2px;"></td>
+  <td colspan="4" style="border-top-style: solid; border-top-width: 1px; border-top-color: #000000; "></td>
+  <td colspan="2" style="width: 66px; height: 2px;"></td>
+</tr>
+<tr valign="top">
+  <td colspan="2" style="width: 12px; height: 14px;"></td>
+  <td colspan="3"><span style="font-family: Arial; color: #000000; font-size: 12.0px;">Owner :</span></td>
+  <td style="width: 3px; height: 14px;"></td>
+  <td colspan="2"><span style="font-family: Arial; color: #000000; font-size: 12.0px;">METWATER_</span></td>
+  <td style="width: 40px; height: 14px;"></td>
+</tr>
+<tr valign="top">
+  <td style="width: 11px; height: 1px;"></td>
+  <td colspan="3" rowspan="2"><span style="font-family: Arial; color: #000000; font-size: 12.0px;">Applicant </span></td>
+  <td colspan="5" style="width: 349px; height: 1px;"></td>
+</tr>
+<tr valign="top">
+  <td style="width: 11px; height: 13px;"></td>
+  <td colspan="2" style="width: 4px; height: 13px;"></td>
+  <td colspan="2" rowspan="2"><span style="font-family: Arial; color: #0000FF; font-size: 12.0px;">null (METWATER_)</span></td>
+  <td style="width: 40px; height: 13px;"></td>
+</tr>
+<tr valign="top">
+  <td colspan="6" style="width: 75px; height: 1px;"></td>
+  <td style="width: 40px; height: 1px;"></td>
+</tr>
+<tr valign="top">
+  <td colspan="2" style="width: 12px; height: 14px;"></td>
+  <td colspan="3"><span style="font-family: Arial; color: #000000; font-size: 12.0px;">From :</span></td>
+  <td style="width: 3px; height: 14px;"></td>
+  <td colspan="2"><span style="font-family: Arial; color: #000000; font-size: 12.0px;">N Port St &amp; Jefferson St, Baltimore, Maryland, 21205</span></td>
+  <td style="width: 40px; height: 14px;"></td>
+</tr>
+<tr valign="top">
+  <td style="width: 11px; height: 14px;"></td>
+  <td colspan="3"><span style="font-family: Arial; color: #000000; font-size: 12.0px;">To :</span></td>
+  <td colspan="2" style="width: 4px; height: 14px;"></td>
+  <td colspan="2"><span style="font-family: Arial; color: #000000; font-size: 12.0px;">N Port St &amp; E Baltimore St, Baltimore, Maryland, </span></td>
+  <td style="width: 40px; height: 14px;"></td>
+</tr>
+<tr valign="top">
+  <td colspan="2" style="width: 12px; height: 14px;"></td>
+  <td colspan="3"><span style="font-family: Arial; color: #000000; font-size: 12.0px;">Dates :</span></td>
+  <td style="width: 3px; height: 14px;"></td>
+  <td colspan="2"><span style="font-family: Arial; color: #000000; font-size: 12.0px;">08/01/2010 - 01/01/2011</span></td>
+  <td style="width: 40px; height: 14px;"></td>
+</tr>
+<tr valign="top">
+  <td colspan="2" style="width: 12px; height: 14px;"></td>
+  <td colspan="3"><span style="font-family: Arial; color: #000000; font-size: 12.0px;">Owner :</span></td>
+  <td style="width: 3px; height: 14px;"></td>
+  <td colspan="2"><span style="font-family: Arial; color: #000000; font-size: 12.0px;">null (METWATER_)</span></td>
+  <td style="width: 40px; height: 14px;"></td>
+</tr>
+<tr valign="top">
+  <td colspan="2" style="width: 12px; height: 14px;"></td>
+  <td colspan="3"><span style="font-family: Arial; color: #000000; font-size: 12.0px;">Status :</span></td>
+  <td style="width: 3px; height: 14px;"></td>
+  <td colspan="2"><span style="font-family: Arial; color: #000000; font-size: 12.0px;">null</span></td>
+  <td style="width: 40px; height: 14px;"></td>
+</tr>
+</table>
+
+]]></description>
+                        <styleUrl>#ffff0000r_wat.png</styleUrl>
+                        <Point>
+                            <coordinates>-76.5827179635728,39.2943262168169</coordinates>
+                        </Point>
+                    </Placemark>
+                </Folder>
+                <Folder>
+                    <open>0</open>
+                    <Snippet maxLines="0"> </Snippet>
+                    <name><![CDATA[WC_1167R-23/Lake Walker Area]]></name>
+                    <Placemark>
+                        <name><![CDATA[WC_1167R-23/Lake Walker Area]]></name>
+                        <Snippet maxLines="0"> </Snippet>
+                        <description><![CDATA[<a name="JR_PAGE_ANCHOR_0_1"></a>
+<table style="width: 420px; empty-cells: show" cellpadding="0" cellspacing="0" border="0" bgcolor="white">
+<tr>
+  <td style="width: 11px; height: 1px;"></td>
+  <td style="width: 1px; height: 1px;"></td>
+  <td style="width: 10px; height: 1px;"></td>
+  <td style="width: 49px; height: 1px;"></td>
+  <td style="width: 1px; height: 1px;"></td>
+  <td style="width: 3px; height: 1px;"></td>
+  <td style="width: 279px; height: 1px;"></td>
+  <td style="width: 26px; height: 1px;"></td>
+  <td style="width: 40px; height: 1px;"></td>
+</tr>
+<tr valign="top">
+  <td colspan="3" style="width: 22px; height: 2px;"></td>
+  <td colspan="4" style="border-top-style: solid; border-top-width: 1px; border-top-color: #000000; "></td>
+  <td colspan="2" style="width: 66px; height: 2px;"></td>
+</tr>
+<tr valign="top">
+  <td colspan="2" style="width: 12px; height: 14px;"></td>
+  <td colspan="3"><span style="font-family: Arial; color: #000000; font-size: 12.0px;">Owner :</span></td>
+  <td style="width: 3px; height: 14px;"></td>
+  <td colspan="2"><span style="font-family: Arial; color: #000000; font-size: 12.0px;">METWATER_</span></td>
+  <td style="width: 40px; height: 14px;"></td>
+</tr>
+<tr valign="top">
+  <td style="width: 11px; height: 1px;"></td>
+  <td colspan="3" rowspan="2"><span style="font-family: Arial; color: #000000; font-size: 12.0px;">Applicant </span></td>
+  <td colspan="5" style="width: 349px; height: 1px;"></td>
+</tr>
+<tr valign="top">
+  <td style="width: 11px; height: 13px;"></td>
+  <td colspan="2" style="width: 4px; height: 13px;"></td>
+  <td colspan="2" rowspan="2"><span style="font-family: Arial; color: #0000FF; font-size: 12.0px;">null (METWATER_)</span></td>
+  <td style="width: 40px; height: 13px;"></td>
+</tr>
+<tr valign="top">
+  <td colspan="6" style="width: 75px; height: 1px;"></td>
+  <td style="width: 40px; height: 1px;"></td>
+</tr>
+<tr valign="top">
+  <td colspan="2" style="width: 12px; height: 14px;"></td>
+  <td colspan="3"><span style="font-family: Arial; color: #000000; font-size: 12.0px;">From :</span></td>
+  <td style="width: 3px; height: 14px;"></td>
+  <td colspan="2"><span style="font-family: Arial; color: #000000; font-size: 12.0px;">Hollen Rd &amp; York Rd, Baltimore, Maryland, 21212</span></td>
+  <td style="width: 40px; height: 14px;"></td>
+</tr>
+<tr valign="top">
+  <td style="width: 11px; height: 14px;"></td>
+  <td colspan="3"><span style="font-family: Arial; color: #000000; font-size: 12.0px;">To :</span></td>
+  <td colspan="2" style="width: 4px; height: 14px;"></td>
+  <td colspan="2"><span style="font-family: Arial; color: #000000; font-size: 12.0px;">798 Hollen Rd, Baltimore, Maryland, 21212</span></td>
+  <td style="width: 40px; height: 14px;"></td>
+</tr>
+<tr valign="top">
+  <td colspan="2" style="width: 12px; height: 14px;"></td>
+  <td colspan="3"><span style="font-family: Arial; color: #000000; font-size: 12.0px;">Dates :</span></td>
+  <td style="width: 3px; height: 14px;"></td>
+  <td colspan="2"><span style="font-family: Arial; color: #000000; font-size: 12.0px;">08/01/2010 - 01/01/2011</span></td>
+  <td style="width: 40px; height: 14px;"></td>
+</tr>
+<tr valign="top">
+  <td colspan="2" style="width: 12px; height: 14px;"></td>
+  <td colspan="3"><span style="font-family: Arial; color: #000000; font-size: 12.0px;">Owner :</span></td>
+  <td style="width: 3px; height: 14px;"></td>
+  <td colspan="2"><span style="font-family: Arial; color: #000000; font-size: 12.0px;">null (METWATER_)</span></td>
+  <td style="width: 40px; height: 14px;"></td>
+</tr>
+<tr valign="top">
+  <td colspan="2" style="width: 12px; height: 14px;"></td>
+  <td colspan="3"><span style="font-family: Arial; color: #000000; font-size: 12.0px;">Status :</span></td>
+  <td style="width: 3px; height: 14px;"></td>
+  <td colspan="2"><span style="font-family: Arial; color: #000000; font-size: 12.0px;">null</span></td>
+  <td style="width: 40px; height: 14px;"></td>
+</tr>
+</table>
+
+]]></description>
+                        <styleUrl>#ffff0000LineString</styleUrl>
+                        <LineString>
+                            <coordinates>-76.6098299999999,39.36866,0
+-76.6085899999999,39.36866,0
+-76.6084199999999,39.3686900000001,0
+-76.6076999999999,39.3688700000001,0
+-76.6067199999999,39.3691400000001,0
+-76.6056699999999,39.36942,0
+-76.6055399999999,39.3694800000001,0
+-76.6045299999999,39.3701100000001,0
+-76.6035017999999,39.3707502000001,0
+</coordinates>
+                        </LineString>
+                    </Placemark>
+                    <Placemark>
+                        <name><![CDATA[WC_1167R-23/Lake Walker Area]]></name>
+                        <Snippet maxLines="0"> </Snippet>
+                        <description><![CDATA[<a name="JR_PAGE_ANCHOR_0_1"></a>
+<table style="width: 420px; empty-cells: show" cellpadding="0" cellspacing="0" border="0" bgcolor="white">
+<tr>
+  <td style="width: 11px; height: 1px;"></td>
+  <td style="width: 1px; height: 1px;"></td>
+  <td style="width: 10px; height: 1px;"></td>
+  <td style="width: 49px; height: 1px;"></td>
+  <td style="width: 1px; height: 1px;"></td>
+  <td style="width: 3px; height: 1px;"></td>
+  <td style="width: 279px; height: 1px;"></td>
+  <td style="width: 26px; height: 1px;"></td>
+  <td style="width: 40px; height: 1px;"></td>
+</tr>
+<tr valign="top">
+  <td colspan="3" style="width: 22px; height: 2px;"></td>
+  <td colspan="4" style="border-top-style: solid; border-top-width: 1px; border-top-color: #000000; "></td>
+  <td colspan="2" style="width: 66px; height: 2px;"></td>
+</tr>
+<tr valign="top">
+  <td colspan="2" style="width: 12px; height: 14px;"></td>
+  <td colspan="3"><span style="font-family: Arial; color: #000000; font-size: 12.0px;">Owner :</span></td>
+  <td style="width: 3px; height: 14px;"></td>
+  <td colspan="2"><span style="font-family: Arial; color: #000000; font-size: 12.0px;">METWATER_</span></td>
+  <td style="width: 40px; height: 14px;"></td>
+</tr>
+<tr valign="top">
+  <td style="width: 11px; height: 1px;"></td>
+  <td colspan="3" rowspan="2"><span style="font-family: Arial; color: #000000; font-size: 12.0px;">Applicant </span></td>
+  <td colspan="5" style="width: 349px; height: 1px;"></td>
+</tr>
+<tr valign="top">
+  <td style="width: 11px; height: 13px;"></td>
+  <td colspan="2" style="width: 4px; height: 13px;"></td>
+  <td colspan="2" rowspan="2"><span style="font-family: Arial; color: #0000FF; font-size: 12.0px;">null (METWATER_)</span></td>
+  <td style="width: 40px; height: 13px;"></td>
+</tr>
+<tr valign="top">
+  <td colspan="6" style="width: 75px; height: 1px;"></td>
+  <td style="width: 40px; height: 1px;"></td>
+</tr>
+<tr valign="top">
+  <td colspan="2" style="width: 12px; height: 14px;"></td>
+  <td colspan="3"><span style="font-family: Arial; color: #000000; font-size: 12.0px;">From :</span></td>
+  <td style="width: 3px; height: 14px;"></td>
+  <td colspan="2"><span style="font-family: Arial; color: #000000; font-size: 12.0px;">Hollen Rd &amp; York Rd, Baltimore, Maryland, 21212</span></td>
+  <td style="width: 40px; height: 14px;"></td>
+</tr>
+<tr valign="top">
+  <td style="width: 11px; height: 14px;"></td>
+  <td colspan="3"><span style="font-family: Arial; color: #000000; font-size: 12.0px;">To :</span></td>
+  <td colspan="2" style="width: 4px; height: 14px;"></td>
+  <td colspan="2"><span style="font-family: Arial; color: #000000; font-size: 12.0px;">798 Hollen Rd, Baltimore, Maryland, 21212</span></td>
+  <td style="width: 40px; height: 14px;"></td>
+</tr>
+<tr valign="top">
+  <td colspan="2" style="width: 12px; height: 14px;"></td>
+  <td colspan="3"><span style="font-family: Arial; color: #000000; font-size: 12.0px;">Dates :</span></td>
+  <td style="width: 3px; height: 14px;"></td>
+  <td colspan="2"><span style="font-family: Arial; color: #000000; font-size: 12.0px;">08/01/2010 - 01/01/2011</span></td>
+  <td style="width: 40px; height: 14px;"></td>
+</tr>
+<tr valign="top">
+  <td colspan="2" style="width: 12px; height: 14px;"></td>
+  <td colspan="3"><span style="font-family: Arial; color: #000000; font-size: 12.0px;">Owner :</span></td>
+  <td style="width: 3px; height: 14px;"></td>
+  <td colspan="2"><span style="font-family: Arial; color: #000000; font-size: 12.0px;">null (METWATER_)</span></td>
+  <td style="width: 40px; height: 14px;"></td>
+</tr>
+<tr valign="top">
+  <td colspan="2" style="width: 12px; height: 14px;"></td>
+  <td colspan="3"><span style="font-family: Arial; color: #000000; font-size: 12.0px;">Status :</span></td>
+  <td style="width: 3px; height: 14px;"></td>
+  <td colspan="2"><span style="font-family: Arial; color: #000000; font-size: 12.0px;">null</span></td>
+  <td style="width: 40px; height: 14px;"></td>
+</tr>
+</table>
+
+]]></description>
+                        <styleUrl>#ffff0000r_wat.png</styleUrl>
+                        <Point>
+                            <coordinates>-76.6064976847873,39.3691992840568</coordinates>
+                        </Point>
+                    </Placemark>
+                </Folder>
+                <Folder>
+                    <open>0</open>
+                    <Snippet maxLines="0"> </Snippet>
+                    <name><![CDATA[WC_1167R-25/Lake Walker Area]]></name>
+                    <Placemark>
+                        <name><![CDATA[WC_1167R-25/Lake Walker Area]]></name>
+                        <Snippet maxLines="0"> </Snippet>
+                        <description><![CDATA[<a name="JR_PAGE_ANCHOR_0_1"></a>
+<table style="width: 420px; empty-cells: show" cellpadding="0" cellspacing="0" border="0" bgcolor="white">
+<tr>
+  <td style="width: 11px; height: 1px;"></td>
+  <td style="width: 1px; height: 1px;"></td>
+  <td style="width: 10px; height: 1px;"></td>
+  <td style="width: 49px; height: 1px;"></td>
+  <td style="width: 1px; height: 1px;"></td>
+  <td style="width: 3px; height: 1px;"></td>
+  <td style="width: 279px; height: 1px;"></td>
+  <td style="width: 26px; height: 1px;"></td>
+  <td style="width: 40px; height: 1px;"></td>
+</tr>
+<tr valign="top">
+  <td colspan="3" style="width: 22px; height: 2px;"></td>
+  <td colspan="4" style="border-top-style: solid; border-top-width: 1px; border-top-color: #000000; "></td>
+  <td colspan="2" style="width: 66px; height: 2px;"></td>
+</tr>
+<tr valign="top">
+  <td colspan="2" style="width: 12px; height: 14px;"></td>
+  <td colspan="3"><span style="font-family: Arial; color: #000000; font-size: 12.0px;">Owner :</span></td>
+  <td style="width: 3px; height: 14px;"></td>
+  <td colspan="2"><span style="font-family: Arial; color: #000000; font-size: 12.0px;">METWATER_</span></td>
+  <td style="width: 40px; height: 14px;"></td>
+</tr>
+<tr valign="top">
+  <td style="width: 11px; height: 1px;"></td>
+  <td colspan="3" rowspan="2"><span style="font-family: Arial; color: #000000; font-size: 12.0px;">Applicant </span></td>
+  <td colspan="5" style="width: 349px; height: 1px;"></td>
+</tr>
+<tr valign="top">
+  <td style="width: 11px; height: 13px;"></td>
+  <td colspan="2" style="width: 4px; height: 13px;"></td>
+  <td colspan="2" rowspan="2"><span style="font-family: Arial; color: #0000FF; font-size: 12.0px;">null (METWATER_)</span></td>
+  <td style="width: 40px; height: 13px;"></td>
+</tr>
+<tr valign="top">
+  <td colspan="6" style="width: 75px; height: 1px;"></td>
+  <td style="width: 40px; height: 1px;"></td>
+</tr>
+<tr valign="top">
+  <td colspan="2" style="width: 12px; height: 14px;"></td>
+  <td colspan="3"><span style="font-family: Arial; color: #000000; font-size: 12.0px;">From :</span></td>
+  <td style="width: 3px; height: 14px;"></td>
+  <td colspan="2"><span style="font-family: Arial; color: #000000; font-size: 12.0px;">Clearspring Rd &amp; Cedarcroft Rd, Baltimore, </span></td>
+  <td style="width: 40px; height: 14px;"></td>
+</tr>
+<tr valign="top">
+  <td style="width: 11px; height: 14px;"></td>
+  <td colspan="3"><span style="font-family: Arial; color: #000000; font-size: 12.0px;">To :</span></td>
+  <td colspan="2" style="width: 4px; height: 14px;"></td>
+  <td colspan="2"><span style="font-family: Arial; color: #000000; font-size: 12.0px;">Clearspring Rd &amp; Walker Ave, Baltimore, Maryland, </span></td>
+  <td style="width: 40px; height: 14px;"></td>
+</tr>
+<tr valign="top">
+  <td colspan="2" style="width: 12px; height: 14px;"></td>
+  <td colspan="3"><span style="font-family: Arial; color: #000000; font-size: 12.0px;">Dates :</span></td>
+  <td style="width: 3px; height: 14px;"></td>
+  <td colspan="2"><span style="font-family: Arial; color: #000000; font-size: 12.0px;">08/01/2010 - 01/01/2011</span></td>
+  <td style="width: 40px; height: 14px;"></td>
+</tr>
+<tr valign="top">
+  <td colspan="2" style="width: 12px; height: 14px;"></td>
+  <td colspan="3"><span style="font-family: Arial; color: #000000; font-size: 12.0px;">Owner :</span></td>
+  <td style="width: 3px; height: 14px;"></td>
+  <td colspan="2"><span style="font-family: Arial; color: #000000; font-size: 12.0px;">null (METWATER_)</span></td>
+  <td style="width: 40px; height: 14px;"></td>
+</tr>
+<tr valign="top">
+  <td colspan="2" style="width: 12px; height: 14px;"></td>
+  <td colspan="3"><span style="font-family: Arial; color: #000000; font-size: 12.0px;">Status :</span></td>
+  <td style="width: 3px; height: 14px;"></td>
+  <td colspan="2"><span style="font-family: Arial; color: #000000; font-size: 12.0px;">null</span></td>
+  <td style="width: 40px; height: 14px;"></td>
+</tr>
+</table>
+
+]]></description>
+                        <styleUrl>#ffff0000LineString</styleUrl>
+                        <LineString>
+                            <coordinates>-76.6073399999999,39.3679700000001,0
+-76.6073799999999,39.36823,0
+-76.6074399999999,39.3684200000001,0
+-76.6076999999999,39.3688700000001,0
+-76.6082299999999,39.36958,0
+-76.6082799999999,39.3696800000001,0
+-76.6083999999999,39.37003,0
+-76.6087399999999,39.37111,0
+</coordinates>
+                        </LineString>
+                    </Placemark>
+                    <Placemark>
+                        <name><![CDATA[WC_1167R-25/Lake Walker Area]]></name>
+                        <Snippet maxLines="0"> </Snippet>
+                        <description><![CDATA[<a name="JR_PAGE_ANCHOR_0_1"></a>
+<table style="width: 420px; empty-cells: show" cellpadding="0" cellspacing="0" border="0" bgcolor="white">
+<tr>
+  <td style="width: 11px; height: 1px;"></td>
+  <td style="width: 1px; height: 1px;"></td>
+  <td style="width: 10px; height: 1px;"></td>
+  <td style="width: 49px; height: 1px;"></td>
+  <td style="width: 1px; height: 1px;"></td>
+  <td style="width: 3px; height: 1px;"></td>
+  <td style="width: 279px; height: 1px;"></td>
+  <td style="width: 26px; height: 1px;"></td>
+  <td style="width: 40px; height: 1px;"></td>
+</tr>
+<tr valign="top">
+  <td colspan="3" style="width: 22px; height: 2px;"></td>
+  <td colspan="4" style="border-top-style: solid; border-top-width: 1px; border-top-color: #000000; "></td>
+  <td colspan="2" style="width: 66px; height: 2px;"></td>
+</tr>
+<tr valign="top">
+  <td colspan="2" style="width: 12px; height: 14px;"></td>
+  <td colspan="3"><span style="font-family: Arial; color: #000000; font-size: 12.0px;">Owner :</span></td>
+  <td style="width: 3px; height: 14px;"></td>
+  <td colspan="2"><span style="font-family: Arial; color: #000000; font-size: 12.0px;">METWATER_</span></td>
+  <td style="width: 40px; height: 14px;"></td>
+</tr>
+<tr valign="top">
+  <td style="width: 11px; height: 1px;"></td>
+  <td colspan="3" rowspan="2"><span style="font-family: Arial; color: #000000; font-size: 12.0px;">Applicant </span></td>
+  <td colspan="5" style="width: 349px; height: 1px;"></td>
+</tr>
+<tr valign="top">
+  <td style="width: 11px; height: 13px;"></td>
+  <td colspan="2" style="width: 4px; height: 13px;"></td>
+  <td colspan="2" rowspan="2"><span style="font-family: Arial; color: #0000FF; font-size: 12.0px;">null (METWATER_)</span></td>
+  <td style="width: 40px; height: 13px;"></td>
+</tr>
+<tr valign="top">
+  <td colspan="6" style="width: 75px; height: 1px;"></td>
+  <td style="width: 40px; height: 1px;"></td>
+</tr>
+<tr valign="top">
+  <td colspan="2" style="width: 12px; height: 14px;"></td>
+  <td colspan="3"><span style="font-family: Arial; color: #000000; font-size: 12.0px;">From :</span></td>
+  <td style="width: 3px; height: 14px;"></td>
+  <td colspan="2"><span style="font-family: Arial; color: #000000; font-size: 12.0px;">Clearspring Rd &amp; Cedarcroft Rd, Baltimore, </span></td>
+  <td style="width: 40px; height: 14px;"></td>
+</tr>
+<tr valign="top">
+  <td style="width: 11px; height: 14px;"></td>
+  <td colspan="3"><span style="font-family: Arial; color: #000000; font-size: 12.0px;">To :</span></td>
+  <td colspan="2" style="width: 4px; height: 14px;"></td>
+  <td colspan="2"><span style="font-family: Arial; color: #000000; font-size: 12.0px;">Clearspring Rd &amp; Walker Ave, Baltimore, Maryland, </span></td>
+  <td style="width: 40px; height: 14px;"></td>
+</tr>
+<tr valign="top">
+  <td colspan="2" style="width: 12px; height: 14px;"></td>
+  <td colspan="3"><span style="font-family: Arial; color: #000000; font-size: 12.0px;">Dates :</span></td>
+  <td style="width: 3px; height: 14px;"></td>
+  <td colspan="2"><span style="font-family: Arial; color: #000000; font-size: 12.0px;">08/01/2010 - 01/01/2011</span></td>
+  <td style="width: 40px; height: 14px;"></td>
+</tr>
+<tr valign="top">
+  <td colspan="2" style="width: 12px; height: 14px;"></td>
+  <td colspan="3"><span style="font-family: Arial; color: #000000; font-size: 12.0px;">Owner :</span></td>
+  <td style="width: 3px; height: 14px;"></td>
+  <td colspan="2"><span style="font-family: Arial; color: #000000; font-size: 12.0px;">null (METWATER_)</span></td>
+  <td style="width: 40px; height: 14px;"></td>
+</tr>
+<tr valign="top">
+  <td colspan="2" style="width: 12px; height: 14px;"></td>
+  <td colspan="3"><span style="font-family: Arial; color: #000000; font-size: 12.0px;">Status :</span></td>
+  <td style="width: 3px; height: 14px;"></td>
+  <td colspan="2"><span style="font-family: Arial; color: #000000; font-size: 12.0px;">null</span></td>
+  <td style="width: 40px; height: 14px;"></td>
+</tr>
+</table>
+
+]]></description>
+                        <styleUrl>#ffff0000r_wat.png</styleUrl>
+                        <Point>
+                            <coordinates>-76.6081540404721,39.3694782428967</coordinates>
+                        </Point>
+                    </Placemark>
+                </Folder>
+                <Folder>
+                    <open>0</open>
+                    <Snippet maxLines="0"> </Snippet>
+                    <name><![CDATA[WC_1167R-14/Potomoc Street Water Main]]></name>
+                    <Placemark>
+                        <name><![CDATA[WC_1167R-14/Potomoc Street Water Main]]></name>
+                        <Snippet maxLines="0"> </Snippet>
+                        <description><![CDATA[<a name="JR_PAGE_ANCHOR_0_1"></a>
+<table style="width: 420px; empty-cells: show" cellpadding="0" cellspacing="0" border="0" bgcolor="white">
+<tr>
+  <td style="width: 11px; height: 1px;"></td>
+  <td style="width: 1px; height: 1px;"></td>
+  <td style="width: 10px; height: 1px;"></td>
+  <td style="width: 49px; height: 1px;"></td>
+  <td style="width: 1px; height: 1px;"></td>
+  <td style="width: 3px; height: 1px;"></td>
+  <td style="width: 279px; height: 1px;"></td>
+  <td style="width: 26px; height: 1px;"></td>
+  <td style="width: 40px; height: 1px;"></td>
+</tr>
+<tr valign="top">
+  <td colspan="3" style="width: 22px; height: 2px;"></td>
+  <td colspan="4" style="border-top-style: solid; border-top-width: 1px; border-top-color: #000000; "></td>
+  <td colspan="2" style="width: 66px; height: 2px;"></td>
+</tr>
+<tr valign="top">
+  <td colspan="2" style="width: 12px; height: 14px;"></td>
+  <td colspan="3"><span style="font-family: Arial; color: #000000; font-size: 12.0px;">Owner :</span></td>
+  <td style="width: 3px; height: 14px;"></td>
+  <td colspan="2"><span style="font-family: Arial; color: #000000; font-size: 12.0px;">METWATER_</span></td>
+  <td style="width: 40px; height: 14px;"></td>
+</tr>
+<tr valign="top">
+  <td style="width: 11px; height: 1px;"></td>
+  <td colspan="3" rowspan="2"><span style="font-family: Arial; color: #000000; font-size: 12.0px;">Applicant </span></td>
+  <td colspan="5" style="width: 349px; height: 1px;"></td>
+</tr>
+<tr valign="top">
+  <td style="width: 11px; height: 13px;"></td>
+  <td colspan="2" style="width: 4px; height: 13px;"></td>
+  <td colspan="2" rowspan="2"><span style="font-family: Arial; color: #0000FF; font-size: 12.0px;">null (METWATER_)</span></td>
+  <td style="width: 40px; height: 13px;"></td>
+</tr>
+<tr valign="top">
+  <td colspan="6" style="width: 75px; height: 1px;"></td>
+  <td style="width: 40px; height: 1px;"></td>
+</tr>
+<tr valign="top">
+  <td colspan="2" style="width: 12px; height: 14px;"></td>
+  <td colspan="3"><span style="font-family: Arial; color: #000000; font-size: 12.0px;">From :</span></td>
+  <td style="width: 3px; height: 14px;"></td>
+  <td colspan="2"><span style="font-family: Arial; color: #000000; font-size: 12.0px;">N Potomac St &amp; E Baltimore St, Baltimore, Maryland, </span></td>
+  <td style="width: 40px; height: 14px;"></td>
+</tr>
+<tr valign="top">
+  <td style="width: 11px; height: 14px;"></td>
+  <td colspan="3"><span style="font-family: Arial; color: #000000; font-size: 12.0px;">To :</span></td>
+  <td colspan="2" style="width: 4px; height: 14px;"></td>
+  <td colspan="2"><span style="font-family: Arial; color: #000000; font-size: 12.0px;">S Potomac St &amp; E Pratt St, Baltimore, Maryland, </span></td>
+  <td style="width: 40px; height: 14px;"></td>
+</tr>
+<tr valign="top">
+  <td colspan="2" style="width: 12px; height: 14px;"></td>
+  <td colspan="3"><span style="font-family: Arial; color: #000000; font-size: 12.0px;">Dates :</span></td>
+  <td style="width: 3px; height: 14px;"></td>
+  <td colspan="2"><span style="font-family: Arial; color: #000000; font-size: 12.0px;">08/01/2010 - 01/01/2011</span></td>
+  <td style="width: 40px; height: 14px;"></td>
+</tr>
+<tr valign="top">
+  <td colspan="2" style="width: 12px; height: 14px;"></td>
+  <td colspan="3"><span style="font-family: Arial; color: #000000; font-size: 12.0px;">Owner :</span></td>
+  <td style="width: 3px; height: 14px;"></td>
+  <td colspan="2"><span style="font-family: Arial; color: #000000; font-size: 12.0px;">null (METWATER_)</span></td>
+  <td style="width: 40px; height: 14px;"></td>
+</tr>
+<tr valign="top">
+  <td colspan="2" style="width: 12px; height: 14px;"></td>
+  <td colspan="3"><span style="font-family: Arial; color: #000000; font-size: 12.0px;">Status :</span></td>
+  <td style="width: 3px; height: 14px;"></td>
+  <td colspan="2"><span style="font-family: Arial; color: #000000; font-size: 12.0px;">null</span></td>
+  <td style="width: 40px; height: 14px;"></td>
+</tr>
+</table>
+
+]]></description>
+                        <styleUrl>#ffff0000LineString</styleUrl>
+                        <LineString>
+                            <coordinates>-76.5747599999999,39.2922800000001,0
+-76.5747,39.2911100000001,0
+-76.5746199999999,39.28999,0
+</coordinates>
+                        </LineString>
+                    </Placemark>
+                    <Placemark>
+                        <name><![CDATA[WC_1167R-14/Potomoc Street Water Main]]></name>
+                        <Snippet maxLines="0"> </Snippet>
+                        <description><![CDATA[<a name="JR_PAGE_ANCHOR_0_1"></a>
+<table style="width: 420px; empty-cells: show" cellpadding="0" cellspacing="0" border="0" bgcolor="white">
+<tr>
+  <td style="width: 11px; height: 1px;"></td>
+  <td style="width: 1px; height: 1px;"></td>
+  <td style="width: 10px; height: 1px;"></td>
+  <td style="width: 49px; height: 1px;"></td>
+  <td style="width: 1px; height: 1px;"></td>
+  <td style="width: 3px; height: 1px;"></td>
+  <td style="width: 279px; height: 1px;"></td>
+  <td style="width: 26px; height: 1px;"></td>
+  <td style="width: 40px; height: 1px;"></td>
+</tr>
+<tr valign="top">
+  <td colspan="3" style="width: 22px; height: 2px;"></td>
+  <td colspan="4" style="border-top-style: solid; border-top-width: 1px; border-top-color: #000000; "></td>
+  <td colspan="2" style="width: 66px; height: 2px;"></td>
+</tr>
+<tr valign="top">
+  <td colspan="2" style="width: 12px; height: 14px;"></td>
+  <td colspan="3"><span style="font-family: Arial; color: #000000; font-size: 12.0px;">Owner :</span></td>
+  <td style="width: 3px; height: 14px;"></td>
+  <td colspan="2"><span style="font-family: Arial; color: #000000; font-size: 12.0px;">METWATER_</span></td>
+  <td style="width: 40px; height: 14px;"></td>
+</tr>
+<tr valign="top">
+  <td style="width: 11px; height: 1px;"></td>
+  <td colspan="3" rowspan="2"><span style="font-family: Arial; color: #000000; font-size: 12.0px;">Applicant </span></td>
+  <td colspan="5" style="width: 349px; height: 1px;"></td>
+</tr>
+<tr valign="top">
+  <td style="width: 11px; height: 13px;"></td>
+  <td colspan="2" style="width: 4px; height: 13px;"></td>
+  <td colspan="2" rowspan="2"><span style="font-family: Arial; color: #0000FF; font-size: 12.0px;">null (METWATER_)</span></td>
+  <td style="width: 40px; height: 13px;"></td>
+</tr>
+<tr valign="top">
+  <td colspan="6" style="width: 75px; height: 1px;"></td>
+  <td style="width: 40px; height: 1px;"></td>
+</tr>
+<tr valign="top">
+  <td colspan="2" style="width: 12px; height: 14px;"></td>
+  <td colspan="3"><span style="font-family: Arial; color: #000000; font-size: 12.0px;">From :</span></td>
+  <td style="width: 3px; height: 14px;"></td>
+  <td colspan="2"><span style="font-family: Arial; color: #000000; font-size: 12.0px;">N Potomac St &amp; E Baltimore St, Baltimore, Maryland, </span></td>
+  <td style="width: 40px; height: 14px;"></td>
+</tr>
+<tr valign="top">
+  <td style="width: 11px; height: 14px;"></td>
+  <td colspan="3"><span style="font-family: Arial; color: #000000; font-size: 12.0px;">To :</span></td>
+  <td colspan="2" style="width: 4px; height: 14px;"></td>
+  <td colspan="2"><span style="font-family: Arial; color: #000000; font-size: 12.0px;">S Potomac St &amp; E Pratt St, Baltimore, Maryland, </span></td>
+  <td style="width: 40px; height: 14px;"></td>
+</tr>
+<tr valign="top">
+  <td colspan="2" style="width: 12px; height: 14px;"></td>
+  <td colspan="3"><span style="font-family: Arial; color: #000000; font-size: 12.0px;">Dates :</span></td>
+  <td style="width: 3px; height: 14px;"></td>
+  <td colspan="2"><span style="font-family: Arial; color: #000000; font-size: 12.0px;">08/01/2010 - 01/01/2011</span></td>
+  <td style="width: 40px; height: 14px;"></td>
+</tr>
+<tr valign="top">
+  <td colspan="2" style="width: 12px; height: 14px;"></td>
+  <td colspan="3"><span style="font-family: Arial; color: #000000; font-size: 12.0px;">Owner :</span></td>
+  <td style="width: 3px; height: 14px;"></td>
+  <td colspan="2"><span style="font-family: Arial; color: #000000; font-size: 12.0px;">null (METWATER_)</span></td>
+  <td style="width: 40px; height: 14px;"></td>
+</tr>
+<tr valign="top">
+  <td colspan="2" style="width: 12px; height: 14px;"></td>
+  <td colspan="3"><span style="font-family: Arial; color: #000000; font-size: 12.0px;">Status :</span></td>
+  <td style="width: 3px; height: 14px;"></td>
+  <td colspan="2"><span style="font-family: Arial; color: #000000; font-size: 12.0px;">null</span></td>
+  <td style="width: 40px; height: 14px;"></td>
+</tr>
+</table>
+
+]]></description>
+                        <styleUrl>#ffff0000r_wat.png</styleUrl>
+                        <Point>
+                            <coordinates>-76.574701246668,39.291134310027</coordinates>
+                        </Point>
+                    </Placemark>
+                </Folder>
+            </Folder>
+        </Folder>
+        <Style id="ff2024b4r_ele.png">
+	  <IconStyle>
+	    <scale>1</scale>
+	    <Icon>
+	      <href>http://www.envista.com/demos/publicweb/kml/images/r_ele.png</href>
+	    </Icon>
+	  </IconStyle>
+	</Style>
+        <Style id="ffff0000LineString">
+	  <LineStyle>
+	    <color>FFFF0000</color>
+	    <width>8</width>
+	  </LineStyle>
+	</Style>
+        <Style id="ffff0000r_wat.png">
+	  <IconStyle>
+	    <scale>1</scale>
+	    <Icon>
+	      <href>http://www.envista.com/demos/publicweb/kml/images/r_wat.png</href>
+	    </Icon>
+	  </IconStyle>
+	</Style>
+        <Style id="ff2024b4LineString">
+	  <LineStyle>
+	    <color>FF2024B4</color>
+	    <width>8</width>
+	  </LineStyle>
+	</Style>
+    </Document>
+</kml>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+    <GroundOverlay id="massTowns" >
+      <name>MA Towns</name>
+      <description>Massachusetts cities and towns.</description>
+      <visibility>1</visibility>
+      <color>7fffffff</color>
+      <Icon>
+        <href>../resources/images/MA_cities_and_towns.png</href>
+      </Icon>
+     <LatLonBox>
+        <north>42.885</north>
+        <south>41.24</south>
+        <east>-69.93</east>
+        <west>-73.52</west>
+      </LatLonBox>
+    </GroundOverlay>
+</kml>

@@ -1,0 +1,87 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html lang="en">
+<head>
+<title>KmlMapParser Examples </title>
+	<link rel="stylesheet" type="text/css" href="resources/css/examples.css"/>
+</head>
+<body>
+	<div class="header"><h1 class="pagetitle">KmlMapParser Examples</h1></div>			
+			<div class="sample-ct">
+				<div class="inner-title">Sidebars</div>
+				  
+				  <a href="examples/sidebarStateMap.html" ><img src="resources/images/stateMap.png" />
+						<div><h4>State </h4><p>Map with the contents in a list.</p></div>
+				  </a>
+				  
+				   <a href="examples/trainMap.html" ><img src="resources/images/trainMap.png" />
+						<div><h4>MBTA Commuter Rail Map </h4><p>MBTA Commuter Rail Map shows a more complex tree and a different sidebar placement.</p></div>			
+				  </a>
+				  
+				  				  
+				  <a href="examples/sidebarBikeMap.html" ><img src="resources/images/bikeMap.png" />
+						<div><h4>Bike Map </h4><p>Map that displays the KML contents in a simple tree with document name as the root folder.</p></div>
+				  </a>
+				  
+				   <a href="examples/sidebarMap.html" ><img src="resources/images/sidebarMap.png" />
+						<div><h4>Map with  multi geometries.</h4><p>Map with multi geometries and style icons for markers.</p></div>
+				  </a>
+			</div>
+			
+			<div class="sample-ct">
+				<div class="inner-title">Multiple Files and Overlays</div>		 		  
+				  
+				  <a href="examples/multipleKml.html" ><img src="resources/images/multipleMap.png" />
+						<div><h4>Multiple Kml Files </h4><p>Multiple Kml Files each with their own document root name.</p></div>
+			
+				  </a>
+				  
+				   <a href="examples/overlayTest.html" ><img src="resources/images/overlayMap.png" />
+						<div><h4>Ground Overlay KML</h4><p>A Kml File which contains a ground overlay.</p></div>			
+				  </a>
+			</div>
+			
+			<div class="sample-ct">
+				<div class="inner-title">Search and Zoom</div>		 		  
+				  
+				  <a href="examples/filterMap.html" ><img src="resources/images/filterSidebar.png" />
+						<div><h4>Search the sidebar </h4><p>Search the sidebar contents plus drag zoom button on the map.</p></div>		
+				  </a>			  
+			</div>
+			<div class="sample-ct">
+				<div class="inner-title">Icon Image Size</div>		 		  
+				  
+				  <a href="examples/SailMap.html" ><img src="resources/images/sailMap.png" />
+						<div><h4>Sail Map</h4><p>Map that uses a smaller image than the standard google 32 x 32px.</p></div>		
+				  </a>			  
+			</div>
+
+</div>
+	
+<div id="main"><pre>The <a href="http://code.google.com/p/kmlmapparser/">KmlMapParser project</a> is an effort to develop a KML processor for use with Version 3 of the Google Maps JavaScript API that 
+will create a collapsible tree based layer control. 
+
+Support includes:  polylines, polygons, markers, customizeable icons, and multiple kml files.
+KML MultiGeometries are supported with an option to have simple circles for points instead of markers. 
+
+The focus is all about the displaying the contents in the side bar!  
+
+As a result there are many different <a href="KmlMapParserAPI.html">configuration options</a>.
+
+
+<span class="bold">Warnings: </span> 
+This Api does not contain any support of Google Maps Version 2.
+Also the larger number of placemarks and shapes will result in slower loading! 
+Currently only a single Bubble is repeatedly used. There are no plans for multiple bubbles.
+	
+KmlMapParser is subject to the same cross-domain download restrictions as any JavaScript,
+so any KML document will need to be served from the same domain as the html map page.   
+
+
+
+<span class="bold">Original code inspired by: </span> 
+Lance Alan Dyas  <a href="http://code.google.com/p/geoxml/" >geoxml project</a>
+Sterling Udell	<a href="http://code.google.com/p/geoxml3/" >geoxml3 project</a>
+
+</pre></div>
+</body>	
+</html>

@@ -1,0 +1,76 @@
+<html>
+<head>
+    <title>Chicago Bike Map</title>
+	<link rel="stylesheet" type="text/css" href="../resources/css/examples.css"/>
+<!--
+ #	Uses KmlMapParser styles
+ #-->
+	<link rel="stylesheet" type="text/css" href="../resources/css/KmlMapParser.css"/>
+<style>
+.map {
+		width: 650px; 
+		height: 600px;
+		margin: 20px;
+}
+.sidebar-ct {
+	width: 300px;
+}
+</style>
+<!--
+ # Uses Google Maps API V3
+ #-->
+<script type="text/javascript" src="http://maps.google.com/maps/api/js?sensor=false"></script>
+
+<!--
+ #	Uses KmlMapParser
+ #-->
+<script type="text/javascript" src="../javascript/KmlMapParser_packed_1.0.js" ></script>
+<script type="text/javascript">
+
+ var xml;
+ var map;
+ 
+ function initialize() {
+ 	var myLatlng = new google.maps.LatLng(42.5583333, -70.8805556);
+	var myOptions = { zoom: 8,
+   		 			center: myLatlng,
+                    mapTypeId: google.maps.MapTypeId.ROADMAP,
+					mapTypeControl: true,
+ 					navigationControl: true,
+					draggingCursor: 'move'
+		            };
+   	
+     map = new google.maps.Map(document.getElementById("sidebarMap"), myOptions);
+     xml = new KmlMapParser({ map: map,
+     						zoomLevel: 10,
+     						showRootName: true,
+     						//zoomOnClick: false,
+     						kml: '../kmlFiles/Chicago Bike Parking.kml',
+     						showSidebar: true,
+     						showFolders: false,
+     						showSidebarDescriptions: false,
+     						showSidebarBubble: true
+     						});
+}  
+</script>
+</head>
+<body onload="initialize()" >
+<!--body  -->	
+<div class="header"><h1 class="pagetitle">Chicago Bike Parking Map</h1></div>
+<div class="bread-crumbs"><a href="../default.html"> &rsaquo; &rsaquo;  Back to Examples</a></div>
+	
+	<div class="map-ct"  >
+       <div id="sidebarMap" class="map"></div>
+       <div class="sidebar-ct" style="width: 250px;" ><div id="the_side_bar"  class="sidebar" > </div></div>
+  </div>
+
+<div id="main" style="white-space: pre">
+<pre>
+This example is a Google map displaying custom markers. The KML has styles specified within it for the marker. 
+It also has links within the bubble description.  
+	
+The data source file is called: <a href="../kmlFiles/Chicago Bike Parking.kml">Chicago Bike Parking.kml</a>. 
+</pre>
+</div>	
+</body>
+</html>

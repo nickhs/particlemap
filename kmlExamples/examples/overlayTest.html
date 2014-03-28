@@ -1,0 +1,127 @@
+<html>
+<head>
+  <title>Multiple KML Map</title>
+	<link rel="stylesheet" type="text/css" href="../resources/css/examples.css"/>
+<style>
+.map {
+		width: 650px; 
+		height: 600px;
+		margin: 20px;
+}
+</style>
+<!--
+ #	Uses KmlMapParser css
+ #-->
+<link rel="stylesheet" type="text/css" href="../resources/css/KmlMapParser.css"/>
+<!--
+ # Uses Google Maps API V3
+ #-->
+<script type="text/javascript" src="http://maps.google.com/maps/api/js?sensor=false"></script>
+
+<!--
+ #	Uses the packed KmlMapParser
+ # -->
+<script type="text/javascript" src="../javascript/KmlMapParser_packed_1.0.js"></script>
+<script type="text/javascript" >
+
+ var xml;
+ var map;
+ 
+function initialize() {
+ 	var myLatlng = new google.maps.LatLng(42.5583333, -70.8805556);
+	var myOptions = { zoom: 10,
+   		 			center: myLatlng,
+                    mapTypeId: google.maps.MapTypeId.ROADMAP,
+					mapTypeControl: true,
+					navigationControl: true,
+					draggingCursor: 'move'
+		            };
+   	
+    map = new google.maps.Map(document.getElementById("sidebarMap"), myOptions);
+     
+    xml = new KmlMapParser({ map: map,
+     						zoom: 10,
+     						zoomOnClick: false,
+     						showRootName: true, 
+     						showSidebar: true,
+     						showFolders: false,
+     						showSidebarDescriptions: false,
+     						showSidebarBubble: true,
+     						showOverlaysInSidebar: true
+     						//,imageDirectory: 'http://localhost:8090/envistaExamples/resources/images'
+     						}); 
+     											
+ xml.parse(['../kmlFiles/MA_cities.kml','../kmlFiles/OverlayKml.kml']);       											
+}
+
+
+function onCheckboxChanged(checkbox){
+	if (checkbox.checked){
+		xml.setOverlayVisibility(true);
+	}else{
+		xml.setOverlayVisibility(false);
+	}	
+} 
+
+function onRadioChanged(checkbox){
+	var opacity = parseInt(checkbox.value,10);
+	var overlay = document.getElementById("overlay");
+	overlay.checked = true;
+	if (checkbox.checked){
+		 xml.setOverlayOpacity(opacity/100);
+	}
+} 
+
+function showMap(checkbox){
+	if (checkbox.checked){
+		xml.setVisibility(true);
+	}else{
+		xml.setVisibility(false);
+	}	
+} 
+
+function showMap2(checkbox){
+	if (checkbox.checked){
+		xml.parse('../kmlFiles/permitData.kml'); 
+	}else{
+		xml.clearMap();
+	}	
+} 
+
+</script>
+</head>
+<body onload="initialize()" >
+
+<div class="header"><h1 class="pagetitle">Ground Overlays KML Map</h1></div>
+<div class="bread-crumbs"><a href="../default.html"> &rsaquo; &rsaquo;  Back to Examples</a></div>
+
+<div style="padding: 20px 0px 5px 50px">
+	<span style="padding-left: 20px">20%:&nbsp;<input type="radio" id="O-20" name="opacity" value="20" onclick="onRadioChanged(this)"></span>
+	<span style="padding-left: 20px">50%:&nbsp;<input type="radio" id="O-50" name="opacity" value="50" onclick="onRadioChanged(this)" checked ></span>
+	<span style="padding-left: 20px">100%:&nbsp;<input type="radio" id="O-100" name="opacity" value="100" onclick="onRadioChanged(this)" ></span>
+	<span style="padding-left: 20px">Show overlay:&nbsp;<input type="checkbox" id="overlay" name="overlay" value="true" onclick="onCheckboxChanged(this)" checked ></span>
+	<span style="padding-left: 20px">Display Data:&nbsp;<input type="checkbox" name="shapes" value="true" onclick="showMap(this)" checked ></span>
+	</div>
+	<div class="map-ct" padding-top: 0px; >
+       <div id="sidebarMap" class="map"></div>
+       <div class="sidebar-ct" style="width: 300px;margin-top: 60px;" ><div id="the_side_bar" class="sidebar" ></div></div>
+  </div>
+
+<div id="main" style="white-space: pre"><pre>
+This example is a Google map initially displaying multiple KML data files called:  <a href="../kmlFiles/OverlayKml.kml">OverlayKml.kml</a> and <a href="../kmlFiles/MA_cities.kml">MA_cities.kml</a>.
+
+The overlay is a png image of Massachusetts cities and towns.  See <a href='../resources/images/MA_cities_and_towns.png'>MA_cities_and_towns.png</a>  
+
+The opacity of the overlay can be controlled by the radio buttons at the top of the page. The overlay visibility and 
+opacity are controlled by the KmlMapParser public methods called:
+<span class="methodName">setOverlayVisibility</span>(Boolean isVisible) and <span class="methodName">setOverlayOpacity</span>(Number opacity).
+
+Also the map markers, shapes and related sidebar can be visually removed form the map by checking/unchecking "Display Data" 
+which used the public method <span class="methodName">setVisibility</span>(Boolean isVisible);
+</pre>
+<table class="atable">
+<tr><th class="bold">showOverlaysInSidebar</th><td>Boolean</td><td> true to show overlays in the side bar; false will not display any overlays in the sidebar; default is true.</td></tr>
+</table>
+</div>	   
+</body>
+</html>

@@ -1,0 +1,198 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>Massachusetts Cities</name>
+	<Folder>
+		<Placemark>
+			<name>Boston</name>
+			<description>Boston is the capital of and largest city in Massachusetts.  The Boston Massacre and the Boston Tea Party occurred in Boston and led to the American Revolution.</description>
+			<LookAt>
+				<longitude>-71.05977300312775</longitude>
+				<latitude>42.35843100531216</latitude>
+				<altitude>0</altitude>
+				<heading>-2.107386233340164e-009</heading>
+				<tilt>0</tilt>
+				<range>34426.00143998101</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_ylw-pushpin9</styleUrl>
+			<Point>
+				<altitudeMode>absolute</altitudeMode>
+				<coordinates>-71.05977300312775,42.35843100531217,3.1482280535562</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Worcester</name>
+			<description>Worcester is known as the &quot;Heart of the Commonwealth&quot; due to its location in central Massachusetts, thus, a heart is the official symbol of the city.</description>
+			<LookAt>
+				<longitude>-71.80229299737233</longitude>
+				<latitude>42.2625930065606</latitude>
+				<altitude>0</altitude>
+				<heading>1.76716070878667e-009</heading>
+				<tilt>0</tilt>
+				<range>17233.50055269895</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_ylw-pushpin0</styleUrl>
+			<Point>
+				<altitudeMode>absolute</altitudeMode>
+				<coordinates>-71.80229299737233,42.26259300656061,145.2545892926215</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Springfield</name>
+			<description>Historically the first Springfield in America.</description>
+			<LookAt>
+				<longitude>-72.58981099924824</longitude>
+				<latitude>42.10148299778795</latitude>
+				<altitude>0</altitude>
+				<heading>5.040065975981161e-010</heading>
+				<tilt>0</tilt>
+				<range>17277.36855774167</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_ylw-pushpin6</styleUrl>
+			<Point>
+				<altitudeMode>absolute</altitudeMode>
+				<coordinates>-72.58981099984295,42.10148300097482,39.44687703020819</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Lowell</name>
+			<description>Lowell is known as the birthplace of the industrial revolution in the United States.</description>
+			<LookAt>
+				<longitude>-71.31617200184621</longitude>
+				<latitude>42.63342499640326</latitude>
+				<altitude>0</altitude>
+				<heading>-1.250482781337603e-009</heading>
+				<tilt>0</tilt>
+				<range>8564.451680780059</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_ylw-pushpin3</styleUrl>
+			<Point>
+				<altitudeMode>absolute</altitudeMode>
+				<coordinates>-71.31617200184621,42.63342499640325,32.71923637446179</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Cambridge</name>
+			<description>Cambridge is home to two internationally prominent universities, Harvard University and the Massachusetts Institute of Technology. </description>
+			<LookAt>
+				<longitude>-71.10965300713373</longitude>
+				<latitude>42.37264000434871</latitude>
+				<altitude>0</altitude>
+				<heading>-4.807793248148562e-009</heading>
+				<tilt>0</tilt>
+				<range>8600.20020650975</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_ylw-pushpin2</styleUrl>
+			<Point>
+				<altitudeMode>absolute</altitudeMode>
+				<coordinates>-71.10965300713372,42.37264000434871,7.159466020276252</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Brockton </name>
+			<description>Brockton is sometimes referred to as the &quot;City of Champions&quot; due to the success of native boxers Rocky Marciano and Marvin Hagler.</description>
+			<LookAt>
+				<longitude>-71.01837899995951</longitude>
+				<latitude>42.08343399824823</latitude>
+				<altitude>0</altitude>
+				<heading>2.712218004618013e-011</heading>
+				<tilt>0</tilt>
+				<range>8639.699317635228</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_ylw-pushpin</styleUrl>
+			<Point>
+				<altitudeMode>absolute</altitudeMode>
+				<coordinates>-71.0183789999595,42.08343399824823,30.29967761376449</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>New Bedford</name>
+			<description>New Bedford is nicknamed &quot;The Whaling City&quot; because during the 19th century it was one of the most important whaling ports in the world.</description>
+			<LookAt>
+				<longitude>-70.93420500203244</longitude>
+				<latitude>41.63621500187266</latitude>
+				<altitude>0</altitude>
+				<heading>-1.350326753898106e-009</heading>
+				<tilt>0</tilt>
+				<range>17403.47639378627</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_ylw-pushpin4</styleUrl>
+			<Point>
+				<altitudeMode>absolute</altitudeMode>
+				<coordinates>-70.93420500203244,41.63621500187266,24.75716633283448</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Fall River</name>
+			<description>Fall River is known for Battleship Cove which has the world&apos;s largest collection of World War II naval vessels.</description>
+			<LookAt>
+				<longitude>-71.15504499654021</longitude>
+				<latitude>41.70149101206891</latitude>
+				<altitude>0</altitude>
+				<heading>2.301640200787889e-009</heading>
+				<tilt>0</tilt>
+				<range>17385.8377123415</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_ylw-pushpin7</styleUrl>
+			<Point>
+				<altitudeMode>absolute</altitudeMode>
+				<coordinates>-71.15504499654021,41.70149101206891,23.26129426529637</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Lynn</name>
+			<description>Lynn is about 7 miles north of downtown Boston.</description>
+			<LookAt>
+				<longitude>-70.94949399981969</longitude>
+				<latitude>42.46676300410375</latitude>
+				<altitude>0</altitude>
+				<heading>1.217166471049273e-010</heading>
+				<tilt>0</tilt>
+				<range>8587.326697933368</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_ylw-pushpin5</styleUrl>
+			<Point>
+				<altitudeMode>absolute</altitudeMode>
+				<coordinates>-70.94949399981969,42.46676300410375,14.89168526609486</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Quincy</name>
+			<description>Quincy is the birthplace of U.S. Presidents John Adams and John Quincy Adams.</description>
+			<LookAt>
+				<longitude>-71.00227000742845</longitude>
+				<latitude>42.25287699598879</latitude>
+				<altitude>0</altitude>
+				<heading>-4.994952988379282e-009</heading>
+				<tilt>0</tilt>
+				<range>17236.11617372477</range>
+				<altitudeMode>relativeToGround</altitudeMode>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_ylw-pushpin8</styleUrl>
+			<Point>
+				<altitudeMode>absolute</altitudeMode>
+				<coordinates>-71.00227000742845,42.25287699598879,14.5549973299613</coordinates>
+			</Point>
+		</Placemark>
+	</Folder>
+</Document>
+</kml>

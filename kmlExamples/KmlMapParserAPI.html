@@ -1,0 +1,101 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html lang="en">
+<head>
+<title>KmlMapParser API </title>
+	<link rel="stylesheet" type="text/css" href="resources/css/examples.css"/>
+<style>
+.methodName{
+	color: #083772;
+	font-weight: bold;
+}
+</style>
+</head>
+<body>
+	
+	<div class="header"><a class="logo" href="http://www.envista.com"><img src="resources/images/envista-logo.png" /></a><h1 class="pagetitle">KmlMapParser API</h1></div>
+	<div class="bread-crumbs"><a href="default.html"> &rsaquo; &rsaquo;  Back to Examples</a></div>
+<div class="title">KmlMapParser API</div>
+<div id="main">
+KmlMapParser makes it easy to control the look of the sidebar and its contents. Below are the <span class="methodName">configuration options (case matters!)</span> : 
+<table class="atable">
+<tr><th class="bold">Config Option Name</th><th  class="bold">param</th><th></th></tr>
+<tr><th class="bold">afterParseFn</th><td>Object</td><td>A Javascript function to be called after parsing the KML files. </td></tr>
+<tr><th class="bold">allFoldersOpen</th><td>Boolean</td><td>If this is defined it will override ALL the KML folder open tags so that the tree will always be closed or opened; default is undefined and will honor KML folder open tags.</td></tr>
+<tr><th class="bold">dragZoomButtonImage</th> <td>String</td><td> The image file to use for the dragZoomButton. example:  'http://localhost:8090/envistaExamples/resources/images/dragzoom_btn.png'.  The default is 'http://maps.gstatic.com/mapfiles/ftr/controls/dragzoom_btn.png';</td></tr>
+<tr><th class="bold">highlightColor</th> <td>String</td><td>An RGB color that all shapes will be highlighted to show a selected state. Default is a light bright blue - '#aaffff'.</td></tr>
+<tr><th class="bold">imageDirectory</th><td>String</td><td> the directory location of the images, example: 'http://localhost/envistaExamples/resources/images'; default is to use the directory indicated in the KML stylesheet.</td></tr>
+<tr><th class="bold">imageSize</th><td>Object</td><td>Specifies the width and height of ALL marker images. Using this will override the default size for marker images. example: {width: 16, height:18}; default for Google Maps uses a 32 x 32 image or {width: 32, height:32}</td></tr>
+<tr><th class="bold">imageHotspot</th><td>Object</td><td>It specifies the pixel position within the icon that is "anchored" to the point specified in the Marker.  Using this will override the default anchor for ALL marker images it will NOT override a KML 'hotspot'. example: {x: 0, y:32}; Google Maps uses a 32 x 32 image as the default size so the default hotspot is the bottom middle of the image or {x: 16, y:32}</td></tr>
+<tr><th class="bold">showImageShadow</th><td>Boolean</td><td>Tries to add a google marker shadow. If no KML styles are used a shadow is always shown. Default is false which will NOT display any marker shadows.</td></tr>
+<tr><th class="bold">kml</th> <td>String or Array</td><td> KML file to be parsed.  Example ['../kmlFiles/sidebarMap.kml', 'http://myServer.com/kmlFiles/state_capitals.kml'].
+&nbsp;&nbsp; Note that the KmlMapParser is subject to the same cross-domain download restrictions as any JavaScript,
+so any KML document will need to be served from the same domain as the html map page. </td></tr>
+<tr><th class="bold">map</th><td>Map Object</td><td>Google v3 map. REQUIRED</td></tr>
+<tr><th class="bold">sidebarId</th><td>String</td><td> html id  where the side bar will be created; the default id is 'the_side_bar'</td></tr>
+<tr><th class="bold">showBubble</th> <td>Boolean</td> <td>true to show the bubble/balloon on the map; false to suppress it (and zoom and hilight); default is true. </td></tr>
+<tr><th class="bold">showDragZoomButton</th> <td>Boolean</td> <td>true to show the dragzoom button on the map. 	[REQUIRES keydragzoom.js or keydragzoom_packed.js.js   see <a href="http://google-maps-utility-library-v3.googlecode.com">http://google-maps-utility-library-v3.googlecode.com</a>]</td></tr>
+<tr><th class="bold">showFolders</th><td>Boolean</td><td> true to show the side bar in a tree; false will display the contents in a unordered list; default is true.</td></tr>
+<tr><th class="bold">showSidebar</th><td>Boolean</td><td> true to show the side bar; false will not display the sidebar; default is true.</td></tr> 
+<tr><th class="bold">showOverlaysInSidebar</th><td>Boolean</td><td> true to show overlays in the side bar; false will not display any overlays in the sidebar; default is true.</td></tr>
+<tr><th class="bold">showSidebarDescriptions</th><td>Boolean</td><td> true to show descriptions in the side bar, false will not show descriptions; default is true.</td></tr>
+<tr><th class="bold">showSidebarBubble</th><td>Boolean</td><td> true display a map bubble when clicking an item in the side bar; default is false.</td></tr>
+<tr><th class="bold">showRootName</th><td>Boolean</td><td> true display the document name as the root of the file contents when shown in the sidebar; default is true.</td></tr>  
+<tr><th class="bold">showMultiPointsAsMarkers</th><td>Boolean</td><td> true  to show the KML multigeometry points as a google map marker, false will show them as a circle; default is false;</td></tr>
+<tr><th class="bold">sidebarId</th><td>String</td><td> html id  where the side bar will be created; the default id is 'the_side_bar'.</td></tr>
+<tr><th class="bold">useMapCenter</th> <td>Boolean</td> <td>true to use the google map lat/long center as the center of the map, false will use the actual KML to determine the bounds of the map; default is false;</td></tr>
+<tr><th class="bold">zoomLevel</th> <td>Number</td> <td>a google maps zoom level that will be used to zoom the map when you click on the sidebar marker name; default zoomLevel is 15;</td></tr> 
+<tr><th class="bold">zoomOnClick</th> <td>Boolean</td> <td>true to zoom the map when you click on the sidebar marker name, false to remain at the current zoom; default is true;</td></tr>   
+</table>
+
+
+<h3 class="methodName">Public Methods</h3>
+<pre>
+<span class="methodName">parse </span> ( String or Array urls )
+<div>Process one or more KML documents.</div>
+
+<span class="methodName">hideDocumentById </span>( String docId ) 
+<div>Show the map objects associated with a document by the documents id.</div>
+
+<span class="methodName">showDocumentById </span>( String docId )
+<div>Show the map objects associated with a document by the documents id.</div>
+  
+<span class="methodName">setVisibility </span>( Boolean isVisible )
+<div>Sets visibility on all map objects and the sidebar.</div>
+  
+<span class="methodName">setVisibilityOnMarkers </span>( Boolean isVisible, Number docId )
+<div>Sets visibility on all map markers and shapes.</div>
+   
+<span class="methodName">setOverlayVisibility </span>( Boolean isVisible ) 
+<div>sets all the overlays to the specified opacity. </div>
+  
+<span class="methodName">setOverlayOpacity </span>( Number opacity ) 
+<div>sets the Overlay opacity (1-100) for all overlays on the map</div>
+
+<span class="methodName">setOverlayOpacityByDocId </span>( Number docId, Number opacity ) 
+<div>sets the overlay opacity by the documents id.</div>
+  
+<span class="methodName">clearMap </span>
+<div>clears Map of all object displayed on it and removes contents the side bar and destroys all references to the KML
+there is no recovery from this action except to re-parse the KML.</div>
+  
+<span class="methodName">filterSidebar </span>(String text)
+<div>filters the Sidebar contents.  </div>
+
+<span class="methodName">filterMarkers </span>(String text)
+<div>filters Markers on all map markers and shapes by the description.</div> 
+
+<span class="methodName">filterMap </span> (String text) 
+<div>filters both the Sidebar and the markers on the map.</div> 
+ 
+<span class="methodName">zoomMap </span>(Number zoomLevel)
+<div>level to zoom the map</div> 
+
+<span class="methodName">closeBubble </span>
+<div>closes the bubble on the map. </div> 
+</pre>
+
+For the latest version see <a href="http://code.google.com/p/kmlmapparser/">http://code.google.com/p/kmlmapparser/</a>  
+
+</div>
+	</body>	
+</html>
