@@ -1,0 +1,3 @@
+[submodule "world.geo.json"]
+	path = world.geo.json
+	url = git@github.com:johan/world.geo.json.git
