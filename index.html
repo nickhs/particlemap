@@ -3,29 +3,141 @@
         <title>ParticleMap.js</title>
 
         <style>
-            html, body, .container {
+            *, *:before, *:after {
+                -moz-box-sizing: border-box; -webkit-box-sizing: border-box; box-sizing: border-box;
+            }
+
+            html, body {
                 height: 100%;
                 width: 100%;
-                background: #4A5768;
+                background: #343434;
+                color: white;
             }
 
-            canvas {
+            .container {
+                width: 90%;
+                max-width: 900px;
+                overflow: auto;
+                margin: 0 auto;
+                overflow: hidden;
+            }
+
+            header {
+                height: 90%;
+                min-height: 400px;
+                position: relative;
+                text-align: center;
+                margin: 75px 0;
+            }
+
+            header h1 {
+                margin: 0;
+                font-size: 3em;
+            }
+
+            header .header-map {
+                height: 75%;
+                min-height: 300px;
+                width: 100%;
+            }
+
+            header .header-map canvas {
+                height: 100%;
+                width: 100%;
+            }
+
+            header .point:after {
+                content: ' ';
+                width: 5px;
+                height: 5px;
+                border-radius: 99999px;
+                background-color: #69D2E7;
                 position: absolute;
-                margin: auto;
+                z-index: 1000;
                 top: 0;
-                bottom: 0;
                 left: 0;
-                right: 0;
             }
 
+            header .point:before {
+                content: ' ';
+                width: 20px;
+                height: 20px;
+                border-radius: 99999px;
+                background-color: #A7DBD8;
+                position: absolute;
+                z-index: 1000;
+                top: 0;
+                left: 0;
+            }
+
+            .row {
+                height: 300px;
+                background-color: #ddd;
+            }
+
+            .row .demo {
+                min-width: 300px;
+                width: 50%;
+                display: inline-block;
+                background-color: red;
+            }
+
+            .row .copy {
+                width: 50%;
+                display: inline-block;
+            }
         </style>
     </head>
 
     <body>
         <div class="container">
-            <canvas id="map"></canvas>
+            <header>
+                <div>
+                    <h1>ParticleMap.js</h1>
+                    <div>Construct delightful, particle-backed, maps with ease.</p>
+                </div>
+
+                <div class="header-map">
+                    <canvas id="world-map"></canvas>
+                </div>
+            </header>
+
+            <main>
+                <div class="row">
+                    ParticleMap.js is a simple, lightweight, depedency-free javascript library
+                    for generating point filled maps from GeoJSON files.
+
+                    Writes to canvas (it's fast) and has an easy to use API. Weighs in at less than
+                    XKB minified.
+                </div>
+
+                <div class="row">
+                    <div class="demo"><canvas></canvas></div>
+                    <div class="copy">
+                        Flexible API let's you do cool things like a fancy pulsing circle effect
+                        over your current city. Just like the movies!
+                    </div>
+                </div>
+
+                <div class="row">
+                    <div class="demo"><canvas id="germany-map"></canvas></div>
+                    <div class="copy">
+                        Or give a special shout out to a special country in your life.
+                        It's all super easy to do.
+                    </div>
+                </div>
+
+                <div class="row">
+                    <div class="demo"><canvas></canvas></div>
+                    <div class="copy">
+                        Reads and parses and valid GeoJSON file. Toss your backyard or a nation
+                        into it - you'll have particle delicousnes in no time.
+                    </div>
+                </div>
+            </main>
         </div>
 
+        <script type="text/javascript" src="particlemap.js"></script>
         <script type="text/javascript" src="main.js"></script>
     </body>
 </html>
