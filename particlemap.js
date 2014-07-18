@@ -11,16 +11,42 @@ var ParticleMap = function(geojson, options) {
     if (!this.options.drawOptions) {
         this.options.drawOptions = {
             arcSize: this.options.pixelResolution / 4,
-            color: '#dddddd',
+            color: '#ffffff',
             opacity: 1
         };
     }
 
     if (!this.options.foregroundColor) {
-        this.options.foregroundColor = '#333';
+        this.options.foregroundColor = '#333333';
     }
 
-    this.parse(geojson);
+    if (!this.options.backgroundColor) {
+        this.options.backgroundColor = '#eeeeee';
+    }
+
+    var tmpCanvas = this.options.canvas;
+    if (!tmpCanvas) tmpCanvas = {};
+
+    if (!this.options.width) {
+        this.options.width = tmpCanvas.width;
+    }
+
+    if (!this.options.height) {
+        this.options.height = tmpCanvas.height;
+    }
+
+    this.grid = [];
+    // Magic numbers to do geojson -> screen coords mapping
+    this._transformX = null;
+    this._transformXOffset = null;
+    this._transformY = null;
+    this._transformYOffset = null;
+    this._polygons = [];
+
+    if (this.options.autostart !== false) {
+        var data = this.parse(geojson);
+        this.drawMap(data);
+    }
 };
 
 ParticleMap.prototype = {
@@ -30,16 +56,6 @@ ParticleMap.prototype = {
         OUTSIDE: 2,
         EDGE: 3
     },
-
-    _grid: [], // an array of point objects, created in makeGrid
-
-    // Magic numbers to do geojson -> screen coords mapping
-    _transformX: null,
-    _transformXOffset: null,
-    _transformY: null,
-    _transformYOffset: null,
-
-    _polygons: [],
 
     _flatten: function(a, b) {
         return a.concat(b);
@@ -175,8 +191,6 @@ ParticleMap.prototype = {
 
         // Determine all the coordinates in file
         var coords = this.recursiveFindPolygonCoords(geojson);
-        console.log(coords);
-
         coords.forEach(getMaxMin, this);
 
         var data = {
@@ -192,8 +206,7 @@ ParticleMap.prototype = {
         };
 
         this._data = data;
-
-        this.drawMap(data);
+        return data;
     },
 
     /*
@@ -204,12 +217,12 @@ ParticleMap.prototype = {
         // Create the canvas
         var canvas;
 
-        if (this._canvas) {
-            canvas = this._canvas;
-        } else if (this.options.canvasEl) {
-            canvas = this.options.canvasEl;
-            this._canvas = canvas;
-        } else {
+        if (this.canvas) {
+            canvas = this.canvas;
+        } else if (this.options.canvas) {
+            canvas = this.options.canvas;
+            this.canvas = canvas;
+        } /* else {
             canvas = document.createElement('canvas');
 
             var width = document.body.scrollWidth;
@@ -221,33 +234,38 @@ ParticleMap.prototype = {
             canvas.height = height;
             canvas.width = width;
             document.body.appendChild(canvas);
-            this._canvas = canvas;
-        }
+            this.canvas = canvas;
+        } */
 
+        this.determineOffsets(data);
+
+        var context = canvas.getContext('2d');
+        context.clearRect(0, 0, this.options.width, this.options.height);
+
+        this.makeGrid();
+        this.drawGrid();
+    },
+
+    /* Creates the offsets and sets them on the ParticleGrid object - used later one
+     * @param {object} data Data object from parse that has min and max values in.
+     */
+    determineOffsets: function(data) {
         // Determine offsets:
-        this._transformX = Math.abs(canvas.width / (data.max.x - data.min.x));
-        this._transformY = Math.abs(canvas.height / (data.max.y - data.min.y));
+        this._transformX = Math.abs(this.options.width / (data.max.x - data.min.x));
+        this._transformY = Math.abs(this.options.height / (data.max.y - data.min.y));
 
         if (!this.options.stretch) {
             var diff = Math.abs(this._transformY - this._transformX);
             diff /= 2;
 
             if (this._transformY > this._transformX) {
-                this._transformYOffset = (this._canvas.height / this._transformY) * diff;
+                this._transformYOffset = (this.options.height / this._transformY) * diff;
                 this._transformY = this._transformX;
-                console.log('y offset', this._transformYOffset);
             } else {
-                this._transformXOffset = (this._canvas.width / this._transformX) * diff;
+                this._transformXOffset = (this.options.width / this._transformX) * diff;
                 this._transformX = this._transformY;
-                console.log('x offset', this._transformXOffset);
             }
         }
-
-        var context = canvas.getContext('2d');
-        context.clearRect(0, 0, canvas.width, canvas.height);
-
-        this.makeGrid();
-        this.drawGrid();
     },
 
     /* Converts from screen co-ordinates to map co-ordinates
@@ -294,37 +312,52 @@ ParticleMap.prototype = {
         return [x, y];
     },
 
+    /* Readies the grid for being drawn upon - creates and populates the grid array */
     makeGrid: function() {
-        this._grid = [];
+        this.grid = [];
 
-        var xiters = Math.ceil(this._canvas.height / this.options.pixelResolution);
-        var yiters = Math.ceil(this._canvas.width / this.options.pixelResolution);
-        var rowLen = Math.ceil(this._canvas.width / this.options.pixelResolution);
+        var xiters = Math.ceil(this.options.height / this.options.pixelResolution);
+        var yiters = Math.ceil(this.options.width / this.options.pixelResolution);
+        var rowLen = Math.ceil(this.options.width / this.options.pixelResolution);
 
         for (var i = 0; i < xiters; i++) {
             for (var j = 0; j < yiters; j++) {
                 var idx = (i * rowLen) + j;
-                this._grid[idx] = ParticleMap.prototype.pixelStatusEnum.NOTVISITED;
+                this.grid[idx] = ParticleMap.prototype.pixelStatusEnum.NOTVISITED;
             }
         }
     },
 
-    drawGrid: function() {
+    /* Determines what each point on the grid should be (inside, outside etc) */
+    determineGrid: function() {
         var idx, point;
 
-        for (idx = 0; idx < this._grid.length; idx++) {
-            point = this._grid[idx];
+        for (idx = 0; idx < this.grid.length; idx++) {
+            point = this.grid[idx];
             if (point == ParticleMap.prototype.pixelStatusEnum.NOTVISITED) {
                 var pointStatus = this.isPointInPolygon(idx);
-                this._grid[idx] = pointStatus;
+                this.grid[idx] = pointStatus;
             }
         }
+    },
 
-        for (idx = 0; idx < this._grid.length; idx++) {
-            point = this._grid[idx];
+    paintGrid: function() {
+        if (!this.canvas) {
+            throw 'ParticleMap.js: You attempted to paint the grid with no canvas element set!';
+        }
+
+        var idx, point;
+
+        for (idx = 0; idx < this.grid.length; idx++) {
+            point = this.grid[idx];
             var coords = this.gridIndexToScreenCoord(idx);
             this.drawPoint(coords, idx, point);
         }
+    },
+
+    drawGrid: function() {
+        this.determineGrid();
+        this.paintGrid();
     },
 
     drawPoint: function(coords, idx, status) {
@@ -336,19 +369,24 @@ ParticleMap.prototype = {
             drawOptions.color = this.options.foregroundColor;
         }
 
+        if (this.options.backgroundColor &&
+                status === ParticleMap.prototype.pixelStatusEnum.OUTSIDE) {
+            drawOptions.color = this.options.backgroundColor;
+        }
+
         if (this.options.drawPointFunc) {
-            // If it returns true, don't draw, client will take care of it
+            // If it returns true or false, don't draw, client will take care of it
             // If it returns an object, assume that is the drawOptions object, still draw
-            // If it returns  or null, still draw the object
-            var retVal = this.options.drawPointFunc(coords, idx, status, this._canvas);
+            // If it returns or null, still draw the object
+            var retVal = this.options.drawPointFunc(coords, idx, status, this.canvas);
             if (retVal === true || retVal === false) {
                 return;
             } else if (retVal && typeof retVal == 'object') {
-                drawOptions = this.mergeOptions(this.options.drawOptions, retVal);
+                drawOptions = this._mergeOptions(this.options.drawOptions, retVal);
             }
         }
 
-        this.drawCircle(coords, drawOptions, this._canvas);
+        this.drawCircle(coords, drawOptions, this.canvas);
     },
 
     drawCircle: function(coords, drawOptions, canvas) {
@@ -364,7 +402,7 @@ ParticleMap.prototype = {
     /*
     posToGridIndex: function(coord) {
         // FIXME
-        var rowLen = Math.ceil(this._canvas.width / this.options.pixelResolution);
+        var rowLen = Math.ceil(this.canvas.width / this.options.pixelResolution);
 
         var x = Math.floor(coord[0] / this.options.pixelResolution);
         var y = Math.floor(coord[1] / this.options.pixelResolution);
@@ -375,7 +413,7 @@ ParticleMap.prototype = {
 
     gridIndexToScreenCoord: function(idx) {
         // returns the coordinates to draw the item on the *screen*
-        var xlen = Math.ceil(this._canvas.width / this.options.pixelResolution);
+        var xlen = Math.ceil(this.options.width / this.options.pixelResolution);
 
         var x = idx % xlen;
         var y = Math.floor(idx / xlen);

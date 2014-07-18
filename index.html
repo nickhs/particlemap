@@ -2,6 +2,7 @@
     <head>
         <title>ParticleMap.js</title>
 
+        <meta name="viewport" content="width=device-width">
         <style>
             *, *:before, *:after {
                 -moz-box-sizing: border-box; -webkit-box-sizing: border-box; box-sizing: border-box;
@@ -10,16 +11,8 @@
             html, body {
                 height: 100%;
                 width: 100%;
-                background: #343434;
-                color: white;
-            }
-
-            .container {
-                width: 90%;
-                max-width: 900px;
-                overflow: auto;
-                margin: 0 auto;
-                overflow: hidden;
+                margin: 0;
+                padding: 0;
             }
 
             header {
@@ -27,16 +20,28 @@
                 min-height: 400px;
                 position: relative;
                 text-align: center;
-                margin: 75px 0;
+                margin-top: 75px;
             }
 
-            header h1 {
+            header .lead {
+                position: absolute;
+                z-index: 5;
+                width: 100%;
+                background: #fff;
+                opacity: 0.8;
+            }
+
+            header .lead h1 {
                 margin: 0;
                 font-size: 3em;
             }
 
+            header .lead p {
+                margin: 0;
+            }
+
             header .header-map {
-                height: 75%;
+                height: 100%;
                 min-height: 300px;
                 width: 100%;
             }
@@ -44,6 +49,23 @@
             header .header-map canvas {
                 height: 100%;
                 width: 100%;
+
+                transform: scale(0.1);
+                -webkit-transform: scale(0.1);
+                -moz-transform: scale(0.1);
+                -ms-transform: scale(0.1);
+
+                transition: all 1s ease-in-out;
+                -webkit-transition: all 1s ease-in-out;
+                -moz-transition: all 1s ease-in-out;
+                -ms-transition: all 1s ease-in-out;
+            }
+
+            header .header-map canvas.active {
+                transform: scale(1);
+                -webkit-transform: scale(1);
+                -moz-transform: scale(1);
+                -ms-transform: scale(1);
             }
 
             header .point:after {
@@ -71,20 +93,129 @@
             }
 
             .row {
-                height: 300px;
-                background-color: #ddd;
+                width: 90%;
+                max-width: 960px;
+                min-width: 300px;
+                margin: 0 auto;
+                margin-bottom: 60px;
+                position: relative;
+            }
+
+            .row.lead-copy {
+                font-size: 1.2em;
             }
 
             .row .demo {
-                min-width: 300px;
                 width: 50%;
+                height: 300px;
                 display: inline-block;
-                background-color: red;
+                padding: 0 20px;
+                min-width: 300px;
+                vertical-align: top;
+            }
+
+            .row .demo canvas {
+                width: 100%;
+                height: 100%;
             }
 
             .row .copy {
                 width: 50%;
                 display: inline-block;
+                min-width: 300px;
+            }
+
+            .like-a-g6, .like-a-g6 svg {
+                position: absolute;
+                left: 0;
+                top: 0;
+                z-index: 3;
+            }
+
+            .like-a-g6 svg {
+                fill: #454545;
+            }
+
+            #special-point {
+                width: 10px;
+                height: 10px;
+                border-radius: 99999px;
+                background: #9b59b6;
+            }
+
+            #special-point:after {
+                width: 120px;
+                height: 120px;
+                border-radius: 99999px;
+                background: #9b59b6;
+                left: -55px;
+                top: -55px;
+                content: '';
+                position: absolute;
+                border: 2px solid #333;
+
+                -webkit-animation: mission 3s infinite;
+            }
+
+            @-webkit-keyframes mission {
+                0% {
+                    opacity: 0;
+                    -webkit-transform: scale(0.1);
+                }
+
+                10% {
+                    opacity: 0.8;
+                    -webkit-transform: scale(0.1);
+                }
+
+                100% {
+                    opacity: 0;
+                    -webkit-transform: scale(1);
+                }
+            }
+
+            #loading {
+                font-size: 3em;
+                position: absolute;
+                left: 0;
+                right: 0;
+                bottom: 0;
+                top: 0;
+                margin: auto;
+                height: 0;
+                font-size: 1.5em;
+                color: #efefef;
+                font-weight: 600;
+                text-transform: uppercase;
+            }
+
+            .hidden {
+                display: none;
+            }
+
+            pre {
+                padding: 0 20px;
+                font-size: 0.8em;
+                color: black;
+                font-family: Consolas, Monaco, 'Andale Mono', monospace;
+                direction: ltr;
+                text-align: left;
+                white-space: pre;
+                word-spacing: normal;
+                word-break: normal;
+
+
+                -moz-tab-size: 4;
+                -o-tab-size: 4;
+                tab-size: 4;
+
+                -webkit-hyphens: none;
+                -moz-hyphens: none;
+                -ms-hyphens: none;
+                hyphens: none;
+
+	            background: #f5f2f0;
+                overflow: auto;
             }
         </style>
     </head>
@@ -92,49 +223,107 @@
     <body>
         <div class="container">
             <header>
-                <div>
+                <div class="lead">
                     <h1>ParticleMap.js</h1>
-                    <div>Construct delightful, particle-backed, maps with ease.</p>
+                    <p>Construct delightful, particle-backed, maps with ease.</p>
                 </div>
 
                 <div class="header-map">
                     <canvas id="world-map"></canvas>
+                    <div id="loading">
+                        One Sec Buddy
+                    </div>
                 </div>
             </header>
 
             <main>
-                <div class="row">
-                    ParticleMap.js is a simple, lightweight, depedency-free javascript library
-                    for generating point filled maps from GeoJSON files.
-
-                    Writes to canvas (it's fast) and has an easy to use API. Weighs in at less than
-                    XKB minified.
+                <div class="row lead-copy">
+                    ParticleMap.js is a JavaScript library for generating point filled maps from
+                    GeoJSON files.
+                    It is is simple, lightweight and completely dependency free.
+                    A conscientious citizen, it weighs in at less than 500 lines.
+                    Performant with HTML Canvas.
+                    Batteries included with a ton of customization.
                 </div>
 
                 <div class="row">
-                    <div class="demo"><canvas></canvas></div>
-                    <div class="copy">
-                        Flexible API let's you do cool things like a fancy pulsing circle effect
-                        over your current city. Just like the movies!
+                    <div class="demo custom-bg"><canvas id="point-map"></canvas></div><div class="copy">
+                        Do cool things like a fancy pulsing circle effect
+                        over a city. Just like the movies!
+
+                        <pre class=" language-javascript"><code>
+var map = new ParticleMap(data, {
+    canvas: canvas,
+    padding: 0,
+    stretch: false,
+    pixelResolution: 5,
+    drawPointFunc: function(coords, idx, status) {
+        if (status == ParticleMap.prototype.pixelStatusEnum.OUTSIDE)
+            return false;
+    },
+    foregroundColor: '#bababa'
+});
+
+var screenCoords = map.getScreenCoordFromMapCoord([lat, long]);
+flashyPoint.setPosition(screenCoords);
+                        </code></pre>
                     </div>
                 </div>
 
                 <div class="row">
-                    <div class="demo"><canvas id="germany-map"></canvas></div>
-                    <div class="copy">
-                        Or give a special shout out to a special country in your life.
+                    <div class="demo"><canvas id="germany-map"></canvas></div><div class="copy">
+                        Or give a shout-out to a special country in your life.
                         It's all super easy to do.
+
+                        <pre><code>
+new ParticleMap(data, {
+    canvas: canvas,
+    padding: 0,
+    stretch: false,
+    pixelResolution: 5,
+    drawPointFunc: function(coords, idx, status) {
+        var width = this.canvas.width;
+        if (status == ParticleMap.prototype.pixelStatusEnum.INSIDE) {
+            if (coords[0] <= width/3) return {color: '#000000'};
+            if (coords[0] > width/3 &amp;&amp; coords[0] <= (2*width) / 3) return {color: '#ff0000'};
+            if (coords[0] > (2 * width) / 3) return {color: '#ffff00'};
+        }
+    }
+});
+                     </code></pre>
                     </div>
                 </div>
 
                 <div class="row">
-                    <div class="demo"><canvas></canvas></div>
-                    <div class="copy">
-                        Reads and parses and valid GeoJSON file. Toss your backyard or a nation
-                        into it - you'll have particle delicousnes in no time.
+                    <div class="demo"><canvas id="michigan-map"></canvas></div><div class="copy">
+                        Reads and parses any valid GeoJSON file. Toss your backyard or a nation
+                        into it - you'll have particle delicousness in no time.
+                        <pre><code>
+var geojson_file = '/world.geo.json/countries/USA/MI.geo.json';
+fetchDoc(geojson_file, function(data) {
+    data = JSON.parse(data.target.response);
+    // grab da mitt
+    data.features[0].geometry.coordinates.splice(1, 3);
+
+    new ParticleMap(data, {
+        canvas: canvas,
+        padding: 0,
+        stretch: false,
+        pixelResolution: 5,
+        foregroundColor: '#00ff00',
+        backgroundColor: '#AFF1FA'
+    });
+});
+                    </code></pre>
                     </div>
                 </div>
             </main>
+        </div>
+
+        <div id="hidden-plane" class="like-a-g6" style="display: none;">
+            <svg width="512px" height="512px" style="-webkit-transform: translate(-256px, -256px) scale(0.1)">
+                <path d="M438.8,320.6c-3.6-3.1-147.2-107.2-147.2-107.2c-0.2-0.2-0.4-0.4-0.5-0.5c-5.5-5.6-5.2-10.4-5.6-18.8c0,0-0.9-69-2.2-92  S270,64,256,64c0,0,0,0,0,0s0,0,0,0c-14,0-25.9,15-27.2,38s-2.2,92-2.2,92c-0.4,8.4-0.1,13.2-5.6,18.8c-0.2,0.2-0.4,0.4-0.5,0.5  c0,0-143.5,104.1-147.2,107.2s-9.2,7.8-9.2,18.2c0,12.2,3.6,13.7,10.6,11.6c0,0,140.2-39.5,145.4-40.8s7.9,0.6,8.3,7.5  s0.8,46.4,0.9,51s-0.6,4.7-2.9,7.4l-32,40.8c-1.7,2-2.7,4.5-2.7,7.3c0,0,0,6.1,0,12.4s2.8,7.3,8.2,4.9s32.6-17.4,32.6-17.4  c0.7-0.3,4.6-1.9,6.4-1.9c4.2,0,8-0.1,8.8,6.2c1.3,11.4,4.9,20.3,8.5,20.3c0,0,0,0,0,0s0,0,0,0c3.6,0,7.2-8.9,8.5-20.3  c0.7-6.3,4.6-6.2,8.8-6.2c1.8,0,5.7,1.6,6.4,1.9c0,0,27.2,15,32.6,17.4s8.2,1.4,8.2-4.9s0-12.4,0-12.4c0-2.8-1-5.4-2.7-7.3l-32-40.8  c-2.3-2.7-2.9-2.9-2.9-7.4s0.5-44.1,0.9-51s3.1-8.8,8.3-7.5s145.4,40.8,145.4,40.8c7.1,2.1,10.6,0.6,10.6-11.6  C448,328.4,442.5,323.7,438.8,320.6z"/>
+            </svg>
         </div>
 
         <script type="text/javascript" src="particlemap.js"></script>
