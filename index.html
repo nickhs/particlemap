@@ -13,6 +13,7 @@
                 width: 100%;
                 margin: 0;
                 padding: 0;
+                font-family: sans-serif;
             }
 
             header {
@@ -101,8 +102,25 @@
                 position: relative;
             }
 
-            .row.lead-copy {
+            .row:after {
+                content: '';
+                width: 10%;
+                min-width: 100px;
+                height: 1px;
+                background: #ED5E97;
+                text-align: center;
+                display: block;
+                margin: 60px auto;
+            }
+
+            .row:last-of-type:after {
+                height: 0px;
+                margin: 0;
+            }
+
+            .row.lead-copy > p {
                 font-size: 1.2em;
+                margin: 0;
             }
 
             .row .demo {
@@ -110,7 +128,7 @@
                 height: 300px;
                 display: inline-block;
                 padding: 0 20px;
-                min-width: 300px;
+                min-width: 250px;
                 vertical-align: top;
             }
 
@@ -122,7 +140,7 @@
             .row .copy {
                 width: 50%;
                 display: inline-block;
-                min-width: 300px;
+                min-width: 250px;
             }
 
             .like-a-g6, .like-a-g6 svg {
@@ -154,7 +172,27 @@
                 position: absolute;
                 border: 2px solid #333;
 
+                animation: mission 3s infinite;
+                -moz-animation: mission 3s infinite;
                 -webkit-animation: mission 3s infinite;
+                -ms-animation: mission 3s infinite;
+            }
+
+            @keyframes mission {
+                0% {
+                    opacity: 0;
+                    transform: scale(0.1);
+                }
+
+                10% {
+                    opacity: 0.8;
+                    transform: scale(0.1);
+                }
+
+                100% {
+                    opacity: 0;
+                    transform: scale(1);
+                }
             }
 
             @-webkit-keyframes mission {
@@ -171,6 +209,23 @@
                 100% {
                     opacity: 0;
                     -webkit-transform: scale(1);
+                }
+            }
+
+            @-moz-keyframes mission {
+                0% {
+                    opacity: 0;
+                    transform: scale(0.1);
+                }
+
+                10% {
+                    opacity: 0.8;
+                    transform: scale(0.1);
+                }
+
+                100% {
+                    opacity: 0;
+                    transform: scale(1);
                 }
             }
 
@@ -217,6 +272,73 @@
 	            background: #f5f2f0;
                 overflow: auto;
             }
+
+            .cta-buttons > a {
+                display: inline-block;
+                padding: 15px 40px;
+                margin: 10px;
+                text-decoration: none;
+                border-radius: 3px;
+                width: 220px;
+                color: #333;
+                border: 1px solid #ED5E97;
+                text-transform: uppercase;
+                position: relative;
+                letter-spacing: 1px;
+                color: #ED5E97;
+                font-size: 16px;
+
+                transition: all .2s ease-in-out;
+                -webkit-transition: all .2s ease-in-out;
+                -moz-transition: all .2s ease-in-out;
+                -ms-transition: all .2s ease-in-out;
+            }
+
+            .cta-buttons > a:hover {
+                background: #ED5E97;
+                color: white;
+            }
+
+            .cta-buttons > a:first-of-type {
+                margin-right: 0px;
+                right: -3px;
+                border-top-right-radius: 0;
+                border-bottom-right-radius: 0;
+            }
+
+            .cta-buttons > a:last-of-type {
+                margin-left: 0px;
+                left: -2px;
+                border-top-left-radius: 0;
+                border-bottom-left-radius: 0;
+            }
+
+            .cta-buttons {
+                width: 100%;
+                text-align: center;
+                margin-top: 40px;
+                margin-bottom: 40px;
+            }
+
+            @media (max-width: 440px) {
+                .cta-buttons > a {
+                    position: static;
+                    display: block;
+                    width: 100%;
+                    margin-left: 0;
+                    margin-right: 0;
+                }
+            }
+
+            @media (max-width: 500px) {
+                .row .copy {
+                    width: 100%;
+                }
+
+                .row .demo {
+                    width: 100%;
+                }
+            }
         </style>
     </head>
 
@@ -238,12 +360,19 @@
 
             <main>
                 <div class="row lead-copy">
+                    <p>
                     ParticleMap.js is a JavaScript library for generating point filled maps from
                     GeoJSON files.
                     It is is simple, lightweight and completely dependency free.
                     A conscientious citizen, it weighs in at less than 500 lines.
                     Performant with HTML Canvas.
                     Batteries included with a ton of customization.
+                    </p>
+
+                    <div class="cta-buttons">
+                        <a href="#" class="donwload">Download</a>
+                        <a href="#" class="download">Docs</a>
+                    </div>
                 </div>
 
                 <div class="row">
@@ -317,11 +446,17 @@ fetchDoc(geojson_file, function(data) {
                     </code></pre>
                     </div>
                 </div>
+                <div class="row">
+                    <div class="cta-buttons">
+                        <a href="#" class="donwload">Download</a>
+                        <a href="#" class="download">Docs</a>
+                    </div>
+                </div>
             </main>
         </div>
 
         <div id="hidden-plane" class="like-a-g6" style="display: none;">
-            <svg width="512px" height="512px" style="-webkit-transform: translate(-256px, -256px) scale(0.1)">
+            <svg width="512px" height="512px">
                 <path d="M438.8,320.6c-3.6-3.1-147.2-107.2-147.2-107.2c-0.2-0.2-0.4-0.4-0.5-0.5c-5.5-5.6-5.2-10.4-5.6-18.8c0,0-0.9-69-2.2-92  S270,64,256,64c0,0,0,0,0,0s0,0,0,0c-14,0-25.9,15-27.2,38s-2.2,92-2.2,92c-0.4,8.4-0.1,13.2-5.6,18.8c-0.2,0.2-0.4,0.4-0.5,0.5  c0,0-143.5,104.1-147.2,107.2s-9.2,7.8-9.2,18.2c0,12.2,3.6,13.7,10.6,11.6c0,0,140.2-39.5,145.4-40.8s7.9,0.6,8.3,7.5  s0.8,46.4,0.9,51s-0.6,4.7-2.9,7.4l-32,40.8c-1.7,2-2.7,4.5-2.7,7.3c0,0,0,6.1,0,12.4s2.8,7.3,8.2,4.9s32.6-17.4,32.6-17.4  c0.7-0.3,4.6-1.9,6.4-1.9c4.2,0,8-0.1,8.8,6.2c1.3,11.4,4.9,20.3,8.5,20.3c0,0,0,0,0,0s0,0,0,0c3.6,0,7.2-8.9,8.5-20.3  c0.7-6.3,4.6-6.2,8.8-6.2c1.8,0,5.7,1.6,6.4,1.9c0,0,27.2,15,32.6,17.4s8.2,1.4,8.2-4.9s0-12.4,0-12.4c0-2.8-1-5.4-2.7-7.3l-32-40.8  c-2.3-2.7-2.9-2.9-2.9-7.4s0.5-44.1,0.9-51s3.1-8.8,8.3-7.5s145.4,40.8,145.4,40.8c7.1,2.1,10.6,0.6,10.6-11.6  C448,328.4,442.5,323.7,438.8,320.6z"/>
             </svg>
         </div>

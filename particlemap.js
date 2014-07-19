@@ -24,15 +24,17 @@ var ParticleMap = function(geojson, options) {
         this.options.backgroundColor = '#eeeeee';
     }
 
-    var tmpCanvas = this.options.canvas;
-    if (!tmpCanvas) tmpCanvas = {};
-
-    if (!this.options.width) {
-        this.options.width = tmpCanvas.width;
+    var canvas = this.canvas = this.options.canvas;
+    if (canvas && !this.options.width) {
+        this.options.width = canvas.width;
     }
 
-    if (!this.options.height) {
-        this.options.height = tmpCanvas.height;
+    if (canvas && !this.options.height) {
+        this.options.height = canvas.height;
+    }
+
+    if (canvas) {
+        this.setCanvasRatio(canvas);
     }
 
     this.grid = [];
@@ -458,5 +460,32 @@ ParticleMap.prototype = {
         if (inPoint) return ParticleMap.prototype.pixelStatusEnum.INSIDE;
         else return ParticleMap.prototype.pixelStatusEnum.OUTSIDE;
     },
+
+    setCanvasRatio: function(canvas) {
+        var context = canvas.getContext('2d');
+        var devicePixelRatio = window.devicePixelRatio || 1;
+        var backingStoreRatio = context.webkitBackingStorePixelRatio ||
+                            context.mozBackingStorePixelRatio ||
+                            context.msBackingStorePixelRatio ||
+                            context.oBackingStorePixelRatio ||
+                            context.backingStorePixelRatio || 1;
+
+        var ratio = devicePixelRatio / backingStoreRatio;
+
+        if (devicePixelRatio !== backingStoreRatio) {
+            var oldWidth = canvas.width;
+            var oldHeight = canvas.height;
+
+            canvas.width = oldWidth * ratio;
+            canvas.height = oldHeight * ratio;
+
+            canvas.style.width = oldWidth + 'px';
+            canvas.style.height = oldHeight + 'px';
+
+            context.scale(ratio, ratio);
+        }
+
+        return canvas;
+    }
 };
 

@@ -38,7 +38,14 @@ var setTransform = function(element, params) {
 
 function Plane(id, map) {
     var plane = document.getElementById('hidden-plane');
+
     this.el = plane.cloneNode(true);
+    var planeScale = window.innerWidth * 0.000065;
+    setTransform(this.el.querySelector('svg'), {
+        translate: [-256, -256],
+        scale: planeScale
+    });
+
     this.el.style.removeProperty('display');
     this.el.classList.remove('hidden-plane');
     this.el.classList.add('plane');
@@ -182,7 +189,7 @@ function createWorldMap() {
             padding: 0,
             stretch: false,
             pixelResolution: 5,
-            foregroundColor: '#ED5E97',
+            foregroundColor: '#DF5C90',
             // drawPointFunc: drawPointFunc,
             autostart: false
         };
@@ -197,7 +204,7 @@ function createWorldMap() {
             for (var key in result) {
                 hugeHack[key] = result[key];
             }
-
+            canvas = hugeHack.setCanvasRatio(canvas);
             hugeHack.canvas = canvas;
             hugeHack.options.drawPointFunc = drawPointFunc;
             hugeHack.paintGrid();
@@ -269,7 +276,8 @@ function createGermanyMap() {
                     if (coords[0] > width/3 && coords[0] <= (2*width) / 3) return {color: '#ff0000'};
                     if (coords[0] > (2 * width) / 3) return {color: '#ffff00'};
                 }
-            }
+            },
+            backgroundColor: '#ffffff'
         });
     });
 }
@@ -290,8 +298,8 @@ function createMichiganMap() {
             padding: 0,
             stretch: false,
             pixelResolution: 5,
-            foregroundColor: '#00ff00',
-            backgroundColor: '#AFF1FA'
+            foregroundColor: '#7faf1b',
+            backgroundColor: '#ebf2f7'
         });
     });
 }
