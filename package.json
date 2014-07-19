@@ -1,0 +1,22 @@
+{
+  "name": "particlemap.js",
+  "version": "0.0.0",
+  "description": "All the cool kids have particle maps - shouldn't you?",
+  "main": "particlemap.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/nickhs/particlemap.git"
+  },
+  "author": "Nick HS (nickhs@umich.edu)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/nickhs/particlemap/issues"
+  },
+  "homepage": "https://github.com/nickhs/particlemap",
+  "devDependencies": {
+    "uglify-js": "^2.4.15"
+  }
+}

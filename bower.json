@@ -1,0 +1,11 @@
+{
+  "name": "ParticleMap.js",
+  "main": "particlemap.js",
+  "version": "0.0.1",
+  "homepage": "https://github.com/nickhs/particlemap",
+  "authors": [
+    "Nick HS <nickhs@umich.edu>"
+  ],
+  "description": "Easily create canvas-backed particle maps",
+  "license": "MIT"
+}
