@@ -1,4 +1,4 @@
- # ParticleMap.js
+# ParticleMap.js
 
 All the cool kids have particle maps - shouldn't you?
 Demo up at:
